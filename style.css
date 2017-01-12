@@ -721,7 +721,7 @@ h5,
   margin: 0;
   top: 0;
   left: 1em;
-  background: black url('/static/img/crown.svg') center center / 100% no-repeat;
+  background: black url('crown.svg') center center / 100% no-repeat;
   padding: 0 0 .5em 0;
   position: absolute;
   z-index: 1000;
