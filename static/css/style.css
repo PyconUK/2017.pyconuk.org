@@ -134,26 +134,58 @@ a:hover {
     border-color: transparent black transparent transparent;
   }
 }
-nav {
-  background: black;
-  padding-left: 8em;
+@media all and (min-width: 560px) {
+  nav {
+    background: black;
+    padding-left: 8em;
+    margin-top: 0;
+    position: static;
+    top: auto;
+  }
 }
 nav ul {
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  width: 100%;
   display: none;
+  margin: 5.2em 0.8em 0 0.8em;
+  padding: 0 0 1em 0;
+  overflow: hidden;
+  width: auto;
 }
 @media all and (min-width: 560px) {
   nav ul {
     display: table;
+    margin: 0;
+    padding: 0;
+    width: 100%;
   }
+}
+nav #toggle {
+  display: block;
+  position: absolute;
+  top: 2.3em;
+  right: 2em;
+}
+nav #toggle:before {
+  content: 'Menu';
+}
+@media all and (min-width: 560px) {
+  nav #toggle {
+    display: none;
+  }
+}
+nav #menu-toggle {
+  display: none;
+}
+nav #menu-toggle:checked > label:before {
+  content: 'Close';
+}
+nav #menu-toggle:checked + ul {
+  display: block;
 }
 nav li {
   position: relative;
   padding: 0;
   margin: 0;
+  border-top: 1px solid black;
 }
 @media all and (min-width: 560px) {
   nav li {
@@ -162,7 +194,7 @@ nav li {
     width: 25%;
     list-style: none;
     text-align: center;
-    border-top: 1px solid black;
+    border-top: none;
   }
 }
 @media all and (min-width: 828px) {
@@ -178,27 +210,44 @@ nav li:before {
   top: 0;
   left: 0;
   bottom: 0;
-  border-left: 1px solid black;
+}
+@media all and (min-width: 560px) {
+  nav li:before {
+    border-left: 1px solid black;
+  }
+}
+nav li:first-child {
+  border-top: none;
 }
 nav li:last-child a {
   background: white;
   color: black;
+}
+nav li:last-child a:hover {
+  color: white;
+  background: #0071bc;
+  text-decoration: none;
 }
 nav a {
   display: block;
   text-align: center;
   padding: 0.5em 0;
   text-decoration: none;
-  background: black;
+  background: white;
   font-weight: normal;
   font-size: 0.8em;
-  color: white;
+  color: black;
   text-transform: uppercase;
 }
+@media all and (min-width: 560px) {
+  nav a {
+    background: black;
+    color: white;
+  }
+}
 nav a:hover {
-  color: black;
-  background-size: 100% 100%;
-  animation: rainbow 1s ease infinite;
+  color: white;
+  background: #0071bc;
   text-decoration: none;
 }
 .jumbotron {
