@@ -5,6 +5,7 @@
 @edge: black;
 @blue: #0071bc;
 @link: @blue;
+@diff: pink;
 ////////////////////////////////////////////////////////////////////////////////
 // fonts
 .font-brand() {
@@ -22,6 +23,7 @@ body {
   padding: 0;
   background: @back;
   color: @text;
+  border-top: 16px solid @edge;
   border-right: 16px solid @edge;
   border-left: 16px solid @edge;
   border-bottom: 16px solid @edge;
@@ -63,6 +65,96 @@ a {
 }
 
 ////////////////////////////////////////////////////////////////////////////////
+// the pycon logo ribbon
+.head {
+  .font-brand();
+  font-weight: normal;
+  h1 {
+    background: black;
+    width: 4em;
+    height: 1.5em;
+    margin: 0;
+    top: 0.5em;
+    left: 0;
+    border: 0.25em solid black;
+    background: black url('../img/crown.svg') top left / 30% no-repeat;
+    padding: 0 0 0 0.5em;
+    position: absolute;
+    z-index: 1000;
+    @media all and (min-width: 560px) {
+      top: 0;
+      left: 1em;
+      width: 3em;
+      height: 2.5em;
+      background: black url('../img/crown.svg') center center / 100% no-repeat;
+      padding: 0 0 .5em 0;
+      border: none;
+    }
+    a {
+      text-decoration: none;
+      position: relative;
+      z-index: 10;
+    }
+    span {
+      display: block;
+      white-space: nowrap;
+      font-size: 0.7em;
+      font-weight: normal;
+      line-height: 2em;
+      position: relative;
+      color: white;
+      text-decoration: none;
+      text-align: left;
+      text-indent: 1.5em;
+      z-index: 5;
+      @media all and (min-width: 560px) {
+        padding-top: 6em;
+        font-size: 0.5em;
+        text-indent: 0;
+        text-align: center;
+        line-height: 1;
+      }
+    }
+    &:before,
+    &:after {
+      display: block;
+      content: '';
+      position: absolute;
+      bottom: 0;
+      margin-bottom: -2em;
+      border-style: solid;
+      z-index: 0;
+    }
+    &:before {
+      margin: -0.25em -2em 0 0;
+      right: 0;
+      top: 0;
+      border-width: 2em 2em 0 0;
+      border-color: black transparent transparent transparent;
+      @media all and (min-width: 560px) {
+        left: 0;
+        top: auto;
+        margin: 0 0 -2em 0;
+        border-width: 2em 3em 0 0;
+        border-color: black transparent transparent transparent;
+      }
+    }
+    &:after {
+      right: 0;
+      margin: 0 -2em -0.25em 0;
+      border-width: 0 2em 2em 0;
+      border-color: transparent transparent black transparent;
+      @media all and (min-width: 560px) {
+        right: 0;
+        margin: 0 0 -2em 0;
+        border-width: 0 3em 2em 0;
+        border-color: transparent black transparent transparent;
+      }
+    }
+  }
+}
+
+////////////////////////////////////////////////////////////////////////////////
 // nav
 nav {
   background: @edge;
@@ -71,14 +163,16 @@ nav {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    display: table;
     width: 100%;
+    display: none;
+    @media all and (min-width: 560px) {
+      display: table;
+    }
   }
   li {
     position: relative;
     padding: 0;
     margin: 0;
-    display: none;
     @media all and (min-width: 560px) {
       display: block;
       float: left;
@@ -87,7 +181,7 @@ nav {
       text-align: center;
       border-top: 1px solid black;
     }
-    @media all and (min-width: 734px) {
+    @media all and (min-width: 828px) {
       display: table-cell;
       width: 100/8%;
     }
@@ -125,163 +219,137 @@ nav {
 }
 
 ////////////////////////////////////////////////////////////////////////////////
-// the pycon logo ribbon
-.head {
-  .font-brand();
-  font-weight: normal;
-  h1 {
-    background: black;
-    width: 3em;
-    height: 2.5em;
-    margin: 0;
-    top: 0;
-    left: 1em;
-    background: black url('../img/crown.svg') center center / 100% no-repeat;
-    padding: 0 0 .5em 0;
-    position: absolute;
-    z-index: 1000;
-    a {
-      text-decoration: none;
-      position: relative;
-      z-index: 10;
-    }
-    span {
-      display: block;
-      font-size: 0.5em;
-      font-weight: normal;
-      padding-top: 6em;
-      position: relative;
-      color: white;
-      text-decoration: none;
-      text-align: center;
-      z-index: 5;
-    }
-    &:before,
-    &:after {
-      display: block;
-      content: '';
-      position: absolute;
-      bottom: 0;
-      margin-bottom: -2em;
-      border-style: solid;
-      z-index: 0;
-    }
-    &:before {
-      left: 0;
-      border-width: 2em 3em 0 0;
-      border-color: black transparent transparent transparent;
-    }
-    &:after {
-      right: 0;
-      border-width: 0 3em 2em 0;
-      border-color: transparent black transparent transparent;
-    }
-  }
-}
-
-////////////////////////////////////////////////////////////////////////////////
 // jumbotron
 .jumbotron {
-  display: block;
   overflow: hidden;
   border-bottom: 16px solid @edge;
-  position: relative;
-  // background: radial-gradient( circle, #ff2400, #e81d1d, #e8b71d, #e3e81d, #1de840, #1ddde8, #2b1de8, #dd00f3, #dd00f3);
-  // background-size: 100% 100%;
-  // animation: rainbow 1s infinite;
-  // background: linear-gradient(to bottom, #38a3d1 0%,#90dffe 100%);
-  background: yellow;
-  background: linear-gradient(to bottom, #6190E8 0%, #A7BFE8 100%);
-  background-attachment: fixed;
-}
-
-.flying-python {
-  position: absolute;
-  bottom: 0;
-  left: 50%;
-  width: 5%;
-  stroke: white;
-  animation: myOrbit 18s linear infinite;
-  z-index: 1;
-}
-
-@keyframes myOrbit {
-  from {
-    transform: rotate(0deg) translateX(400px) rotate(90deg);
+  padding: 3em 1em 0 1em;
+  background: @diff;
+  background: linear-gradient(to bottom, #82addb 0%, #ebb2b1 100%);
+  transition: 0.3s ease;
+  @media all and (min-width: 672px) {
+    padding-top: 6em;
+    .callout {
+      max-width: 600px;
+      margin: 0 auto;
+    }
   }
-  to {
-    transform: rotate(-360deg) translateX(400px) rotate(90deg);
+  h1 {
+    line-height: 1;
+    text-transform: none;
+    br {
+      display: none;
+      @media all and (min-width: 560px) {
+        display: inline;
+      }
+    }
   }
-}
-
-.bg-img {
-  z-index: 5;
-  position: absolute;
-  bottom: 0;
-}
-
-.callout {
-  display: block;
-  margin: 6em 2em 30% 0;
-  line-height: 1.2;
-  z-index: 20;
-  h1,
-  h4 {
-    // display: inline;
-    margin: 0 0 0 2em;
-    background: white;
-    box-shadow: 10px 0 0 white, -10px 0 0 white;
-  }
-  h4 {
-    line-height: 2;
-  }
-  a {
+  .cta {
     .font-brand();
-    display: inline-block;
+    display: block;
+    text-align: center;
     border: 0.3em solid black;
     font-size: 1.3em;
     padding: 0.75em 1em;
-    margin: 1em -10px 0 0;
+    margin: 1em 0 0 0;
     background: white;
     text-decoration: none;
     text-transform: uppercase;
     color: black;
     font-weight: bold;
     &:hover {
-      background-size: 100% 100%;
-      animation: rainbow 3s ease infinite;
+      background: @edge;
+      color: @back;
+    }
+    @media all and (min-width:560px) {
+      display: inline-block;
+    }
+  }
+  .image-holder {
+    margin: 0 -1em;
+    position: relative;
+    pointer-events: none;
+  }
+  .bg-img {
+    z-index: 100;
+    position: relative;
+  }
+  .flying-python {
+    opacity: 0;
+    position: absolute;
+    width: 20%;
+    top: 50%;
+    left: 40%;
+    transition: all 0.3s ease;
+  }
+  .pyconuk {
+    position: absolute;
+    overflow: hidden;
+    bottom: 3em;
+    right: 1em;
+    top: auto;
+    font-size: 0.25em;
+    @media all and (min-width: 560px) {
+      font-size: 0.55em;
+      bottom: 5em;
+    }
+    @media all and (min-width:660px) {
+      font-size: 0.65em;
+      bottom: 3em;
+    }
+    @media all and (min-width:720px) {
+      font-size: 0.75em;
+      bottom: 3em;
+    }
+    @media all and (min-width:875px) {
+      font-size: 0.9em;
+      bottom: 3em;
+    }
+    @media all and (min-width:1000px) {
+      font-size: 1em;
+      bottom: 5em;
+    }
+    @media all and (min-width:1200px) {
+      font-size: 1.2em;
+      bottom: 3em;
+    }
+    @media all and (min-width:1500px) {
+      font-size: 1.4em;
+      bottom: 5em;
     }
   }
 }
 
+.jumbotron.hover {
+  background: linear-gradient(124deg, #ff2400, #e81d1d, #e8b71d, #e3e81d, #1de840, #1ddde8, #2b1de8, #dd00f3, #dd00f3);
+  background-size: 300% 300%;
+  animation: rainbow 2s infinite;
+  transition: 0.1s ease;
+  .flying-python {
+    opacity: 1;
+    pointer-events: none;
+    animation: myOrbit 4s linear infinite;
+  }
+}
+
+@keyframes myOrbit {
+  from {
+    transform: rotate(0deg) translateX(275%) rotate(90deg);
+  }
+  to {
+    transform: rotate(-360deg) translateX(275%) rotate(90deg);
+  }
+}
+
 @keyframes rainbow {
-  0%,
+  0% {
+    background-position: 0% 0%
+  }
+  50% {
+    background-position: 82% 82%
+  }
   100% {
-    background: #e81d1d;
-  }
-  11% {
-    background: #e8b71d;
-  }
-  22% {
-    background: #e3e81d;
-  }
-  33% {
-    background: #1de840;
-  }
-  44% {
-    background: #1ddde8;
-  }
-  55% {
-    background: #2b1de8;
-  }
-  66% {
-    background: #dd00f3;
-  }
-  77% {
-    background: #dd00f3;
-  }
-  88% {
-    background: #ff2400;
+    background-position: 0% 0%
   }
 }
 
@@ -295,8 +363,18 @@ nav {
 
 .content {
   max-width: 900px;
-  padding: 1em;
+  padding: 0 1em;
   margin: 1em auto;
+  font-size: 0.8em;
+  ul {
+    padding-left: 1em;
+    li + li {
+      padding-top: 0.25em;
+    }
+  }
+  @media all and (min-width:560px) {
+    font-size: 1em;
+  }
 }
 
 ////////////////////////////////////////////////////////////////////////////////
@@ -330,6 +408,10 @@ table {
   border-collapse: collapse;
   border-bottom: 1px solid @edge;
   width: 100%;
+  font-size: 0.8em;
+  @media all and (min-width: 900px) {
+    font-size: 1em;
+  }
   th {
     display: none;
   }
@@ -382,7 +464,7 @@ table {
     .section {
       vertical-align: middle;
       text-align: center;
-      background: #ff0;
+      background: @diff;
       font-size: 1.2em;
     }
     .empty-cell {
@@ -442,7 +524,6 @@ table {
 
 ////////////////////////////////////////////////////////////////////////////////
 // python
-
 .pyconuk {
   position: absolute;
   right: 0;
@@ -491,12 +572,15 @@ table {
 
 .python {
   margin: 7em 1em;
-  display: inline-block;
-  position: relative;
+  display: block;
+  position: absolute;
   width: 7em;
   height: 20em;
-  z-index:1;
-  &:before, &:after {
+  z-index: 1;
+  pointer-events: all;
+  transition: top 0.3s ease;
+  &:before,
+  &:after {
     content: ' ';
     display: block;
     position: absolute;
@@ -515,22 +599,49 @@ table {
     width: 3em;
   }
   &.blue {
-    &:before, &:after {
+    top: 4.5em;
+    left: 3em;
+    &:before,
+    &:after {
       background: #0071bc;
     }
-    .eye { animation: blink 1.9s infinite; }
-  }
-  &.red {
-    &:before, &:after {
-      background: #ed1c24;
+    .eye {
+      animation: blink 1.9s infinite;
     }
-    .eye { animation: blink 2.4s infinite; }
+    &:hover {
+      top: 8em;
+      transition: top 0.15s ease;
+    }
   }
   &.yellow {
-    &:before, &:after {
+    top: 0em;
+    left: 45%;
+    &:before,
+    &:after {
       background: #ffcc00;
     }
-    .eye { animation: blink 2s infinite; }
+    .eye {
+      animation: blink 2s infinite;
+    }
+    &:hover {
+      top: 6em;
+      transition: top 0.15s ease;
+    }
+  }
+  &.red {
+    top: 5em;
+    right: 0;
+    &:before,
+    &:after {
+      background: #ed1c24;
+    }
+    .eye {
+      animation: blink 2.4s infinite;
+    }
+    &:hover {
+      top: 10em;
+      transition: top 0.15s ease;
+    }
   }
   &.right {
     transform: rotateY(180deg);
@@ -560,8 +671,8 @@ table {
 }
 
 .moustache {
-
-  &:before, &:after {
+  &:before,
+  &:after {
     content: '';
     position: absolute;
     display: block;
@@ -575,8 +686,7 @@ table {
   }
   &:after {
     transform: rotatez(180deg) scale(0.8);
-    margin-left:-1.3em;
-
+    margin-left: -1.3em;
   }
 }
 
@@ -601,19 +711,20 @@ table {
   height: 3.5em;
   z-index: 100;
   margin-left: 3em;
-  margin-top:-2.8em;
-  border-radius:4em 4em 0 0;
+  margin-top: -2.8em;
+  border-radius: 4em 4em 0 0;
   transform: rotateZ(15deg);
-  &:before, &:after {
+  &:before,
+  &:after {
     position: absolute;
     content: '';
     display: block;
     margin-top: 2em;
     margin-left: -1em;
-    width:7em;
-    height:0.5em;
-    border:solid 0.5em black;
-    border-color:black transparent transparent transparent;
+    width: 7em;
+    height: 0.5em;
+    border: solid 0.5em black;
+    border-color: black transparent transparent transparent;
     border-radius: 6em 8em 0 0;
     transform: rotateX(180deg);
   }
@@ -641,7 +752,7 @@ table {
     width: 1.7em;
     height: 1.7em;
     border: 0.4em solid black;
-    border-color: black  transparent transparent black;
+    border-color: black transparent transparent black;
     z-index: 500;
     border-radius: 100%;
     z-index: -100 !important;
@@ -655,10 +766,10 @@ table {
     display: block;
     margin-top: 0em;
     margin-left: 1.7em;
-    width:3.5em;
-    height:1em;
-    border:solid 0.35em black;
-    border-color:black transparent transparent transparent;
+    width: 3.5em;
+    height: 1em;
+    border: solid 0.35em black;
+    border-color: black transparent transparent transparent;
     border-radius: 0 8em 0 0;
   }
 }
@@ -669,6 +780,7 @@ table {
   height: 6em;
   z-index: 20;
   margin: -5.8em 0 0 2.4em;
+  margin: -15.8em 0 0 5.4em;
   transform: rotateZ(15deg) rotateY(180deg);
   background-size: 100% auto;
 }

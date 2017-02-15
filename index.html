@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -21,14 +22,18 @@
       <li><a href="/">Venue</a></li>
       <li><a href="/">Conduct</a></li>
       <li><a href="/">Contact</a></li>
-      <li><a href="/">Tickets</a></li>
+      <li><a class="cta" href="/">Tickets</a></li>
   </nav>
   <header class="head noprint">
     <h1><a href="/"><span>PYCON UK</span></a></h1>
   </header>
   <div class="jumbotron">
+    <div class="callout">
+      <h1>PyCon UK is your community-led <br />volunteer-run conference</h1>
+      <h4>Thursday 26th to Monday 30th October 2017<br />Cardiff City Hall</h4>
+      <a class="cta" href="#">Register now</a>
+    </div>
     <div class="image-holder">
-
       <img src="static/img/city_hall.png" class="bg-img">
       <img src="static/img/python.svg" class="flying-python 1" />
       <div class="pyconuk">
@@ -49,11 +54,6 @@
           </div>
         </div>
       </div>
-    </div>
-    <div class="callout">
-      <h1>PyCon UK is your community-led<br />volunteer-run conference</h1>
-      <h4>Thursday 26th to Monday 30th October 2017<br />Cardiff City Hall</h4>
-      <a href="#">Register now</a>
     </div>
   </div>
   <article class="main-article">
@@ -1157,28 +1157,16 @@ try {
   });
 } catch (e) {}
 </script>
-<!-- <script
+<script
   src="https://code.jquery.com/jquery-3.1.1.slim.min.js"
   integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc="
   crossorigin="anonymous"></script>
 <script>
-$cell.find('.image--basic').click(function() {
-  var $thisCell = $(this).closest('.image__cell');
-
-  if ($thisCell.hasClass('is-collapsed')) {
-    $cell.not($thisCell).removeClass('is-expanded').addClass('is-collapsed');
-    $thisCell.removeClass('is-collapsed').addClass('is-expanded');
-  } else {
-    $thisCell.removeClass('is-expanded').addClass('is-collapsed');
-  }
-});
-
-$cell.find('.expand__close').click(function(){
-
-  var $thisCell = $(this).closest('.image__cell');
-
-  $thisCell.removeClass('is-expanded').addClass('is-collapsed');
-});
-</script> -->
-
+  $('.cta').mouseenter(function() {
+    $('.jumbotron').addClass('hover');
+  });
+  $('.cta').mouseleave(function() {
+    $('.jumbotron').removeClass('hover');
+  })
+</script>
 </html>

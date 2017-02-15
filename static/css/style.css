@@ -3,6 +3,7 @@ body {
   padding: 0;
   background: white;
   color: black;
+  border-top: 16px solid black;
   border-right: 16px solid black;
   border-left: 16px solid black;
   border-bottom: 16px solid black;
@@ -38,6 +39,101 @@ a {
 a:hover {
   text-decoration: underline;
 }
+.head {
+  font-family: 'futura-pt';
+  font-weight: normal;
+}
+.head h1 {
+  background: black;
+  width: 4em;
+  height: 1.5em;
+  margin: 0;
+  top: 0.5em;
+  left: 0;
+  border: 0.25em solid black;
+  background: black url('../img/crown.svg') top left / 30% no-repeat;
+  padding: 0 0 0 0.5em;
+  position: absolute;
+  z-index: 1000;
+}
+@media all and (min-width: 560px) {
+  .head h1 {
+    top: 0;
+    left: 1em;
+    width: 3em;
+    height: 2.5em;
+    background: black url('../img/crown.svg') center center / 100% no-repeat;
+    padding: 0 0 .5em 0;
+    border: none;
+  }
+}
+.head h1 a {
+  text-decoration: none;
+  position: relative;
+  z-index: 10;
+}
+.head h1 span {
+  display: block;
+  white-space: nowrap;
+  font-size: 0.7em;
+  font-weight: normal;
+  line-height: 2em;
+  position: relative;
+  color: white;
+  text-decoration: none;
+  text-align: left;
+  text-indent: 1.5em;
+  z-index: 5;
+}
+@media all and (min-width: 560px) {
+  .head h1 span {
+    padding-top: 6em;
+    font-size: 0.5em;
+    text-indent: 0;
+    text-align: center;
+    line-height: 1;
+  }
+}
+.head h1:before,
+.head h1:after {
+  display: block;
+  content: '';
+  position: absolute;
+  bottom: 0;
+  margin-bottom: -2em;
+  border-style: solid;
+  z-index: 0;
+}
+.head h1:before {
+  margin: -0.25em -2em 0 0;
+  right: 0;
+  top: 0;
+  border-width: 2em 2em 0 0;
+  border-color: black transparent transparent transparent;
+}
+@media all and (min-width: 560px) {
+  .head h1:before {
+    left: 0;
+    top: auto;
+    margin: 0 0 -2em 0;
+    border-width: 2em 3em 0 0;
+    border-color: black transparent transparent transparent;
+  }
+}
+.head h1:after {
+  right: 0;
+  margin: 0 -2em -0.25em 0;
+  border-width: 0 2em 2em 0;
+  border-color: transparent transparent black transparent;
+}
+@media all and (min-width: 560px) {
+  .head h1:after {
+    right: 0;
+    margin: 0 0 -2em 0;
+    border-width: 0 3em 2em 0;
+    border-color: transparent black transparent transparent;
+  }
+}
 nav {
   background: black;
   padding-left: 8em;
@@ -46,14 +142,18 @@ nav ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  display: table;
   width: 100%;
+  display: none;
+}
+@media all and (min-width: 560px) {
+  nav ul {
+    display: table;
+  }
 }
 nav li {
   position: relative;
   padding: 0;
   margin: 0;
-  display: none;
 }
 @media all and (min-width: 560px) {
   nav li {
@@ -65,7 +165,7 @@ nav li {
     border-top: 1px solid black;
   }
 }
-@media all and (min-width: 734px) {
+@media all and (min-width: 828px) {
   nav li {
     display: table-cell;
     width: 12.5%;
@@ -101,149 +201,153 @@ nav a:hover {
   animation: rainbow 1s ease infinite;
   text-decoration: none;
 }
-.head {
-  font-family: 'futura-pt';
-  font-weight: normal;
-}
-.head h1 {
-  background: black;
-  width: 3em;
-  height: 2.5em;
-  margin: 0;
-  top: 0;
-  left: 1em;
-  background: black url('../img/crown.svg') center center / 100% no-repeat;
-  padding: 0 0 .5em 0;
-  position: absolute;
-  z-index: 1000;
-}
-.head h1 a {
-  text-decoration: none;
-  position: relative;
-  z-index: 10;
-}
-.head h1 span {
-  display: block;
-  font-size: 0.5em;
-  font-weight: normal;
-  padding-top: 6em;
-  position: relative;
-  color: white;
-  text-decoration: none;
-  text-align: center;
-  z-index: 5;
-}
-.head h1:before,
-.head h1:after {
-  display: block;
-  content: '';
-  position: absolute;
-  bottom: 0;
-  margin-bottom: -2em;
-  border-style: solid;
-  z-index: 0;
-}
-.head h1:before {
-  left: 0;
-  border-width: 2em 3em 0 0;
-  border-color: black transparent transparent transparent;
-}
-.head h1:after {
-  right: 0;
-  border-width: 0 3em 2em 0;
-  border-color: transparent black transparent transparent;
-}
 .jumbotron {
-  display: block;
   overflow: hidden;
   border-bottom: 16px solid black;
-  position: relative;
-  background: yellow;
-  background: linear-gradient(to bottom, #6190E8 0%, #A7BFE8 100%);
-  background-attachment: fixed;
+  padding: 3em 1em 0 1em;
+  background: pink;
+  background: linear-gradient(to bottom, #82addb 0%, #ebb2b1 100%);
+  transition: 0.3s ease;
 }
-.flying-python {
-  position: absolute;
-  bottom: 0;
-  left: 50%;
-  width: 5%;
-  stroke: white;
-  animation: myOrbit 18s linear infinite;
-  z-index: 1;
-}
-@keyframes myOrbit {
-  from {
-    transform: rotate(0deg) translateX(400px) rotate(90deg);
+@media all and (min-width: 672px) {
+  .jumbotron {
+    padding-top: 6em;
   }
-  to {
-    transform: rotate(-360deg) translateX(400px) rotate(90deg);
+  .jumbotron .callout {
+    max-width: 600px;
+    margin: 0 auto;
   }
 }
-.bg-img {
-  z-index: 5;
-  position: absolute;
-  bottom: 0;
+.jumbotron h1 {
+  line-height: 1;
+  text-transform: none;
 }
-.callout {
-  display: block;
-  margin: 6em 2em 30% 0;
-  line-height: 1.2;
-  z-index: 20;
+.jumbotron h1 br {
+  display: none;
 }
-.callout h1,
-.callout h4 {
-  margin: 0 0 0 2em;
-  background: white;
-  box-shadow: 10px 0 0 white, -10px 0 0 white;
+@media all and (min-width: 560px) {
+  .jumbotron h1 br {
+    display: inline;
+  }
 }
-.callout h4 {
-  line-height: 2;
-}
-.callout a {
+.jumbotron .cta {
   font-family: 'futura-pt';
-  display: inline-block;
+  display: block;
+  text-align: center;
   border: 0.3em solid black;
   font-size: 1.3em;
   padding: 0.75em 1em;
-  margin: 1em -10px 0 0;
+  margin: 1em 0 0 0;
   background: white;
   text-decoration: none;
   text-transform: uppercase;
   color: black;
   font-weight: bold;
 }
-.callout a:hover {
-  background-size: 100% 100%;
-  animation: rainbow 3s ease infinite;
+.jumbotron .cta:hover {
+  background: black;
+  color: white;
+}
+@media all and (min-width: 560px) {
+  .jumbotron .cta {
+    display: inline-block;
+  }
+}
+.jumbotron .image-holder {
+  margin: 0 -1em;
+  position: relative;
+  pointer-events: none;
+}
+.jumbotron .bg-img {
+  z-index: 100;
+  position: relative;
+}
+.jumbotron .flying-python {
+  opacity: 0;
+  position: absolute;
+  width: 20%;
+  top: 50%;
+  left: 40%;
+  transition: all 0.3s ease;
+}
+.jumbotron .pyconuk {
+  position: absolute;
+  overflow: hidden;
+  bottom: 3em;
+  right: 1em;
+  top: auto;
+  font-size: 0.25em;
+}
+@media all and (min-width: 560px) {
+  .jumbotron .pyconuk {
+    font-size: 0.55em;
+    bottom: 5em;
+  }
+}
+@media all and (min-width: 660px) {
+  .jumbotron .pyconuk {
+    font-size: 0.65em;
+    bottom: 3em;
+  }
+}
+@media all and (min-width: 720px) {
+  .jumbotron .pyconuk {
+    font-size: 0.75em;
+    bottom: 3em;
+  }
+}
+@media all and (min-width: 875px) {
+  .jumbotron .pyconuk {
+    font-size: 0.9em;
+    bottom: 3em;
+  }
+}
+@media all and (min-width: 1000px) {
+  .jumbotron .pyconuk {
+    font-size: 1em;
+    bottom: 5em;
+  }
+}
+@media all and (min-width: 1200px) {
+  .jumbotron .pyconuk {
+    font-size: 1.2em;
+    bottom: 3em;
+  }
+}
+@media all and (min-width: 1500px) {
+  .jumbotron .pyconuk {
+    font-size: 1.4em;
+    bottom: 5em;
+  }
+}
+.jumbotron.hover {
+  background: linear-gradient(124deg, #ff2400, #e81d1d, #e8b71d, #e3e81d, #1de840, #1ddde8, #2b1de8, #dd00f3, #dd00f3);
+  background-size: 300% 300%;
+  animation: rainbow 2s infinite;
+  transition: 0.1s ease;
+}
+.jumbotron.hover .flying-python {
+  opacity: 1;
+  pointer-events: none;
+  animation: myOrbit 4s linear infinite;
+}
+@keyframes myOrbit {
+  from {
+    transform: rotate(0deg) translateX(275%) rotate(90deg);
+  }
+  to {
+    transform: rotate(-360deg) translateX(275%) rotate(90deg);
+  }
 }
 @keyframes rainbow {
-  0%,
+  0% {
+    background-position: 0% 0%;
+  }
+  50% {
+    background-position: 82% 82%;
+  }
   100% {
-    background: #e81d1d;
-  }
-  11% {
-    background: #e8b71d;
-  }
-  22% {
-    background: #e3e81d;
-  }
-  33% {
-    background: #1de840;
-  }
-  44% {
-    background: #1ddde8;
-  }
-  55% {
-    background: #2b1de8;
-  }
-  66% {
-    background: #dd00f3;
-  }
-  77% {
-    background: #dd00f3;
-  }
-  88% {
-    background: #ff2400;
+    background-position: 0% 0%;
   }
 }
 .main-article + .main-article {
@@ -251,8 +355,20 @@ nav a:hover {
 }
 .content {
   max-width: 900px;
-  padding: 1em;
+  padding: 0 1em;
   margin: 1em auto;
+  font-size: 0.8em;
+}
+.content ul {
+  padding-left: 1em;
+}
+.content ul li + li {
+  padding-top: 0.25em;
+}
+@media all and (min-width: 560px) {
+  .content {
+    font-size: 1em;
+  }
 }
 .pageBreak {
   border-top: 16px solid black;
@@ -276,6 +392,12 @@ table {
   border-collapse: collapse;
   border-bottom: 1px solid black;
   width: 100%;
+  font-size: 0.8em;
+}
+@media all and (min-width: 900px) {
+  table {
+    font-size: 1em;
+  }
 }
 table th {
   display: none;
@@ -329,7 +451,7 @@ table .empty-cell {
   table .section {
     vertical-align: middle;
     text-align: center;
-    background: #ff0;
+    background: pink;
     font-size: 1.2em;
   }
   table .empty-cell {
@@ -425,11 +547,13 @@ table .empty-cell {
 }
 .python {
   margin: 7em 1em;
-  display: inline-block;
-  position: relative;
+  display: block;
+  position: absolute;
   width: 7em;
   height: 20em;
   z-index: 1;
+  pointer-events: all;
+  transition: top 0.3s ease;
 }
 .python:before,
 .python:after {
@@ -450,12 +574,39 @@ table .empty-cell {
   bottom: 0;
   width: 3em;
 }
+.python.blue {
+  top: 4.5em;
+  left: 3em;
+}
 .python.blue:before,
 .python.blue:after {
   background: #0071bc;
 }
 .python.blue .eye {
   animation: blink 1.9s infinite;
+}
+.python.blue:hover {
+  top: 8em;
+  transition: top 0.15s ease;
+}
+.python.yellow {
+  top: 0em;
+  left: 45%;
+}
+.python.yellow:before,
+.python.yellow:after {
+  background: #ffcc00;
+}
+.python.yellow .eye {
+  animation: blink 2s infinite;
+}
+.python.yellow:hover {
+  top: 6em;
+  transition: top 0.15s ease;
+}
+.python.red {
+  top: 5em;
+  right: 0;
 }
 .python.red:before,
 .python.red:after {
@@ -464,12 +615,9 @@ table .empty-cell {
 .python.red .eye {
   animation: blink 2.4s infinite;
 }
-.python.yellow:before,
-.python.yellow:after {
-  background: #ffcc00;
-}
-.python.yellow .eye {
-  animation: blink 2s infinite;
+.python.red:hover {
+  top: 10em;
+  transition: top 0.15s ease;
 }
 .python.right {
   transform: rotateY(180deg);
@@ -572,7 +720,7 @@ table .empty-cell {
   width: 1.7em;
   height: 1.7em;
   border: 0.4em solid black;
-  border-color: black  transparent transparent black;
+  border-color: black transparent transparent black;
   z-index: 500;
   border-radius: 100%;
   z-index: -100 !important;
@@ -598,6 +746,7 @@ table .empty-cell {
   height: 6em;
   z-index: 20;
   margin: -5.8em 0 0 2.4em;
+  margin: -15.8em 0 0 5.4em;
   transform: rotateZ(15deg) rotateY(180deg);
   background-size: 100% auto;
 }
