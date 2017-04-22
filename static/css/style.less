@@ -81,7 +81,7 @@ h1 {
 
 h1,
 h2,
-h3,DSWDASDWW
+h3,
 h4,
 h5,
 h6 {
@@ -295,6 +295,37 @@ nav {
       background: @link;
       text-decoration: none;
     }
+  }
+}
+
+////////////////////////////////////////////////////////////////////////////////
+// header
+.header {
+  overflow: hidden;
+  border-bottom: 16px solid #000;
+  .callout {
+    margin: 0 auto;
+    padding: 2em;
+    text-align: center;
+    color: white;
+    @media all and (max-width: 720px) {
+      padding-top: 6em;
+    }
+    @media all and (max-width:560px) {
+      padding-top: 4em;
+    }
+  }
+  &.black {
+    background: black;
+  }
+  &.blue {
+    background: #0071bc;
+  }
+  &.yellow {
+    background: #ffcc00;
+  }
+  &.red {
+    background: #ed1c24;
   }
 }
 
