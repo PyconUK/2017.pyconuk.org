@@ -30,13 +30,12 @@
  * © 2017 MyFonts Inc
 */
 
-
-/* @import must be at top of file, otherwise CSS will not work */
 @import url("//hello.myfonts.net/count/330d5e");
-
-
-@font-face {font-family: 'FuturaBT-Medium';src: url('../fonts/330D5E_0_0.eot');src: url('../fonts/330D5E_0_0.eot?#iefix') format('embedded-opentype'),url('../fonts/330D5E_0_0.woff2') format('woff2'),url('../fonts/330D5E_0_0.woff') format('woff'),url('../fonts/330D5E_0_0.ttf') format('truetype');}
-
+@font-face {
+  font-family: 'FuturaBT-Medium';
+  src: url('../fonts/330D5E_0_0.eot');
+  src: url('../fonts/330D5E_0_0.eot?#iefix') format('embedded-opentype'), url('../fonts/330D5E_0_0.woff2') format('woff2'), url('../fonts/330D5E_0_0.woff') format('woff'), url('../fonts/330D5E_0_0.ttf') format('truetype');
+}
 
 .font-brand() {
   font-family: 'FuturaBT-Medium';
@@ -82,7 +81,7 @@ h1 {
 
 h1,
 h2,
-h3,
+h3,DSWDASDWW
 h4,
 h5,
 h6 {
@@ -191,9 +190,7 @@ a {
 
 ////////////////////////////////////////////////////////////////////////////////
 // nav
-
 nav {
-
   @media all and (min-width: 560px) {
     background: @edge;
     padding-left: 8em;
@@ -207,7 +204,6 @@ nav {
     padding: 0 0 1em 0;
     overflow: hidden;
     width: auto;
-
     @media all and (min-width: 560px) {
       display: table;
       margin: 0;
@@ -260,7 +256,7 @@ nav {
       top: 0;
       left: 0;
       bottom: 0;
-      @media all and (min-width:560px) {
+      @media all and (min-width: 560px) {
         border-left: 1px solid @edge;
       }
     }
@@ -287,9 +283,12 @@ nav {
     font-size: 0.8em;
     color: @text;
     text-transform: uppercase;
-    @media all and (min-width:560px) {
+    @media all and (min-width: 560px) {
       background: @edge;
       color: @back;
+    }
+    @media all and (min-width:960px) {
+      font-size: 1em;
     }
     &:hover {
       color: @back;
@@ -308,12 +307,16 @@ nav {
   background: @diff;
   background: linear-gradient(to bottom, #82addb 0%, #ebb2b1 100%);
   transition: 0.3s ease;
+  max-height: 600px;
   @media all and (min-width: 672px) {
     padding-top: 6em;
     .callout {
       max-width: 600px;
       margin: 0 auto;
     }
+  }
+  @media all and (min-width: 913px) {
+    padding-top: 2em;
   }
   h1 {
     line-height: 1;
@@ -354,6 +357,8 @@ nav {
   .bg-img {
     z-index: 100;
     position: relative;
+    max-width: 900px;
+    margin: 0 auto;
   }
   .flying-python {
     opacity: 0;
@@ -388,7 +393,7 @@ nav {
     }
     @media all and (min-width:1000px) {
       font-size: 1em;
-      bottom: 5em;
+      bottom: 1em;
     }
     @media all and (min-width:1200px) {
       font-size: 1.2em;
@@ -396,7 +401,7 @@ nav {
     }
     @media all and (min-width:1500px) {
       font-size: 1.4em;
-      bottom: 5em;
+      bottom: -2em;
     }
   }
 }
