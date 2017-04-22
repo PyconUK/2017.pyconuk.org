@@ -548,6 +548,12 @@ table {
     display: block;
     color: lighten(@text, 50%);
   }
+  .room {
+    display: block;
+    @media all and (min-width:720px) {
+      display: none;
+    }
+  }
   .empty-cell {
     display: none;
   }
