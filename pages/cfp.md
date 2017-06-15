@@ -43,7 +43,7 @@ give you the chance to present your work in a relaxed one-on-one setting.
 
 What else would you like to see at PyCon UK?
 
-Perhaps you'd like to run a [key-sigining party](https://en.wikipedia.org/wiki/Key_signing_party),
+Perhaps you'd like to run a [key-signing party](https://en.wikipedia.org/wiki/Key_signing_party),
 offer job interview practice,
 or give a performance of your latest algorithmically-generated musical composition.
 
