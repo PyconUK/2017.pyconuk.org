@@ -3,7 +3,8 @@ template: index.html
 ---
 
 PyCon UK is the annual gathering of the UK Python community and its friends from around the world.
-This year, the conference is in Cardiff, from Thursday 26th to Monday 30th October.
+This year, we return to [Cardiff City Hall](http://www.cardiffcityhall.com/),
+from Thursday 26th to Monday 30th October.
 
 Tickets go on sale on June 25th, and we'll also open the Call for Participation then.
 

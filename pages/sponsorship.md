@@ -6,7 +6,7 @@ promote your products,
 and meet Python developers who are looking for work.
 
 We couldn't run the conference without the generous support of our sponsors.
-In return, we will ensure that our your company is given exposure before, during, and after the conference,
+In return, we will ensure that your company is given exposure before, during, and after the conference,
 and we will work with you so that you get exactly you're looking for out of sponsoring the conference.
 
 
@@ -14,7 +14,7 @@ and we will work with you so that you get exactly you're looking for out of spon
 
 We offer free tickets to all sponsors.
 
-We will promote sponsors before the conference through social media and in the UK Python News newsletter.
+We will promote sponsors before the conference through social media and in the [UK Python News](http://uk.python.org/) newsletter.
 In addition, your logo will be placed on the conference website and on signs around the conference venue,
 and you will be able to advertise in the conference booklet.
 
