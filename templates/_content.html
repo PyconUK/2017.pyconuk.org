@@ -1,0 +1,14 @@
+{% load markdown_deux_tags %}
+
+<div class="content">
+  <div class="column_content">
+    <div class="textblock">
+      {% if content_format == 'md' %}
+      {{ content|markdown }}
+      {% else %}
+      {{ content|safe }}
+      {% endif %}
+    </div>
+    <hr />
+  </div>
+</div>
