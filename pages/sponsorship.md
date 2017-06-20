@@ -2,7 +2,7 @@ title: Sponsorship
 ---
 
 Sponsoring PyCon UK is a great way for your company to support the Python community,
-promote your products,
+promote your products to over seven hundred delegates,
 and meet Python developers who are looking for work.
 
 We couldn't run the conference without the generous support of our sponsors.
