@@ -6,7 +6,7 @@ PyCon UK is the annual gathering of the UK Python community and its friends from
 This year, we return to [Cardiff City Hall](http://www.cardiffcityhall.com/),
 from Thursday 26th to Monday 30th October.
 
-Tickets go on sale on June 25th, and we'll also open the Call for Participation then.
+Tickets go on sale on July 2nd, and we'll also open the Call for Participation then.
 
 In the meantime, you can [read about what our attendees got up to last year](http://2016.pyconuk.org/news/20160920-impressions/),
 and you should sign up to our mailing list to get monthly news from the UK Python community.

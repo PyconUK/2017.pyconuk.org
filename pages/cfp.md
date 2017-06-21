@@ -1,7 +1,7 @@
 title: Call for Participation
 ---
 
-The Call for Participation opens on June 25th, and will close on August 10th.
+The Call for Participation opens on July 2nd, and will close on August 10th.
 
 ***
 
