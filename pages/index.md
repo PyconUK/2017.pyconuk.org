@@ -6,10 +6,19 @@ PyCon UK is the annual gathering of the UK Python community and its friends from
 This year, we return to [Cardiff City Hall](http://www.cardiffcityhall.com/),
 from Thursday 26th to Monday 30th October.
 
-Tickets go on sale on July 2nd, and we'll also open the Call for Participation then.
+At 0900 BST on July 3rd, [tickets will go on sale](/tickets/),
+we'll start taking submissions for the [Call for Participation](/cfp/),
+and we'll open applications for [financial assistance](/financial-assistance/).
 
-In the meantime, you can [read about what our attendees got up to last year](http://2016.pyconuk.org/news/20160920-impressions/),
-and you should sign up to our mailing list to get monthly news from the UK Python community.
+We're delighted that the [Education Track](/education/) returns,
+in partnership with the Raspberry Pi Foundation,
+and we look forward to welcoming teachers and children to the conference.
+
+It's very important to us that all members of the community feel welcome and
+comfortable at the conference.  [Read about our approach to diversity,
+accessibilty, and inclusion](/diversity-accessibility-inclusion/).
+
+We've got many more announcements to make over the coming weeks, so you should sign up to our mailing list.
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
