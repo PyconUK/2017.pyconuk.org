@@ -2,8 +2,6 @@ title: Tickets
 ---
 Tickets are available for between one and five days of the conference.
 
-[Buy your ticket now!](https://hq.pyconuk.org/tickets/orders/new/)
-
 If you are paying for your own ticket, you should pay at the Individual rate.
 If your company is paying for your ticket, you should pay at the Corporate rate.
 
