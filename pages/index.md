@@ -6,9 +6,9 @@ PyCon UK is the annual gathering of the UK Python community and its friends from
 This year, we return to [Cardiff City Hall](http://www.cardiffcityhall.com/),
 from Thursday 26th to Monday 30th October.
 
-At 0900 BST on July 3rd, [tickets will go on sale](/tickets/),
-we'll start taking submissions for the [Call for Participation](/cfp/),
-and we'll open applications for [financial assistance](/financial-assistance/).
+[Tickets are now on sale](/tickets/),
+we're taking submissions for the [Call for Participation](/cfp/),
+and applications are open for [financial assistance](/financial-assistance/).
 
 We're delighted that the [Education Track](/education/) returns,
 in partnership with the Raspberry Pi Foundation,
