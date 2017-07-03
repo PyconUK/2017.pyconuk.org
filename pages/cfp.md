@@ -1,13 +1,13 @@
 title: Call for Participation
 ---
 
-The Call for Participation opens on July 2nd, and will close on August 10th.
+The [Call for Participation](https://hq.pyconuk.org/cfp/proposals/new/) is now open and will close on August 10th.
 
 ***
 
 ## What are we looking for?
 
-When the CFP opens, we'll be looking for proposals for talks, workshops, posters, and other events.
+We are looking for proposals for talks, workshops, posters, and other events.
 
 To get an idea of the kind of topics we're interested in,
 take a look at [last year's programme](http://2016.pyconuk.org/programme/).
@@ -70,3 +70,4 @@ as well as free and discounted tickets.
 They'll be allocated by the committee.
 *Any speaker who needs help will receive it.*
 Financial assistance applications close when the CFP closes.
+
