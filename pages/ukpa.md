@@ -97,3 +97,13 @@ Again, this should have no effect at all on the volunteers who dedicate their
 time and effort to making the conference the wonderful event we know it to be.
 Possibly, in the future, they may have to claim any personal expenses from the UKPA rather than the CLG, but that will be a matter for the trustees elected
 at this year's event.
+
+* What does being a member of the UKPA entail?
+
+To be a member of the UKPA, you simply need to agree to abide by its
+consitution. In particular, you should be aware of Section 9.3, 'Duty
+of Members' which states:
+
+> It is the duty of each member of the UKPA to exercise his or her powers
+> as a member of the UKPA in the way that he or she decides in good faith
+> would be most likely to further the purposes of the UKPA.
