@@ -52,7 +52,7 @@ At the 2017 conference, we will hold the final AGM of the PyCon UK Society and
 the first of the UK Python Association. We'll close the original society and elect the trustees of the UKPA.
 
 Anyone attending the 2017 conference is entitled to membership of both
-organisations and thus entitled to vote at the AGMs.
+organisations and thus entitled to vote at the AGMs. Membership will expire after 12 months or at the 2018 conference - whichever is sooner.
 
 The three initial trustees have handled the formation and registration of the
 UKPA but will all resign at the first AGM where we will elect up to six
