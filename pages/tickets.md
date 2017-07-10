@@ -2,6 +2,9 @@ title: Tickets
 ---
 Tickets are available for between one and five days of the conference.
 
+The first four days of the conference will be include talks and workshops,
+while the fifth will be a day of sprints.
+
 [Buy your ticket now!](https://hq.pyconuk.org/tickets/orders/new/)
 
 If you are paying for your own ticket, you should pay at the Individual rate.
