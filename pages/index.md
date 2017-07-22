@@ -17,6 +17,9 @@ We're delighted that the [Education Track](/education/) returns,
 in partnership with the Raspberry Pi Foundation,
 and we look forward to welcoming teachers and children to the conference.
 
+We're also working with [PyData London](http://london.pydata.org/) to put on a
+[track of talks and workshops aimed at data scientists](/pydata/).
+
 It's very important to us that all members of the community feel welcome and
 comfortable at the conference.  [Read about our approach to diversity,
 accessibilty, and inclusion](/diversity-accessibility-inclusion/).
