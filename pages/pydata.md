@@ -18,7 +18,7 @@ We are looking for speakers who wish to share their experiences of using Python 
 The time allocated for each talk is 25 minutes. If you are happy to receive any questions from the audience (this is not compulsory), then please allow time for these.
     
 ## Previous PyData talks
-If anyone would like to see examples of the sorts of talks that have been presented at PyData conferences in UK the in the past, these can be seen on the [PyData YouTube channel](https://www.youtube.com/user/PyDataTV).
+If anyone would like to see examples of the sorts of talks that have been presented at PyData conferences in the UK in the past, these can be seen on the [PyData YouTube channel](https://www.youtube.com/user/PyDataTV).
     
 ## Community Spirit
 Both PyCon UK and PyData are thriving communities that want to help people to learn and develop their tech skills. We welcome talks from all backgrounds and all abilities, across both academia and industry. Even if this your first talk at a tech conference, you will be given a warm welcome, with many people happy to provide any assistance or guidance that you require.
