@@ -60,8 +60,7 @@ trustees to manage the organisation from that point onwards. The constitution
 specifies that two of those trustees must retire at each subsequent AGM but may
 then put themselves forward for re-election.
 
-We'll announce the precise date and time of the AGMs in the next few weeks and 
-we'll also open the process for nominating potential trustees for election.
+If you wish to stand for election as a trustee of the UKPA, please read the [Trustee Guidelines](/ukpa/trustees/) for further details.
 
 ### The Future
 
