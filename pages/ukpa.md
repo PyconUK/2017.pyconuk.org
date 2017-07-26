@@ -1,7 +1,7 @@
 title: The UK Python Association
 ---
 
-The UK Python Association (UKPA) is a Charity registered in England and Wales  and is an affiliated organisation of the [Python Software Foundation](https://www.python.org/psf/). It was created in 2017 and its aims are:
+The UK Python Association (UKPA) is a Charity registered in England and Wales. It was created in 2017 and its aims are:
 
 > To advance education for the public benefit in the use and understanding of the Python programming language within the UK by organising, presenting and promoting Python related conferences, meetings and events at venues in the UK
 
