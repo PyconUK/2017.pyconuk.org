@@ -106,3 +106,33 @@ of Members' which states:
 > It is the duty of each member of the UKPA to exercise his or her powers
 > as a member of the UKPA in the way that he or she decides in good faith
 > would be most likely to further the purposes of the UKPA.
+
+* I can't make it to this year's conference. Can I still me a member?
+
+Unfortunately, no, you cannot.
+
+The founding trustees of the UKPA believe that the organisation should be led by an
+elected body as soon as possible and, as a result, have kept to a minimum the decisions
+taken before this year's conference. The principles that have applied to those decisions
+are:
+
+	1) We should attempt to make only those decisions necessary to form the
+	organisation and register it with the Charity Commission,
+
+	2) Where possible, we should try to reproduce the constitution of the
+	PyCon UK Society,
+
+	3) We should hold an AGM and elect a board of trustee as soon as
+	practicably possible, and,
+
+	4) We should defer to the elected trustees as many decisions beyond
+	registration as we possibly can.
+
+As such, we have chosen to emulate the membership criteria of the PyCon
+UK Society which was that anyone attending the conference was entitled
+to annual membership. Whilst it's perfectly possible (and highly likely)
+that we will extend that definition in the future, the founding trustees
+feel that is a decision that should be taken by an elected board.
+
+The topic of membership will be raised early in the life of the new board
+of trustees once it's elected at this year's conference.
