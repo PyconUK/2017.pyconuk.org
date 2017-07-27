@@ -107,7 +107,7 @@ of Members' which states:
 > as a member of the UKPA in the way that he or she decides in good faith
 > would be most likely to further the purposes of the UKPA.
 
-* I can't make it to this year's conference. Can I still me a member?
+* I can't make it to this year's conference. Can I still be a member?
 
 Unfortunately, no, you cannot.
 
