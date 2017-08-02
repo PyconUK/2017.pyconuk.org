@@ -14,6 +14,9 @@ take a look at [last year's programme](http://2016.pyconuk.org/programme/).
 However, we're always open to new ideas.
 The more varied the programme, the better!
 
+We're particularly interested in talks for data scientists attending the [PyData track](http://2017.pyconuk.org/pydata/),
+and talks for teachers attending the [Education track](http://2017.pyconuk.org/education/).
+
 ### Talks
 
 Do you have something to share with the community?
