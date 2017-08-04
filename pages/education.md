@@ -26,7 +26,7 @@ PyCon UK on Thursday and Friday, and continues as educators are welcomed into a
 community of passionate Python practitioners. Picademy is free to attend, but
 places are limited. [Apply now](https://docs.google.com/forms/d/e/1FAIpQLSfSjics2BeFPfDToYsnhVxGNhMNHf4YFaDhuiqspwHHQ14QYA/viewform)!
 
-**[Code Club](https://www.codeclub.org.uk/)**: the ever popular PyConUK Code
+**[Code Club](https://www.codeclub.org.uk/)**: the ever popular PyCon UK Code
 Club, for kids aged under 13, is running on Saturday. Led by Code Club champions
 and volunteers, we'll be running activities for young coders' using Python to
 create games and more. There will also be a special session on programming
@@ -62,7 +62,7 @@ children do not require a ticket. A free picnic lunch will be provided for both
 kids and parents.
 
 If you have been granted a place on the Picademy course, you will not need a
-PyConUK ticket unless you are also planning to attend on Saturday.
+PyCon UK ticket unless you are also planning to attend on Saturday.
 
 ### What does the PyCon UK education track feel like?
 
