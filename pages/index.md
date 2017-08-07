@@ -13,6 +13,9 @@ while the fifth will be a day of sprints.
 we're taking submissions for the [Call for Participation](/cfp/),
 and applications are open for [financial assistance](/financial-assistance/).
 
+Applications are also open for the [Django Girls](/django-girls/) workshop to
+be held on the Thursday of the conference.
+
 We're delighted that the [Education Track](/education/) returns,
 in partnership with the Raspberry Pi Foundation,
 and we look forward to welcoming teachers and children to the conference.
