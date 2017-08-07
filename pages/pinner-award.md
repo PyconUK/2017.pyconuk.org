@@ -24,7 +24,7 @@ the personification of a Pythonista who gave time, code and effort back to the
 community. He was a role model, mentor and teacher who is sorely missed by
 many.
 
-With the blessing of the Pinner family, the UKPA instigating an award to
+With the blessing of the Pinner family, the UKPA is initiating the award to
 honour and remember John's extraordinary contribution to our community.
 
 <h2>How?</h2>
