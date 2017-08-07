@@ -8,7 +8,7 @@ from django.shortcuts import get_object_or_404, render
 from django.utils.six.moves.urllib.parse import unquote
 from django.views import static
 
-from .models import NewsItem, Page
+from .models import Page
 
 
 def page(request, key='index'):
@@ -21,37 +21,6 @@ def page(request, key='index'):
         'content': page.content,
         'content_format': page.content_format,
         'title': page.title,
-    }
-
-    return render(request, template, context)
-
-
-def news_items(request):
-    news_items = NewsItem.objects.order_by('-date')
-
-    template = 'news_items.html'
-
-    context = {
-        'news_items': news_items,
-        'title': 'News',
-    }
-
-    return render(request, template, context)
-
-
-def news_item(request, year, month, day, slug):
-    date = datetime.date(int(year), int(month), int(day))
-    news_item = get_object_or_404(NewsItem, slug=slug, date=date)
-
-    assert news_item.content_format in ['html', 'md'], 'NewsItem content must use HTML or Markdown'
-
-    template = 'news_item.html'
-
-    context = {
-        'content': news_item.content,
-        'content_format': news_item.content_format,
-        'title': news_item.title,
-        'date': news_item.date,
     }
 
     return render(request, template, context)
