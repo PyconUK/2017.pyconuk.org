@@ -14,6 +14,9 @@ We welcome pull requests for improvements! (Please see CONTRIBUTING.rst_ for det
 Development
 ~~~~~~~~~~~
 
+Using Python
+************
+
 This site uses django-amber_. To install django-amber and other dependencies, run ``pip install -r requirements.txt``.  django-amber is only known to work with Python 3.5+.
 
 You must also install `less <https://www.npmjs.com/package/less>`_, and ensure that `lessc` is available in your PATH. The version of lessc packaged in Ubuntu 16.04 is not sufficient (it's probably too old)
@@ -27,6 +30,21 @@ django-amber builds the site by assembling several components:
 To build the site, run ``python manage.py buildsite``. This pulls together all the components into a set of HTML files in ``output/``.
 
 Alternatively, if you run ``python manage.py serve``, django-amber will build the site, serve the built site on port 8000, and watch for changes.
+
+Using Docker
+************
+
+You can also build the website using Docker:
+
+.. code-block:: console
+
+   $ docker build -t pyconuk/2017.pyconuk.org .
+   $ docker run -v $(pwd):/site -p 8000:8000 2017.pyconuk.org
+
+This will serve the build site on port 8000 and watch for changes.
+
+Testing
+*******
 
 You can test that the site contains no broken links and that the conference name is capitalised correctly (hint, it's "PyCon UK") by running ``make test``.
 
