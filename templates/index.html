@@ -35,4 +35,9 @@
 <article class="main-article">
   {% include '_content.html' with content=content content_format=content_format %}
 </article>
+
+<!-- this is a hack to persuade django-amber to build pages that aren't linked to from anywhere else -->
+<div display="hidden">
+  <a href="/unlinked-pages/"></a>
+</div>
 {% endblock %}

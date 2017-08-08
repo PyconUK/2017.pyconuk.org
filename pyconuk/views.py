@@ -8,11 +8,18 @@ from django.shortcuts import get_object_or_404, render
 from django.utils.six.moves.urllib.parse import unquote
 from django.views import static
 
-from .models import Page
+from .models import Page, Redirection
 
 
 def page(request, key='index'):
-    page = get_object_or_404(Page, key=key)
+    try:
+        page = Page.objects.get(key=key)
+    except Page.DoesNotExist:
+        redirection = get_object_or_404(Redirection, key=key)
+        template = 'redirection.html'
+        context = {'url': redirection.new_url}
+        return render(request, template, context)
+
     assert page.content_format in ['html', 'md'], 'Page content must use HTML or Markdown'
 
     template = page.template
@@ -21,6 +28,24 @@ def page(request, key='index'):
         'content': page.content,
         'content_format': page.content_format,
         'title': page.title,
+    }
+
+    return render(request, template, context)
+
+
+def unlinked_pages(request):
+    template = 'unlinked_pages.html'
+
+    urls = [
+        # Add to this as and when required
+    ]
+
+    for redirection in Redirection.objects.order_by('key'):
+        urls.append(redirection.original_url)
+
+    context = {
+        'urls': urls,
+        'title': 'Unlinked pages'
     }
 
     return render(request, template, context)

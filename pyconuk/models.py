@@ -10,3 +10,12 @@ class Page(ModelWithContent):
     template = models.CharField(max_length=20, default='page.html')
 
     dump_dir_path = 'pages'
+
+
+class Redirection(ModelWithoutContent):
+    new_url = models.CharField(max_length=255)
+
+    dump_dir_path = 'redirections'
+
+    def original_url(self):
+        return '/{}/'.format(self.key)
