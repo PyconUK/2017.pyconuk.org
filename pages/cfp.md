@@ -1,7 +1,7 @@
 title: Call for Participation
 ---
 
-The [Call for Participation](https://hq.pyconuk.org/cfp/proposals/new/) is now open and will close on August 10th.
+The [Call for Participation](https://hq.pyconuk.org/cfp/proposals/new/) is now open and will close at 23:59 BST on August 10th.
 
 ***
 
