@@ -12,17 +12,10 @@ class Page(ModelWithContent):
     dump_dir_path = 'pages'
 
 
-class NewsItem(ModelWithContent):
-    title = models.CharField(max_length=255)
-    slug = models.CharField(max_length=255)
-    date = models.DateField()
+class Redirection(ModelWithoutContent):
+    new_url = models.CharField(max_length=255)
 
-    dump_dir_path = 'news'
+    dump_dir_path = 'redirections'
 
-    @classmethod
-    def fields_from_key(cls, key):
-        pattern = '(?P<year>\d\d\d\d)-(?P<month>\d\d)-(?P<day>\d\d)-(?P<slug>.+)'
-        match = re.match(pattern, key)
-        groups = match.groupdict()
-        date = datetime.datetime(int(groups['year']), int(groups['month']), int(groups['day']))
-        return {'date': date, 'slug': groups['slug']}
+    def original_url(self):
+        return '/{}/'.format(self.key)

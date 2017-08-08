@@ -8,11 +8,18 @@ from django.shortcuts import get_object_or_404, render
 from django.utils.six.moves.urllib.parse import unquote
 from django.views import static
 
-from .models import NewsItem, Page
+from .models import Page, Redirection
 
 
 def page(request, key='index'):
-    page = get_object_or_404(Page, key=key)
+    try:
+        page = Page.objects.get(key=key)
+    except Page.DoesNotExist:
+        redirection = get_object_or_404(Redirection, key=key)
+        template = 'redirection.html'
+        context = {'url': redirection.new_url}
+        return render(request, template, context)
+
     assert page.content_format in ['html', 'md'], 'Page content must use HTML or Markdown'
 
     template = page.template
@@ -26,32 +33,19 @@ def page(request, key='index'):
     return render(request, template, context)
 
 
-def news_items(request):
-    news_items = NewsItem.objects.order_by('-date')
+def unlinked_pages(request):
+    template = 'unlinked_pages.html'
 
-    template = 'news_items.html'
+    urls = [
+        # Add to this as and when required
+    ]
 
-    context = {
-        'news_items': news_items,
-        'title': 'News',
-    }
-
-    return render(request, template, context)
-
-
-def news_item(request, year, month, day, slug):
-    date = datetime.date(int(year), int(month), int(day))
-    news_item = get_object_or_404(NewsItem, slug=slug, date=date)
-
-    assert news_item.content_format in ['html', 'md'], 'NewsItem content must use HTML or Markdown'
-
-    template = 'news_item.html'
+    for redirection in Redirection.objects.order_by('key'):
+        urls.append(redirection.original_url)
 
     context = {
-        'content': news_item.content,
-        'content_format': news_item.content_format,
-        'title': news_item.title,
-        'date': news_item.date,
+        'urls': urls,
+        'title': 'Unlinked pages'
     }
 
     return render(request, template, context)
