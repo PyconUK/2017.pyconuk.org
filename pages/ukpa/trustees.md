@@ -24,4 +24,6 @@ At this year's conference, we will elect up to six trustees at the first AGM of 
 
 If you wish to stand for election, login to your account on the [conference management](https://hq.pyconuk.org/) site where, if you have purchased a ticket, you will find a link to submit your application.
 
+The deadline for applications is 17:00, Friday September 29th 2017 (local UK time). Applications received after the deadline will not be accepted.
+
 The AGM will be held on Saturday 28th October 2017 and the first meeting of the board of trustees will take place the following day. We ask that anyone standing for election as a UKPA trustee make themselves available for those two meetings. Precise times will be announced shortly.
