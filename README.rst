@@ -39,7 +39,7 @@ You can also build the website using Docker:
 .. code-block:: console
 
    $ docker build -t pyconuk/2017.pyconuk.org .
-   $ docker run -v $(pwd):/site -p 8000:8000 2017.pyconuk.org
+   $ docker run -v $(pwd):/site -p 8000:8000 pyconuk/2017.pyconuk.org
 
 This will serve the build site on port 8000 and watch for changes.
 
