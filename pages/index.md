@@ -9,11 +9,8 @@ from Thursday 26th to Monday 30th October.
 The first four days of the conference will include talks and workshops,
 while the fifth will be a day of sprints.
 
-[Tickets are now on sale](/tickets/),
-we're taking submissions for the [Call for Participation](/cfp/),
-and applications are open for [financial assistance](/financial-assistance/).
-
-Applications are also open for the [Django Girls](/django-girls/) workshop to
+[Tickets are on sale](/tickets/), and
+applications are open for the [Django Girls](/django-girls/) workshop to
 be held on the Thursday of the conference.
 
 We're delighted that the [Education Track](/education/) returns,
