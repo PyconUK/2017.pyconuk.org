@@ -42,7 +42,10 @@ is a real person).
 
 To win an award a person needs to have at least three separate nominations. The
 recipients of the award will be the three most nominated people in any
-particular annual nomination period of the award.
+particular annual nomination period of the award. In the case of a tie, there
+will be joint winners with the possibility of more than three awards being
+made in any run of the award to ensure all those with enough votes receive an
+award.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdWFta61RMBmxgPEpZghorFzSpKCkyabVgRAJMbyMt2ARF0oQ/viewform?embedded=true" width="100%" height="1600" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
