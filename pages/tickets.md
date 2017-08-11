@@ -14,8 +14,7 @@ Teachers and those in full time education should pay at the Education rate.
 
 Tickets include entrance to the conference, lunch, and morning and afternoon refreshments.
 
-[Financial assistance](/financial-assistance/) is available to help those who are on low budgets,
-and you should not be reluctant to apply.
+Children's day tickets are [available separately](https://hq.pyconuk.org/children/orders/new/).
 
 Not sure that PyCon UK's for you?  Read about what our attendees got up to [last year](http://2016.pyconuk.org/news/20160920-impressions/).
 

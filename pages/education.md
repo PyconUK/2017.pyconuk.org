@@ -57,9 +57,9 @@ teachers for the Education Track on the Saturday cost £18. We are also offering
 [financial assistance](http://2017.pyconuk.org/financial-assistance/) to help
 cover the cost of attending the conference.
 
-Children's tickets for Saturday are just £5. Parents and guardians accompanying
-children do not require a ticket. A free picnic lunch will be provided for both
-kids and parents.
+[Children's tickets for Saturday are just £5](https://hq.pyconuk.org/children/orders/new/).
+Parents and guardians accompanying children do not require a ticket. A free
+picnic lunch will be provided for both kids and parents.
 
 If you have been granted a place on the Picademy course, you will not need a
 PyCon UK ticket unless you are also planning to attend on Saturday.
