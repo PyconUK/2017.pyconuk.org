@@ -11,7 +11,7 @@ django-compressor==2.1
 django-markdown-deux==1.0.5
 django==1.9.7             # via django-amber
 first==2.0.1              # via pip-tools
-http-crawler==0.1.2       # via django-amber
+http-crawler==0.1.6       # via django-amber
 lxml==3.6.0               # via http-crawler
 markdown2==2.3.1          # via django-markdown-deux
 pip-tools==1.9.0
