@@ -12,7 +12,7 @@ The venue is accessible for people of limited mobility. If you need to park near
 
 ## Accommodation in Cardiff
 
-We'll be providing a list of recommended hotels and other places to stay.
+See [Accommodation](/accommodation/) for recommended hotels and other places to stay.
 
 
 ## Getting to Cardiff
