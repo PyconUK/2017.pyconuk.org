@@ -1,9 +1,9 @@
 title: Accommodation
 ---
 
-## Hotels
+# Hotels
 
-### Recommended partner hotels
+## Recommended partner hotels
 
 The hotels listed in this section have given us preferential rates or terms or both. Their allocation of rooms for
 PyCon UK attendees is likely to be exhausted well before the conference, so **you are strongly advised to book as early
@@ -29,7 +29,7 @@ minutes' walk from City Hall.
 Please quote the *PYCON SELECT* rate when booking (phone or email). The negotiated PyCon UK rates include breakfast, in a
 double or twin room.
 
-### Other hotels
+## Other hotels
 
 These hotels haven't given us special rates, but are conveniently located and inexpensive.
 
@@ -56,7 +56,7 @@ mobility.
 
 Please use the code *trip1* when booking (phone or email).
 
-### Use booking sites
+## Use booking sites
 
 Check sites such as [Hotels.com](http://hotels.com) and [Booking.com](http://booking.com) for other hotels. (Apparently
 if you put your browser into private or incognito mode, you can sometimes get different, better, prices. Who knows?)
@@ -64,23 +64,23 @@ if you put your browser into private or incognito mode, you can sometimes get di
 Some hotels don’t even appear on those sites, never mind offer discounts to Pythonistas; you need to go to their
 websites directly and pay the same as everyone else:
 
-### Travelodge Hotels
+#### Travelodge Hotels
 
 There are several [Travelodge hotels](https://www.travelodge.co.uk) in Cardiff, including one very close to City Hall
 and one very close to Cardiff Central Railway station.
 
-### Premier Inn
+#### Premier Inn
 
 There's a [Premier Inn](http://www.premierinn.com/) on Churchill Way, about ten minutes' walk from City Hall.
 
-## Alternatives
+# Alternatives
 
 There are hotels and guest-houses along Cathedral Road, a not unpleasant (this can depend upon what the weather
 has to offer) walk away from City Hall through Bute Park.
 
 Consult [Wimdu](http://www.wimdu.com/) and [Airbnb](https://www.airbnb.co.uk/).
 
-## Get the location right
+# Get the location right
 
 You'll have most fun at PyCon UK if you're staying somewhere a short walk from City Hall. Here's a [handy map of hotels in
 the vicinity, courtesy of
