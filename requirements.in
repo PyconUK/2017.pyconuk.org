@@ -1,4 +1,4 @@
-django-amber>=0.7.0
+django-amber>=0.8.0
 django-markdown-deux
 django_compressor
 pip-tools
