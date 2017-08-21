@@ -5,7 +5,7 @@ title: Accommodation
 
 ## Recommended partner hotels
 
-The hotels listed in this section have given us preferential rates or terms or both. Their allocation of rooms for
+The hotel listed in this section has given us preferential rates or terms or both. Their allocation of rooms for
 PyCon UK attendees is likely to be exhausted well before the conference, so **you are strongly advised to book as early
 as you can**.
 
@@ -17,7 +17,7 @@ Other hotels are listed after these.
 Cardiff is a small city, and the weekend of PyCon UK will be busy. The longer you leave it to book your accommodation, the more difficult it will be to get it at a good price.
 
 **Important**: if you find that the prices your are offered don't match the rates advertised below, that means that
-they are simply no longer available. We don't have a contract with the hotels, and once the room allocations are gone,
+they are simply no longer available. We don't have a contract with the hotel, and once the room allocations are gone,
 they're gone.
 
 #### Sleeperz Hotel
@@ -54,16 +54,6 @@ minutes' walk) and Cardiff Central Railway station.
 Please note that the hotel has five floors **but does not have a lift**. It's **not** suitable for people with reduced
 mobility.
 
-Please use the code *trip1* when booking (phone or email).
-
-## Use booking sites
-
-Check sites such as [Hotels.com](http://hotels.com) and [Booking.com](http://booking.com) for other hotels. (Apparently
-if you put your browser into private or incognito mode, you can sometimes get different, better, prices. Who knows?)
-
-Some hotels don’t even appear on those sites, never mind offer discounts to Pythonistas; you need to go to their
-websites directly and pay the same as everyone else:
-
 #### Travelodge Hotels
 
 There are several [Travelodge hotels](https://www.travelodge.co.uk) in Cardiff, including one very close to City Hall
@@ -72,6 +62,14 @@ and one very close to Cardiff Central Railway station.
 #### Premier Inn
 
 There's a [Premier Inn](http://www.premierinn.com/) on Churchill Way, about ten minutes' walk from City Hall.
+
+## Use booking sites
+
+Check sites such as [Hotels.com](http://hotels.com) and [Booking.com](http://booking.com) for other hotels. (Apparently
+if you put your browser into private or incognito mode, you can sometimes get different, better, prices. Who knows?)
+
+Some hotels don’t even appear on those sites, never mind offer discounts to Pythonistas; you need to go to their
+websites directly and pay the same as everyone else:
 
 # Alternatives
 
