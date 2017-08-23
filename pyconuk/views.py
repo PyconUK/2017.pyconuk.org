@@ -38,6 +38,7 @@ def unlinked_pages(request):
 
     urls = [
         # Add to this as and when required
+        '/cfp/',
     ]
 
     for redirection in Redirection.objects.order_by('key'):
