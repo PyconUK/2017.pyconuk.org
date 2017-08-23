@@ -37,6 +37,10 @@ minutes' walk) and Cardiff Central Railway station.
 Please note that the hotel has five floors **but does not have a lift**. It's **not** suitable for people with reduced
 mobility.
 
+#### Clayton
+
+[Clayton Hotel](https://www.claytonhotelcardiff.com/) is very close to the station, and about 15 minutes' walk from City Hall.
+
 #### Travelodge Hotels
 
 There are several [Travelodge hotels](https://www.travelodge.co.uk) in Cardiff, including one very close to City Hall
@@ -45,6 +49,10 @@ and one very close to Cardiff Central Railway station.
 #### Premier Inn
 
 There's a [Premier Inn](http://www.premierinn.com/) on Churchill Way, about ten minutes' walk from City Hall.
+
+#### Ibis
+
+There is an [Ibis Hotel](http://www.ibishotel.com/) on Churchill Way about 10 minutes' walk from City Hall.
 
 ## Use booking sites
 
