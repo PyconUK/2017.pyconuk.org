@@ -62,6 +62,11 @@ if you put your browser into private or incognito mode, you can sometimes get di
 Some hotels don’t even appear on those sites, never mind offer discounts to Pythonistas; you need to go to their
 websites directly and pay the same as everyone else.
 
+# Hostels
+
+There are a large number of [hostels](http://www.hostelworld.com/search?search_keywords=Cardiff%2C+Wales&country=Wales&city=Cardiff&date_from=2017-10-26&date_to=2017-10-29&number_of_guests=1)
+in Cardiff that provide very cheap shared room accommodation for those "backpacking". If you don't mind sharing, this is perhaps the best value for money.
+
 # Alternatives
 
 There are hotels and guest-houses along Cathedral Road, a not unpleasant (this can depend upon what the weather
