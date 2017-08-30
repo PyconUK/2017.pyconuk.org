@@ -8,7 +8,7 @@ If you're coming to PyCon UK, *book your accommodation now*. Don't delay any fur
 
 As well as the options and suggestions listed below, please use [our Wiki](http://pyconukaccommodation.wikia.com/wiki/PyConUKAccommodation_Wiki) to arrange sharing a room or rented house.
 
-# Hotel booking sites
+# Hotels, B&Bs, guesthouses
 
 Check sites such as [Hotels.com](http://hotels.com) and [Booking.com](http://booking.com) for hotels.
 
@@ -21,12 +21,20 @@ Don't just search for *hotels*; also search for *B&Bs*: for example, on [Google 
 There are a large number of [hostels](http://www.hostelworld.com/search?search_keywords=Cardiff%2C+Wales&country=Wales&city=Cardiff&date_from=2017-10-26&date_to=2017-10-29&number_of_guests=1)
 in Cardiff that provide very cheap shared room accommodation for those "backpacking". If you don't mind sharing, this is perhaps the best value for money.
 
-# Alternatives
-
-There are hotels and guest-houses along Cathedral Road, a not unpleasant (this can depend upon what the weather
-has to offer) walk away from City Hall through Bute Park.
+# Rental houses and rooms
 
 Consult [Wimdu](http://www.wimdu.com/) and [Airbnb](https://www.airbnb.co.uk/).
+
+# Couchsurfing
+
+Try a site such as https://www.couchsurfing.com to find a spare room.
+
+# Stay with a local Pythonista
+
+If you're a Cardiff local and offer a spare room without charge to another conference attendee, we'll refund your conference
+ticket. All you need to do is tell us at the event who your guest has been, and we'll refund the ticket.
+
+If you have a suitable spare room, please [list it on the wiki](http://pyconukaccommodation.wikia.com/wiki/PyConUKAccommodation_Wiki).
 
 # Get the location right
 
