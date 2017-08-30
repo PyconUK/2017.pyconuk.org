@@ -27,7 +27,7 @@ Consult [Wimdu](http://www.wimdu.com/) and [Airbnb](https://www.airbnb.co.uk/).
 
 # Couchsurfing
 
-Try a site such as https://www.couchsurfing.com to find a spare room.
+Try a site such as [couchsurfing.com](https://www.couchsurfing.com) to find a spare room.
 
 # Stay with a local Pythonista
 
