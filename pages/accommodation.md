@@ -7,11 +7,10 @@ As well as the options and suggestions listed below, please use [our Wiki](http:
 
 # Hotel booking sites
 
-Check sites such as [Hotels.com](http://hotels.com) and [Booking.com](http://booking.com) for other hotels. (Apparently
+Check sites such as [Hotels.com](http://hotels.com) and [Booking.com](http://booking.com) for hotels. (Apparently
 if you put your browser into private or incognito mode, you can sometimes get different, better, prices. Who knows?)
 
-Some hotels don't even appear on those sites, never mind offer discounts to Pythonistas; you need to go to their
-websites directly and pay the same as everyone else.
+Not all hotels appear on booking sites, so also use general search engines.
 
 Don't just search for hotels; also search for B&Bs: for example, on [Google Maps](https://www.google.co.uk/maps/search/B%26B+near+cardiff/@51.4671319,-3.2291182,12z/data=!4m5!2m4!5m3!5m2!1s2017-10-25!2i6).
 
