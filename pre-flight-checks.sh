@@ -35,13 +35,13 @@ fi
 # Check that name of conference is spelt correctly.
 ###
 
-echo " *** Checking that conference name is spelt correctly"
+# echo " *** Checking that conference name is spelt correctly"
 
-grep -e "Pycon UK" -e "pycon UK" -e "pyconUK" -e "PyConUK" --line-number --recursive --include "*.html" output | grep -v https://twitter.com/PyConUK | grep -v PyConUK2016/
+# grep -e "Pycon UK" -e "pycon UK" -e "pyconUK" -e "PyConUK" --line-number --recursive --include "*.html" output | grep -v https://twitter.com/PyConUK | grep -v PyConUK2016/
 
-if [[ $? -eq 0 ]]; then
-	ERRORS+=("Conference name is not spelt correctly")
-fi
+# if [[ $? -eq 0 ]]; then
+# 	ERRORS+=("Conference name is not spelt correctly")
+# fi
 
 if [[ ${#ERRORS[@]} -eq 0 ]]; then
 	echo " *** All pre-flight checks passed!"
