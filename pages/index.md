@@ -6,6 +6,17 @@ PyCon UK is the annual gathering of the UK Python community and its friends from
 This year, we return to [Cardiff City Hall](http://www.cardiffcityhall.com/),
 from Thursday 26th to Monday 30th October.
 
+* * *
+
+Due to rumours of a heavyweight boxing match in Cardiff, as well as the other
+usual weekend attractions, hotel accommodation in the city has been snapped up
+much more quickly this year than usual.  If you're coming to PyCon UK, *book
+your accommodation now*. Don’t delay any further. If you leave it too late,
+you may find that there is no more affordable accommodation available.  Please
+see the [accommodation page](/accommodation/) for more details.
+
+* * *
+
 The first four days of the conference will include talks and workshops,
 while the fifth will be a day of sprints.
 

@@ -1,66 +1,19 @@
 title: Accommodation
 ---
 
-# Hotels
+Due to rumours of a heavyweight boxing match in Cardiff, as well as the other usual weekend attractions, hotel accommodation in the city has been snapped up much more quickly this year than usual.
+If you're coming to PyCon UK, *book your accommodation now*. Don't delay any further. If you leave it too late, you may find that there is no more affordable accommodation available.
+As well as the options and suggestions listed below, please use [our Wiki](http://pyconukaccommodation.wikia.com/wiki/PyConUKAccommodation_Wiki) to arrange sharing a room or rented house.
 
-Cardiff is a small city, and the weekend of PyCon UK will be busy. The longer you leave it to book your accommodation, the more difficult it will be to get it at a good price.
-
-#### Sleeperz Hotel
-
-[Sleeperz Hotel](http://www.sleeperz.com) (tel +44 2920 478747; [email Sleeperz Hotel
-reservations](mailto:reservations@sleeperzcardiff.com)) is a comfortable budget hotel, a minute's walk from the station and 15
-minutes' walk from City Hall.
-
-Sleeperz have offered PyCon UK attendees a 10% discount.
-
-Please quote the *PYCON SELECT* rate when booking (phone or email). The negotiated PyCon UK rates include breakfast, in a
-double or twin room.
-
-#### Royal Hotel
-
-The [Royal Hotel](http://www.royalhotelcardiff.com) (tel +44 2920 550755; [email Royal Hotel
-reservations](mailto:reservations@theroyalhotel.uk.com)) is perfectly-placed, mid-way between City Hall (about 10
-minutes' walk) and Cardiff Central Railway station.
-
-#### Angel Hotel
-
-The [Angel Hotel](https://www.thehotelcollection.co.uk/hotels/cardiff-angel-hotel) (tel +44 2921 672322; [email Angel
-Hotel reservations](mailto:angel@thehotelcollection.co.uk)) is close to City Hall (about 10 minutes' walk) and Cardiff
-Central Railway station (about 15 minutes' walk).
-
-#### Sandringham Hotel
-
-The [Sandringham Hotel](http://sandringham-hotel.com) (tel +44 2920 232161; [email Sandringham Hotel
-reservations](mailto:mm@sandringham-hotel.com)) is mid-way between City Hall (about 10
-minutes' walk) and Cardiff Central Railway station.
-
-Please note that the hotel has five floors **but does not have a lift**. It's **not** suitable for people with reduced
-mobility.
-
-#### Clayton
-
-[Clayton Hotel](https://www.claytonhotelcardiff.com/) is very close to the station, and about 15 minutes' walk from City Hall.
-
-#### Travelodge Hotels
-
-There are several [Travelodge hotels](https://www.travelodge.co.uk) in Cardiff, including one very close to City Hall
-and one very close to Cardiff Central Railway station.
-
-#### Premier Inn
-
-There's a [Premier Inn](http://www.premierinn.com/) on Churchill Way, about ten minutes' walk from City Hall.
-
-#### Ibis
-
-There is an [Ibis Hotel](http://www.ibishotel.com/) on Churchill Way about 10 minutes' walk from City Hall.
-
-## Use booking sites
+# Hotel booking sites
 
 Check sites such as [Hotels.com](http://hotels.com) and [Booking.com](http://booking.com) for other hotels. (Apparently
 if you put your browser into private or incognito mode, you can sometimes get different, better, prices. Who knows?)
 
-Some hotels don’t even appear on those sites, never mind offer discounts to Pythonistas; you need to go to their
+Some hotels don't even appear on those sites, never mind offer discounts to Pythonistas; you need to go to their
 websites directly and pay the same as everyone else.
+
+Don't just search for hotels; also search for B&Bs: for example, on [Google Maps](https://www.google.co.uk/maps/search/B%26B+near+cardiff/@51.4671319,-3.2291182,12z/data=!4m5!2m4!5m3!5m2!1s2017-10-25!2i6).
 
 # Hostels
 
