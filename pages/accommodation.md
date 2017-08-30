@@ -3,16 +3,18 @@ title: Accommodation
 
 Due to rumours of a heavyweight boxing match in Cardiff, as well as the other usual weekend attractions, hotel accommodation in the city has been snapped up much more quickly this year than usual.
 If you're coming to PyCon UK, *book your accommodation now*. Don't delay any further. If you leave it too late, you may find that there is no more affordable accommodation available.
+
+# Accommodation wiki
+
 As well as the options and suggestions listed below, please use [our Wiki](http://pyconukaccommodation.wikia.com/wiki/PyConUKAccommodation_Wiki) to arrange sharing a room or rented house.
 
 # Hotel booking sites
 
-Check sites such as [Hotels.com](http://hotels.com) and [Booking.com](http://booking.com) for hotels. (Apparently
-if you put your browser into private or incognito mode, you can sometimes get different, better, prices. Who knows?)
+Check sites such as [Hotels.com](http://hotels.com) and [Booking.com](http://booking.com) for hotels.
 
 Not all hotels appear on booking sites, so also use general search engines.
 
-Don't just search for hotels; also search for B&Bs: for example, on [Google Maps](https://www.google.co.uk/maps/search/B%26B+near+cardiff/@51.4671319,-3.2291182,12z/data=!4m5!2m4!5m3!5m2!1s2017-10-25!2i6).
+Don't just search for *hotels*; also search for *B&Bs*: for example, on [Google Maps](https://www.google.co.uk/maps/search/B%26B+near+cardiff/@51.4671319,-3.2291182,12z/data=!4m5!2m4!5m3!5m2!1s2017-10-25!2i6).
 
 # Hostels
 
