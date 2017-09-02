@@ -140,7 +140,7 @@ Sprints!
 ## And some other events to be scheduled...
  * An amble through the history of Python: An informal and interactive chat about the history of Python and things Pythonic (Tony Ibbs)
  * Electronic Fashion: Head to toe wearable tech from clothing to accessories and jewellery (Rachel Wong)
- * GPG Key signing party: Get started with certified encryption and join the "PGP web of trust strong set" (Thomas Grainger)
+ * Key signing party: Get started with certified encryption and join the "PGP web of trust strong set" (Thomas Grainger)
  * Introduction to Minecraft Hacking for Kids and Teachers: Getting started with Python and MinecraftPi (David Ames)
  * Micro:bits and Micro:Python in Schools (Sarah Townson)
  * Python Bee (Emma Gordon)
