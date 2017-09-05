@@ -149,4 +149,4 @@ Information will be able to help you find what you need.
 
 Have we neglected something you need, or is there something not mentioned here
 that would make your attendance possible, or improve your experience of the
-event? Please [let us know](/contact/). We'll do what can to provide it.
+event? Please [let us know](/contact/). We'll do what we can to provide it.
