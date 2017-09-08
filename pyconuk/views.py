@@ -37,8 +37,8 @@ def unlinked_pages(request):
     template = 'unlinked_pages.html'
 
     urls = [
-        # Add to this as and when required
         '/cfp/',
+        '/pinner-award/',
     ]
 
     for redirection in Redirection.objects.order_by('key'):
