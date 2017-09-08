@@ -2,7 +2,7 @@ title: The John Pinner Award
 ---
 <h2>What?</h2>
 
-The annual John Pinner award celebrates voluntary service to the Python
+The annual John Pinner Award celebrates voluntary service to the Python
 community in the UK. It's for those who freely contribute time and effort for
 the good of the community but who generally don't get the sort of recognition
 others may enjoy.
