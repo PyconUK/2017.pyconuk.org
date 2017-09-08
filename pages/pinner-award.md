@@ -7,15 +7,14 @@ community in the UK. It's for those who freely contribute time and effort for
 the good of the community but who generally don't get the sort of recognition
 others may enjoy.
 
-This is an annual award with up to three awards being given at once. The awards
-will be announced at the start of each annual PyCon UK conference, so
-recipients at the conference may enjoy a weekend of recognition from the wider
-community in attendence.
+This is an annual award announced at the start of each annual PyCon UK
+conference, so recipients at the conference may enjoy a weekend of recognition
+from the wider community in attendence.
 
 It is only possible to win the award once.
 
 Recipients of the award will receive a free ticket to next year's PyCon UK and
-a token in recognition of their efforts (most likely a medal of some sort).
+a token in recognition of their efforts (a rare beautifully Pythonic medal).
 
 <h2>Why?</h2>
 
@@ -40,9 +39,8 @@ each nomination meets the requirements outlined above (specifically, that the
 nomination is for Python related community service in the UK and the nominator
 is a real person).
 
-The recipients of the award will be the three most nominated people in any
-annual nomination period of the award. In the case of a tie, all joint winners
-in the top three slots will receive an award. Finally, a nominee isn't eligable
+The recipients of the award will be the most nominated people in any
+annual nomination period of the award. Finally, a nominee isn't eligable
 until three *separate nominations* are received in support of them.
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdWFta61RMBmxgPEpZghorFzSpKCkyabVgRAJMbyMt2ARF0oQ/viewform?embedded=true" width="100%" height="1600" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
