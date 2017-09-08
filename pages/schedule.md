@@ -40,6 +40,7 @@ Here's a provisional list of the talks and workshops taking place on each day.  
  * Dive into Object-oriented Python (Leonardo Giordani)
  * Frictionless Data, Frictionless Development: Building a scalable data converter, processor and warehouse with tabulator, tableschema-py, kubernetes and flask (Andrew Stretton)
  * Fun With Serverless Applications (Lorna Mitchell)
+ * Panel Discussion - Python in Education: Hear four experts discuss Python in education with the assembled audience. (Nicholas Tollervey)
  * PostgreSQL: Beyond the Basics (Lorna Mitchell)
  * Pythonic molecular evolution: Creation of a molecular evolution library (MEvoLib). (Jorge Alvarez-Jarreta)
  * Rise of the robots and world domination: Using Python to network robotic telescopes and people, for science and education. (Edward Gomez)
@@ -65,6 +66,7 @@ Here's a provisional list of the talks and workshops taking place on each day.  
 ## Saturday 28th October
  * Accessible Python Instruction: Including students with special educational needs and disabilities (Meg Ray)
  * Add GUIs to your data pipelines with Jupyter widgets (Pascal Bugnion)
+ * bitio: Using the BBC micro:bit as an input and output device for any python enabled computer (David Whale)
  * Code With Mu: How we built a code editor for beginner programmers in Python. (Nicholas Tollervey)
  * Creating a Python Web-App for Destiny the Game: Using Python and the Flask Microframework to create a web app for Destiny the Game. (Allyn Hunt)
  * DeprecationWarning: documenting your software’s last days (Daniel Beck)
@@ -86,8 +88,10 @@ Here's a provisional list of the talks and workshops taking place on each day.  
  * Machine learning libraries you'd wish you'd known about (Ian Ozsvald)
  * Managing Machine Learning Models in Production (Anand Chitipothu)
  * NetworkZero: network support for clubs, classes & dojos (Tim Golden)
+ * Panel Discussion - The Ethics and Politics of Programming: Hear four experts discuss the ethics and politics of programming with the assembled audience. (Nicholas Tollervey)
  * Python: Super Power for Blended Learning: Super power for blended learning (Rizky Ariestiyansyah)
  * Using Python in Schools - Students Point of View (TBC!) (Corinne Sherman)
+ * Why Should High School Students Teach High School Teachers: What Happens When a Student Becomes a Teacher of Python and Electronics ? (Marek Mansell)
 
 ## Sunday 29th October
  * A brief history of markup languages: Where reStructuredText, markdown, etc. came from (Tony Ibbs)
@@ -110,6 +114,7 @@ Here's a provisional list of the talks and workshops taking place on each day.  
  * MyPy: The Good, The Bad and The Ugly: Adding static type checking to a real-world codebase (David Sim)
  * Ops for Humans *: Infrastructure that makes everyone happy, not just your vendors (* and Python developers) (Wes Mason)
  * P0150n3d SVMs and Other M4ch1n3 Learning 3xpl0175: Introduction to Adversarial Machine Learning (Camilla Montonen)
+ * Panel Discussion - Developer Career Progression: Hear four experts discuss the career path of programmers with the assembled audience. (Nicholas Tollervey)
  * piwheels: a faster Python package repository for RaspberryPi: Building a faster Python package repository for Raspberry Pi users by creating ARM platform wheels of everything on PyPI (Ben Nuttall)
  * Polygons, hill climbing, metallurgy and why you are here: (no philosophical life advice given in this talk) (Vincent Knight)
  * Protecting Your Users From Change: Pythonic Refactoring (Mark Smith)
@@ -133,14 +138,10 @@ Here's a provisional list of the talks and workshops taking place on each day.  
 
 ## And some other events to be scheduled...
  * An amble through the history of Python: An informal and interactive chat about the history of Python and things Pythonic (Tony Ibbs)
- * bitio: Using the BBC micro:bit as an input and output device for any python enabled computer (David Whale)
  * Electronic Fashion: Head to toe wearable tech from clothing to accessories and jewellery (Rachel Wong)
  * Introduction to Minecraft Hacking for Kids and Teachers: Getting started with Python and MinecraftPi (David Ames)
  * Key signing party: Get started with certified encryption and join the "PGP web of trust strong set" (Thomas Grainger)
  * Micro:bits and Micro:Python in Schools (Sarah Townson)
- * Panel Discussion - Developer Career Progression: Hear four experts discuss the career path of programmers with the assembled audience. (Nicholas Tollervey)
- * Panel Discussion - Python in Education: Hear four experts discuss Python in education with the assembled audience. (Nicholas Tollervey)
- * Panel Discussion - The Ethics and Politics of Programming: Hear four experts discuss the ethics and politics of programming with the assembled audience. (Nicholas Tollervey)
  * Python Bee (Emma Gordon)
  * Python controlled 'neural robot' (Scott Turner)
  * Python with Raspberry Pi: Explore physical computing and more using Python on Raspberry Pi (Ben Nuttall)
@@ -148,5 +149,4 @@ Here's a provisional list of the talks and workshops taking place on each day.  
  * Teachers Becoming Pythonistas: a content coaching model (Meg Ray)
  * The big button bashing quiz! Powered by Python: A fun quiz with hardware button boxes running Python (A Robinson)
  * The Great British PyCon UK Python Code Dojo: Collaborative social coding in a friendly setting for mutual learning and community building. (Nicholas Tollervey)
- * Why Should High School Students Teach High School Teachers: What Happens When a Student Becomes a Teacher of Python and Electronics ? (Marek Mansell)
  * Your Python, from your desktop to our cloud (Daniele Procida)
