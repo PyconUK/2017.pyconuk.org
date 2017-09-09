@@ -112,7 +112,6 @@ Here's a provisional list of the talks and workshops taking place on each day.  
  * Making Sense of Big Data File Formats: Avro and Parquet (Raoul-Gabriel Urma)
  * Migrating Python Web Applications to Python 3 (Andrew Wray)
  * MyPy: The Good, The Bad and The Ugly: Adding static type checking to a real-world codebase (David Sim)
- * Ops for Humans *: Infrastructure that makes everyone happy, not just your vendors (* and Python developers) (Wes Mason)
  * P0150n3d SVMs and Other M4ch1n3 Learning 3xpl0175: Introduction to Adversarial Machine Learning (Camilla Montonen)
  * Panel Discussion - Developer Career Progression: Hear four experts discuss the career path of programmers with the assembled audience. (Nicholas Tollervey)
  * piwheels: a faster Python package repository for RaspberryPi: Building a faster Python package repository for Raspberry Pi users by creating ARM platform wheels of everything on PyPI (Ben Nuttall)
