@@ -38,6 +38,7 @@ def unlinked_pages(request):
 
     urls = [
         '/cfp/',
+        '/kids/',
         '/pinner-award/',
     ]
 
