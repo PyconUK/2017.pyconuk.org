@@ -25,7 +25,6 @@ Here's a provisional list of the talks and workshops taking place on each day.  
 ## Friday 27th October
  * A plumber's guide to Git (Alex Chan)
  * Abstract Base Classes: A smart use of metaclasses in Python (Leonardo Giordani)
- * An eye tracking system. From zero to... what eye learned.: Is it possible to predict the point in the screen where a person is looking at? Easy to say but hard to do. (Samuel Muñoz Hidalgo)
  * Attacks on Machine Learning: Attacking and defending Machine/Deep Learning Models(Pydata track) (prabhant singh)
  * Automated data exploration: Building scalable and efficient analysis pipelines with Dask (Víctor Zabalza)
  * Banish your Project Boilerplate: Hitting the Ground Running with Project Templating in Data Science (Chris Musselle)
@@ -66,6 +65,7 @@ Here's a provisional list of the talks and workshops taking place on each day.  
 ## Saturday 28th October
  * Accessible Python Instruction: Including students with special educational needs and disabilities (Meg Ray)
  * Add GUIs to your data pipelines with Jupyter widgets (Pascal Bugnion)
+ * An eye tracking system. From zero to... what eye learned.: Is it possible to predict the point in the screen where a person is looking at? Easy to say but hard to do. (Samuel Muñoz Hidalgo)
  * bitio: Using the BBC micro:bit as an input and output device for any python enabled computer (David Whale)
  * Code With Mu: How we built a code editor for beginner programmers in Python. (Nicholas Tollervey)
  * Creating a Python Web-App for Destiny the Game: Using Python and the Flask Microframework to create a web app for Destiny the Game. (Allyn Hunt)
