@@ -1,12 +1,26 @@
 title: Accommodation
 ---
 
-Due to rumours of a heavyweight boxing match in Cardiff, as well as the other usual weekend attractions, hotel accommodation in the city has been snapped up much more quickly this year than usual.
-If you're coming to PyCon UK, *book your accommodation now*. Don't delay any further. If you leave it too late, you may find that there is no more affordable accommodation available.
+After an unexploded WW2 bomb in 2015 and a Roald Dahl festival in 2016 this
+year's unexpected PyCon UK mishap is the Anthony Joshua heavyweight boxing
+match at Cardiff's Principality Stadium on the Saturday evening of the
+conference (our busiest day).
 
-# Accommodation wiki
+Tens of thousands of people are expected to turn up to watch the fight.
+Unfortunately it means accommodation will be very hard to come by over the
+conference weekend.
 
-As well as the options and suggestions listed below, please use [our Wiki](http://pyconukaccommodation.wikia.com/wiki/PyConUKAccommodation_Wiki) to arrange sharing a room or rented house.
+However, all is not lost!  We have made reservations for around 200 beds in
+dormitories in the following hostels:
+
+ * [Mrs Potts Backpackers](http://www.mrspottsbackpackers.co.uk/)
+ * [Bunkhouse Cardiff](http://www.bunkhousecardiff.co.uk/)
+ * [Urdd Cardiff](http://www.urdd.cymru/en/residential-centres/cardiff/)
+
+If you have a ticket for the conference, you can make a booking via the
+[ticketing website](https://hq.pyconuk.org/accommodation/bookings/new/).
+
+Other possibilities are listed below.
 
 # Hotels, B&Bs, guesthouses
 
@@ -28,13 +42,6 @@ Consult [Wimdu](http://www.wimdu.com/) and [Airbnb](https://www.airbnb.co.uk/).
 # Couchsurfing
 
 Try a site such as [couchsurfing.com](https://www.couchsurfing.com) to find a spare room.
-
-# Stay with a local Pythonista
-
-If you're a Cardiff local and offer a spare room without charge to another conference attendee, we'll refund your conference
-ticket. All you need to do is tell us at the event who your guest has been, and we'll refund the ticket.
-
-If you have a suitable spare room, please [list it on the wiki](http://pyconukaccommodation.wikia.com/wiki/PyConUKAccommodation_Wiki).
 
 # Get the location right
 
