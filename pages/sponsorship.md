@@ -44,4 +44,4 @@ Prices are exclusive of VAT.
 ## Next steps
 
 If you're interested in sponsoring the conference,
-please get in touch with us via email at <nobr>pyconuk-sponsorship@python.org</nobr>.
+please get in touch with us via email at <nobr>pyconuk-committee@uk.python.org</nobr>.
