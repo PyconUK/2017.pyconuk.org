@@ -75,7 +75,6 @@ Here's a provisional list of the talks and workshops taking place on each day.  
  * Django Database Gotchas: Two key concepts you can't afford to ignore (David Seddon)
  * EduBlocks - Making the transition to Python easier! (Josh Lowe)
  * Efficient Data Mangling with Pandas Indexes: Superpowers with Pandas Indexes (Alexander Hendorf)
- * Helping communities & products thrive by fostering empathy (Erik)
  * How close can I get Amazon’s Alexa to Black Mirror’s Cookie: an exploration into the rise of smart assistants (Zara Siddique)
  * I think I wrote a Rapid Web-Application Development tool: Was it a mistake? (Emma Delescolle)
  * Intermediate TDD workshop: outside-in, mocking & isolation: purists vs pragmatists, mocks vs end-to-end tests, let's illustrate all the pros + cons with a real example. (Harry Percival)
@@ -90,6 +89,7 @@ Here's a provisional list of the talks and workshops taking place on each day.  
  * NetworkZero: network support for clubs, classes & dojos (Tim Golden)
  * Panel Discussion - The Ethics and Politics of Programming: Hear four experts discuss the ethics and politics of programming with the assembled audience. (Nicholas Tollervey)
  * Python: Super Power for Blended Learning: Super power for blended learning (Rizky Ariestiyansyah)
+ * The Code of Conduct is here for you (Sasha Romijn)
  * Using Python in Schools - Students Point of View (TBC!) (Corinne Sherman)
  * Why Should High School Students Teach High School Teachers: What Happens When a Student Becomes a Teacher of Python and Electronics ? (Marek Mansell)
 
