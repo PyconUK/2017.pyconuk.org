@@ -8,7 +8,7 @@ from django.shortcuts import get_object_or_404, render
 from django.utils.six.moves.urllib.parse import unquote
 from django.views import static
 
-from .models import Page, Redirection
+from .models import Page, Redirection, Sponsor
 
 
 def page(request, key='index'):
@@ -29,6 +29,7 @@ def page(request, key='index'):
         'content_format': page.content_format,
         'title': page.title,
         'page': page,
+        'sponsor_rows': Sponsor.sponsor_rows()
     }
 
     return render(request, template, context)
