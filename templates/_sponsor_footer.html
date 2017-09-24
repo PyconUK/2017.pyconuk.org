@@ -1,1 +1,15 @@
-SPONSORS GO HERE
+{% load sponsors %}
+
+<h3>The conference wouldn't happen without the generous support of our sponsors:</h3>
+
+<table>
+  {% for row in sponsor_rows %}
+  <tr>
+    {% for sponsor in row %}
+    <td colspan="{{ row|colspan }}">
+      {{ sponsor }}
+    </td>
+    {% endfor %}
+  </tr>
+  {% endfor %}
+</table>
