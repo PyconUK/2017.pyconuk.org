@@ -2,7 +2,7 @@ name: Reckon Digital
 tier: bronze
 website: https://reckondigital.com/
 twitter_handle: reckondigital
-logo_filename: reckondigital.png
+logo_filename: reckon-digital.png
 ---
 Reckon Digital is a London-based software development company. We create
 state-of-the-art business software solutions and provide consultancy in the

@@ -2,7 +2,7 @@ name: PythonAnywhere
 tier: bronze
 website: https://pythonanywhere.com/
 twitter_handle: pythonanywhere
-logo_filename: pythonanywhere.png
+logo_filename: python-anywhere.png
 ---
 PythonAnywhere lets you code, host and run Python in the cloud, with prices
 starting at free! Our basic plan gives you access to machines with a full
