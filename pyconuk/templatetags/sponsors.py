@@ -11,4 +11,4 @@ def colspan(row):
     # there are six columns overall, which we divide up based on row length.
     if len(row) not in (1, 2, 3):
         raise ValueError("Unrecognised row length %r!" % len(row))
-    return 6 / len(row)
+    return int(6 / len(row))
