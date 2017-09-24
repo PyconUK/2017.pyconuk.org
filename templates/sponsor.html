@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+
+{% load markdown_deux_tags %}
+
+{% block content %}
+<div class="header red">
+  <div class="callout">
+    <h1>Sponsor: {{ sponsor.name }}</h1>
+  </div>
+</div>
+
+<article class="main-article sponsor-detail">
+  <div class="content">
+    {% if sponsor.logo_filename %}
+    <p><img src="/static/img/sponsor-logos/{{ sponsor.logo_filename }}" alt="{{ sponsor.name }} logo" /></p>
+    {% endif %}
+
+    <div class="textblock">
+      {% if content_format == 'md' %}
+        {{ sponsor.content|markdown }}
+      {% else %}
+        {{ sponsor.content|safe }}
+      {% endif %}
+    </div>
+
+    {% if sponsor.website and sponsor.twitter_handle %}
+      <p>Learn more <a href="{{ sponsor.website }}">on their website</a> or follow them <a href="https://twitter.com/{{ sponsor.twitter_handle }}">on Twitter</a>.</p>
+    {% elif sponsor.website %}
+      <p>Learn more <a href="{{ sponsor.website }}">on their website</a>.</p>
+    {% elif sponsor.twitter_handle %}
+      <p>Follow them <a href="https://twitter.com/{{ sponsor.twitter_handle }}">on Twitter</a>.</p>
+    {% endif %}
+  </div>
+</article>
+{% endblock %}

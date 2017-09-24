@@ -35,6 +35,19 @@ def page(request, key='index'):
     return render(request, template, context)
 
 
+def sponsor_view(request, key):
+    sponsor = get_object_or_404(Sponsor, key=key)
+
+    template = 'sponsor.html'
+
+    context = {
+        'content': sponsor.content,
+        'sponsor': sponsor,
+    }
+
+    return render(request, template, context)
+
+
 def unlinked_pages(request):
     template = 'unlinked_pages.html'
 
