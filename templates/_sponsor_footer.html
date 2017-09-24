@@ -6,8 +6,14 @@
   {% for row in sponsor_rows %}
   <tr>
     {% for sponsor in row %}
-    <td colspan="{{ row|colspan }}">
-      {{ sponsor }}
+    <td colspan="{{ row|colspan }}" class="sponsor__{{ sponsor.tier }}">
+      <a href="{% if sponsor.content %}#{% endif %}">
+        {% if sponsor.logo_filename %}
+        <img src="/static/img/sponsor-logos/{{ sponsor.logo_filename }}">
+        {% else %}
+        <h2>{{ sponsor.name }}</h2>
+        {% endif %}
+      </a>
     </td>
     {% endfor %}
   </tr>
