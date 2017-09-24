@@ -28,6 +28,7 @@ def page(request, key='index'):
         'content': page.content,
         'content_format': page.content_format,
         'title': page.title,
+        'page': page,
     }
 
     return render(request, template, context)

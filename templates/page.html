@@ -10,4 +10,13 @@
 <article class="main-article">
   {% include '_content.html' with content=content content_format=content_format %}
 </article>
+
+{% if page.show_sponsors %}
+<article>
+  <div class="content">
+    {% include "_sponsor_footer.html" %}
+  </div>
+</article>
+{% endif %}
+
 {% endblock %}
