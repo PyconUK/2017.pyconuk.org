@@ -9,7 +9,7 @@
     <td id="sponsor__{{ sponsor.key }}" colspan="{{ row|colspan }}" class="sponsor sponsor__{{ sponsor.tier }} sponsor__colspan_{{ row|colspan }}">
       {% if sponsor.content %}<a href="/sponsors/{{ sponsor.key }}/">{% endif %}
         {% if sponsor.logo_filename %}
-          <img alt="{{ sponsor.name }}" src="/static/img/sponsor-logos/{{ sponsor.logo_filename }}">
+          <img src="/static/img/sponsor-logos/{{ sponsor.logo_filename }}" alt="{{ sponsor.name }} name" />
         {% else %}
           <h2>{{ sponsor.name }}</h2>
         {% endif %}

@@ -55,6 +55,7 @@ def unlinked_pages(request):
         '/cfp/',
         '/kids/',
         '/pinner-award/',
+        '/sponsors/',
     ]
 
     for redirection in Redirection.objects.order_by('key'):
