@@ -41,6 +41,11 @@ There are three available levels of sponsorship:
 Prices are exclusive of VAT.
 
 
+## Logistics
+
+If you're sponsoring the conference, or considering doing so, you can read our [logistics for sponsors](/sponsor-logistics/).
+
+
 ## Next steps
 
 If you're interested in sponsoring the conference,
