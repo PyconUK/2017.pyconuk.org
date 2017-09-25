@@ -14,9 +14,9 @@ Alternatively, you could send your own pop-up booth, but please let us know if i
 
 If you want to send materials for your booth to City Hall ahead of the event, address them to
 
-> PyCon UK
-> City Hall Cardiff
-> Cathays Park
+> PyCon UK <br/>
+> City Hall Cardiff <br/>
+> Cathays Park <br/>
 > Cardiff CF10 3ND
 
 We have access to the venue for setup from 6am on Thursday, and teardown finishes at 6pm on Monday.
