@@ -43,6 +43,7 @@ def sponsor_view(request, key):
     context = {
         'content': sponsor.content,
         'sponsor': sponsor,
+        'title': f'Sponsor: {sponsor.name}',
     }
 
     return render(request, template, context)
