@@ -61,7 +61,7 @@ class Sponsor(ModelWithContent):
                 yield sponsors['silver']
                 break
 
-        # Bronze and partner sponsors appear in rows of 3j
+        # Bronze and partner sponsors appear in rows of 3
         third_tier = sponsors['bronze'] | sponsors['partner']
         while third_tier:
             yield third_tier[:3]
