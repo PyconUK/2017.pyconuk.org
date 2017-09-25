@@ -554,34 +554,6 @@ nav a:hover {
   text-align: center;
   padding: 0.1em 0.5em 0.1em 0.5em;
 }
-.sponsors h1 {
-  margin: 0;
-  padding: 1em 0;
-  background: black;
-  color: white;
-  text-align: center;
-}
-.sponsors section {
-  display: flex;
-  flex-wrap: wrap;
-}
-.sponsors section::after {
-  content: '';
-  flex-grow: 999999999;
-}
-.sponsors div {
-  margin: 16px;
-  position: relative;
-}
-.sponsors i {
-  display: block;
-}
-.sponsors img {
-  position: absolute;
-  top: 0;
-  width: 100%;
-  vertical-align: bottom;
-}
 .pyconuk {
   position: absolute;
   right: 0;
@@ -964,4 +936,25 @@ body.home .foot .subscription-block {
 }
 .social-icons a.youtube:after {
   content: "\e905";
+}
+.sponsors-list td {
+  padding: 10px;
+  text-align: center;
+  vertical-align: middle;
+}
+.sponsors-list td h2 {
+  margin: 5px;
+}
+.sponsors-list .sponsor__colspan_3 {
+  width: 50%;
+}
+.sponsors-list .sponsor__colspan_2 {
+  width: 33%;
+}
+.sponsor-detail img {
+  margin-top: 30px;
+  margin-bottom: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 400px;
 }
