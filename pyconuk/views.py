@@ -8,7 +8,7 @@ from django.shortcuts import get_object_or_404, render
 from django.utils.six.moves.urllib.parse import unquote
 from django.views import static
 
-from .models import Page, Redirection
+from .models import Page, Redirection, Sponsor
 
 
 def page(request, key='index'):
@@ -28,6 +28,21 @@ def page(request, key='index'):
         'content': page.content,
         'content_format': page.content_format,
         'title': page.title,
+        'page': page,
+        'sponsor_rows': Sponsor.sponsor_rows()
+    }
+
+    return render(request, template, context)
+
+
+def sponsor_view(request, key):
+    sponsor = get_object_or_404(Sponsor, key=key)
+
+    template = 'sponsor.html'
+
+    context = {
+        'content': sponsor.content,
+        'sponsor': sponsor,
     }
 
     return render(request, template, context)
@@ -40,6 +55,7 @@ def unlinked_pages(request):
         '/cfp/',
         '/kids/',
         '/pinner-award/',
+        '/sponsors/',
     ]
 
     for redirection in Redirection.objects.order_by('key'):

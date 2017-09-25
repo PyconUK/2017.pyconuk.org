@@ -1,0 +1,14 @@
+name: Osirium
+tier: silver
+website: https://osirium.com/
+twitter_handle: Osirium
+logo_filename: osirium.png
+---
+Osirium lives in the world of Privileged Access and Privileged Task Management.
+This means that we separate people from passwords, provide single sign on with
+role based credentials and allow users to run privileged tasks without them
+needing privileges the tasks needs.  We use Python, lots of Python, it’s an
+enterprise class security product that relays many data sessions across a
+virtual (in privilege) air gap at near zero latency.  It needs a sassy UI and
+analytics that succinctly inform humans who did what where and when.   It’s a
+challenge and we love it.
