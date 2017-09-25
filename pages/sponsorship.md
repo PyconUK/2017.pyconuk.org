@@ -43,7 +43,7 @@ Prices are exclusive of VAT.
 
 ## Logistics
 
-If you're sponsoring the conference, or considering doing so, you can read our [logistics for sponsors](/sponsor_logistics/).
+If you're sponsoring the conference, or considering doing so, you can read our [logistics for sponsors](/sponsor-logistics/).
 
 
 ## Next steps
