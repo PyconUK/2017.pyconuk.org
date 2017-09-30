@@ -39,7 +39,7 @@ Weaver Scout District (charity No. 1145482).
 #### Kristian Glass
 <img class="avatar" src="https://www.gravatar.com/avatar/403476fc38e4e0be93bf03282a33e72c/?s=120" alt="Kristian Glass" />
 
-'m Kristian Glass; I was treasurer for PyCon UK 2016 and 2017, and set up and have run the PyCon UK Society Ltd company
+I'm Kristian Glass; I was treasurer for PyCon UK 2016 and 2017, and set up and have run the PyCon UK Society Ltd company
 to back it. I am also the director of Moorhen Solutions Ltd (my own consultancy company) and ran NHS Hack Day Cambridge
 (a not-for-profit "hackathon"), as well as other having other experience in the not-for-profit, events and financial
 spaces I'm glad to see the UKPA created, and want to contribute my experience towards the success of both it and of PyCon UK.
@@ -49,7 +49,7 @@ spaces I'm glad to see the UKPA created, and want to contribute my experience to
 
 I have been involved in running PyCon UK since 2013, and chaired the conference in 2016 and 2017. I will be standing down
 as conference chair after this year's conference, but I would love to continue to work for the UK Python community by 
-serving as a trustee of the UKPA. There are lots of things that the UKPA could be and do! If elected, than in its first
+serving as a trustee of the UKPA. There are lots of things that the UKPA could be and do! If elected, then in its first
 year I would like to see it:
 
 * broadening and engaging with its membership,
@@ -79,7 +79,7 @@ changing. I'm so proud to have been part of the conference committee so far, pla
 and I hope to be doing it for a good while longer. I would really enjoy being able to support the UKPA in anyway that I can.
 
 #### Nicholas Tollervey
-<img class="avatar" src="https://www.gravatar.com/avatar/e8d4e155929363bd22a7852494d18c25/?s=120" alt="Peter Inglesby" />
+<img class="avatar" src="https://www.gravatar.com/avatar/e8d4e155929363bd22a7852494d18c25/?s=120" alt="Nicholas Tollervey" />
 
 I have been involved with Python programming since attending the very first PyCon UK in 2007. While there, an affable old gent
 called John gave up his time to teach me and other newbies the basics. The most important lesson I learned at that first PyCon
