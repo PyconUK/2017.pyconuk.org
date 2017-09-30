@@ -49,7 +49,7 @@ Its initial trustees are Peter Inglesby, Kristian Glass and Owen Campbell.
 ### Next Steps
 
 At the 2017 conference, we will hold the final AGM of the PyCon UK Society and
-the first of the UK Python Association. We'll close the original society and elect the trustees of the UKPA.
+the first of the UK Python Association. We'll close the original society and elect the [trustees of the UKPA](/ukpa/trustees/).
 
 Anyone attending the 2017 conference is entitled to membership of both
 organisations and thus entitled to vote at the AGMs. Membership will expire after 12 months or at the 2018 conference - whichever is sooner.
@@ -59,8 +59,6 @@ UKPA but will all resign at the first AGM where we will elect up to six
 trustees to manage the organisation from that point onwards. The constitution
 specifies that two of those trustees must retire at each subsequent AGM but may
 then put themselves forward for re-election.
-
-If you wish to stand for election as a trustee of the UKPA, please read the [Trustee Guidelines](/ukpa/trustees/) for further details.
 
 ### The Future
 
