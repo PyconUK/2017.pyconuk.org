@@ -15,9 +15,8 @@ self-organize into teams, and spend the day working on our projects.
 Entrance to the Trans\*Code hack day is included in the [conference
 ticket](/tickets/).
 
-However, if you are just coming to Cardiff for the hack day on Monday,
-[tickets](https://www.eventbrite.com/e/transcode-pycon-uk-2017-tickets-38377166137?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventurl_text)
-are free.
+However, if you are just coming to Cardiff for the hack day on Monday, are free.
+Book your ticket [on Eventbrite](https://www.eventbrite.com/e/transcode-pycon-uk-2017-tickets-38377166137?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventurl_text
 
 We are also able to give away a number of tickets to the whole conference to
-Trans\*Code attendees. Please, see instructions on the EventBrite event
+Trans\*Code attendees. Please, see instructions on the [Eventbrite event](https://www.eventbrite.com/e/transcode-pycon-uk-2017-tickets-38377166137?aff=utm_source%3Deb_email%26utm_medium%3Demail%26utm_campaign%3Dnew_event_email&utm_term=eventurl_text)
