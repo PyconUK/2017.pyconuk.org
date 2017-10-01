@@ -1,6 +1,4 @@
 title: Trans*Code
-callout_big_1: A hack day for the trans* and non-binary community
-callout_small: Monday 30th October.
 ---
 
 [Trans*Code](http://trans-code.org/) returns to PyCon UK for a day-long
