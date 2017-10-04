@@ -8,6 +8,10 @@ from Thursday 26th to Monday 30th October.
 
 * * *
 
+Tickets are on sale until 23:59 BST on Monday 8th October.
+
+* * *
+
 There will be a heavyweight boxing match in Cardiff over the weekend of the
 conference, and so hotel accommodation in the city has been snapped up much
 more quickly this year than usual.  If you're coming to PyCon UK, *book your
@@ -19,10 +23,6 @@ find that there is no more affordable accommodation available.  Please see the
 
 The first four days of the conference will include talks and workshops,
 while the fifth will be a day of sprints.
-
-[Tickets are on sale](/tickets/), and
-applications are open for the [Django Girls](/django-girls/) workshop to
-be held on the Thursday of the conference.
 
 We're delighted that the [Education Track](/education/) returns,
 in partnership with the Raspberry Pi Foundation,
