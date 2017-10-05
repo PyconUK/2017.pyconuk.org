@@ -146,12 +146,11 @@ def schedule_view(request):
             'Ferrier Hall',
             'Room D',
             'Room C',
-            'Room A',
-            'Room B',
             'Room I',
             'Room J',
             'Room K',
             'Room L',
+            'Room B',
         ],
         'Monday 30th': [
             'Assembly Room',
