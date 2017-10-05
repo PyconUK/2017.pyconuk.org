@@ -1,5 +1,2 @@
 chair: null
-date: Friday 27th
-room: Room D
-session: talk/visualizing-topic-models
-time: '12:30'
+session: talk/circumnavigating-the-antarctic-with-python-and-django

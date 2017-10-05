@@ -34,7 +34,7 @@
           {% for cell in row|slice:"1:" %}
           {% if cell.value %}
           <td colspan="{{ cell.width }}" rowspan="{{ cell.height }}"
-              {% if cell.value.text in 'Registration Introduction Break Lunch Close'|slice:' ' %}
+              {% if cell.value.pink %}
               class="section"
               {% endif %}
               >

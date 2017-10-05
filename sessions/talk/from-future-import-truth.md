@@ -1,7 +1,7 @@
 title: "from __future__ import Truth"
 subtitle: "Building an automated fact checking system in Python"
 speaker: michael-skelly
-track: 
+track: pydata
 video:
 ---
 Fake news, alternative facts, post-truth: this has definitely been the year of misinformation. 

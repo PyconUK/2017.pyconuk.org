@@ -16,10 +16,10 @@ def load_schedule_context(date, rooms_in_order):
     for slot in slots:
         if slot.session:
             session = slot.session
-            if session.session_type() == 'keynotes':  # Yes, it'd be nicer if the session_type was singular, but it's not
+            if session.session_type() == 'keynote':
                 text = 'Keynote: {}'.format(session.title)
             else:
-                text = '{}: {}'.format(session.session_type(), session.title)
+                text = session.title
             url = reverse('session', args=[session.session_type(), session.slug()])
             speaker = session.speaker.name
             chair = slot.chair
@@ -31,12 +31,20 @@ def load_schedule_context(date, rooms_in_order):
             chair = None
             track = None
 
+        if text in ['Registration', 'Introduction', 'Break', 'Lunch', 'Close']:
+            pink = True
+        elif 'Lunch' in text:
+            pink = True
+        else:
+            pink = False
+
         slots_by_room_and_time[(slot.room, slot.time)] = {
             'text': text,
             'url': url,
             'speaker': speaker,
             'chair': chair,
-            'track': track
+            'track': track,
+            'pink': pink,
         }
 
     slots_table = [
