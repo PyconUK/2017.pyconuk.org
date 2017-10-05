@@ -19,7 +19,7 @@ def load_schedule_context(date, rooms_in_order):
             if session.session_type() == 'keynotes':  # Yes, it'd be nicer if the session_type was singular, but it's not
                 text = 'Keynote: {}'.format(session.title)
             else:
-                text = '{}: {}'.format(session.session_type(), session.title)
+                text = session.title
             url = reverse('session', args=[session.session_type(), session.slug()])
             speaker = session.speaker.name
             chair = slot.chair
