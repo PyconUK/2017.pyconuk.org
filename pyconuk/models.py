@@ -22,6 +22,55 @@ class Redirection(ModelWithoutContent):
         return '/{}/'.format(self.key)
 
 
+class Speaker(ModelWithContent):
+    name = models.CharField(max_length=255)
+
+    dump_dir_path = 'speakers'
+
+
+class Session(ModelWithContent):
+    speaker = models.ForeignKey(Speaker, null=True)
+    title = models.CharField(max_length=255)
+    subtitle = models.CharField(max_length=255, null=True)
+    track = models.CharField(max_length=255, null=True)
+    video = models.CharField(max_length=255, null=True)
+    slides = models.CharField(max_length=255, null=True)
+
+    dump_dir_path = 'sessions'
+
+    def session_type(self):
+        return self.key.split('/', 1)[0]
+
+    def slug(self):
+        return self.key.split('/', 1)[1]
+
+    def slot(self):
+        return self.scheduleslot_set.order_by('time')[0]
+
+    def time(self):
+        return self.slot().time
+
+    def date(self):
+        return self.slot().date
+
+    def day(self):
+        return self.date().split()[0]
+
+    def room(self):
+        return self.slot().room
+
+
+class ScheduleSlot(ModelWithoutContent):
+    session = models.ForeignKey(Session, null=True)
+    title = models.CharField(max_length=255)
+    date = models.CharField(max_length=40)
+    room = models.CharField(max_length=40)
+    time = models.CharField(max_length=40)
+    chair = models.CharField(max_length=255, null=True)
+
+    dump_dir_path = 'schedule'
+
+
 class Sponsor(ModelWithContent):
     TIERS = (
         ('gold', 'gold'),
