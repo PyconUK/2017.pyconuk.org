@@ -1,7 +1,7 @@
 title: "Demystifying Deep Learning Frameworks : Function Approximati"
 subtitle: "Generic Function Approximation using Tensorflow"
 speaker: siddhartha-rai
-track: 
+track: pydata
 video:
 ---
 This talk attempts to demystify some aspects of Deep Learning using Tensorflow, a popular deep learning framework. Under the hood, Tensorflow is essentially a way to approximate functions. We show how Tensorflow can be used as a generic function approximation tool, and some approaches to tune it.
