@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="header red">
+  <div class="callout">
+    <h1>{{ title }}</h1>
+  </div>
+</div>
+
+<article class="main-article">
+  <div class="content speakers-list">
+    <ul>
+      {% for speaker in speakers %}
+      <li><a href="{% url 'speaker' speaker.key %}">{{ speaker.name }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</article>
+{% endblock %}

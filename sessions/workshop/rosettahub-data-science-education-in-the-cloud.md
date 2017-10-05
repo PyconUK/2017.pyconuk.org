@@ -1,0 +1,10 @@
+title: "RosettaHUB: Data Science Education in the cloud"
+subtitle: "Towards a universal platform and a global social hub for open data science"
+speaker: karim-chine
+track: 
+video:
+---
+RosettaHUB provides the missing frameworks to harness AWS and make it work seamlessly for research and education. It leverages Organizations to streamline the affiliation of students and faculty members, IAM to restrict the students and educators’ perimeters of action, AWS Lambda to monitor and control resources and budget consumption in real-time and AWS STS to federate users access to the AWS console. RosettaHUB collects and aggregates the grants provided by AWS Educate and AWS for research.  It puts AWS under the control of a social collaboration portal, and makes advanced AWS capabilities easy to understand and operate by students and educators. The institutions administrators and the educators can see on real-time the students’ actions and adjust their budgets and AWS allowances, 
+
+RosettaHUB is a data science platform that makes it easy for educators to create containers-based virtual teaching environments or to make tools such as Jupyter, RStudio, Zeppelin, Shiny Apps, virtual desktops and virtualized applications accessible to thousands of students. RosettaHUB makes big data easy: provisioning and controlling EMR clusters using notebooks, accessing TensorFlow and Jupyter on EC2 GPU instances, provisioning scalable R, Python, Scala or Shell-based data analysis workflows, creating interactive web apps or Excel spreadsheets backed by big data frameworks and tools become no-brainers.  The platform makes it possible for students and educators to easily create and share containerized applications and services and collaborate in real-time with peers. It exposes a Cloud Formation-like service allowing educators and students to package those services and share them. The platform is currently used by over 5000 students and 800 educators from about 40 top universities in the UK and Europe.
+The workshop will provide an overview and demos of the platform. Attendees will receive active RosettaHUB and AWS accounts with credits to try the different capabilities.
