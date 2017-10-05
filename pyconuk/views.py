@@ -166,7 +166,7 @@ def schedule_view(request):
 
     context = {
         'schedules': schedules,
-        'title': 'Schedule',
+        'title': 'Draft Schedule',
     }
 
     return render(request, template, context)
