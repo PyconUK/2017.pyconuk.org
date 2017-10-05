@@ -1,6 +1,6 @@
 title: Tickets
 ---
-Tickets are available for between one and five days of the conference, and will be on sale until 23:59 BST on Monday 8th October.
+Tickets are available for between one and five days of the conference, and will be on sale until 23:59 BST on Monday 9th October.
 
 The first four days of the conference will include talks and workshops,
 while the fifth will be a day of sprints.

@@ -8,7 +8,7 @@ from Thursday 26th to Monday 30th October.
 
 * * *
 
-Tickets are on sale until 23:59 BST on Monday 8th October.
+Tickets are on sale until 23:59 BST on Monday 9th October.
 
 * * *
 
