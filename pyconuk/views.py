@@ -56,7 +56,7 @@ def unlinked_pages(request):
         '/cfp/',
         '/kids/',
         '/pinner-award/',
-        '/programme/',  # TODO Remove this once schedule is at /schedule/
+        '/draft-schedule/',  # TODO Remove this once schedule is at /schedule/
         '/sessions/',
         '/speakers/',
         '/sponsors/',
