@@ -1,5 +1,2 @@
 chair: null
-date: Thursday 26th
-room: Assembly Room
 session: talk/building-quart-from-flask-and-asyncio
-time: '15:30'

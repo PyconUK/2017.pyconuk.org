@@ -69,6 +69,7 @@ class ScheduleSlot(ModelWithoutContent):
     chair = models.CharField(max_length=255, null=True)
 
     dump_dir_path = 'schedule'
+    key_structure = '[date]/[room]/[time]'
 
 
 class Sponsor(ModelWithContent):
