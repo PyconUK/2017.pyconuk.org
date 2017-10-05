@@ -16,7 +16,7 @@ def load_schedule_context(date, rooms_in_order):
     for slot in slots:
         if slot.session:
             session = slot.session
-            if session.session_type() == 'keynotes':  # Yes, it'd be nicer if the session_type was singular, but it's not
+            if session.session_type() == 'keynote':
                 text = 'Keynote: {}'.format(session.title)
             else:
                 text = session.title
