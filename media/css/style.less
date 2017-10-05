@@ -534,20 +534,6 @@ nav {
 
 ////////////////////////////////////////////////////////////////////////////////
 // table
-.pageBreak {
-  border-top: 16px solid black;
-}
-
-.v-centered {
-  td {
-    text-align: center;
-    vertical-align: center;
-  }
-  td:first-child {
-    font-size: 1em;
-    padding: 0.75em;
-  }
-}
 
 #schedule {
   h1 {
@@ -557,8 +543,119 @@ nav {
     color: @back;
     text-align: center;
   }
-}
 
+  .pageBreak {
+    border-top: 16px solid black;
+  }
+
+  .v-centered {
+    td {
+      text-align: center;
+      vertical-align: center;
+    }
+    td:first-child {
+      font-size: 1em;
+      padding: 0.75em;
+    }
+  }
+
+  table {
+    border-collapse: collapse;
+    border-bottom: 1px solid @edge;
+    width: 100%;
+    font-size: 0.8em;
+    @media all and (min-width: 900px) {
+      font-size: 1em;
+    }
+    th {
+      display: none;
+    }
+    td {
+      display: block;
+      border: none;
+      width: auto;
+      padding: 0 1em 1em 1em;
+    }
+    td:first-child {
+      font-size: 2em;
+      padding: 0.5em;
+      border-top: 1px solid @edge;
+    }
+    .speaker {
+      padding-top: 0.5em;
+      display: block;
+      color: lighten(@text, 50%);
+    }
+    .track {
+      padding-top: 0.5em;
+      display: block;
+      color: lighten(@text, 50%);
+    }
+    .room {
+      display: block;
+      color: lighten(@text, 50%);
+      @media all and (min-width:720px) {
+        display: none;
+      }
+    }
+    .empty-cell {
+      display: none;
+    }
+    @media all and (min-width:720px) {
+      th {
+        display: table-cell;
+      }
+      td + td {
+        border-left: 3px solid @edge;
+        width: 100%;
+      }
+      td:first-child {
+        width: 75px;
+        padding: 0.3em;
+      }
+      td,
+      th {
+        display: table-cell;
+        vertical-align: top;
+        border-top: 1px solid @edge;
+        padding: 0.75em;
+        width: auto;
+      }
+      th {
+        .font-brand();
+        font-size: 1.2em;
+        + th {
+          border-left: 3px solid @edge;
+        }
+      }
+      .section {
+        vertical-align: middle;
+        text-align: center;
+        background: @diff;
+        font-size: 1.2em;
+      }
+      .empty-cell {
+        display: table-cell;
+        background: black;
+      }
+      &.four td {
+        width: 100/3%;
+      }
+      &.five td {
+        width: 25%;
+      }
+      &.six td {
+        width: 20%;
+      }
+      &.seven td {
+        width: 100/6%;
+      }
+      td:first-child {
+        width: 75px !important;
+      }
+    }
+  }
+}
 
 ////////////////////////////////////////////////////////////////////////////////
 // ticket price table

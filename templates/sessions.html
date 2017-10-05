@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="header red">
+  <div class="callout">
+    <h1>{{ title }}</h1>
+  </div>
+</div>
+
+<article class="main-article">
+  <div class="content sessions-list">
+      <h1>Workshops</h1>
+
+      <ul>
+        {% for session in workshops %}
+        <li><a href="{% url 'session' session.session_type session.slug %}">{{ session.title }}</a></li>
+        {% endfor %}
+      </ul>
+
+      <h1>Talks</h1>
+
+      <ul>
+        {% for session in talks %}
+        <li><a href="{% url 'session' session.session_type session.slug %}">{{ session.title }}</a></li>
+        {% endfor %}
+      </ul>
+
+      <h1>Keynotes</h1>
+
+      <ul>
+        {% for session in keynotes %}
+        <li><a href="{% url 'session' session.session_type session.slug %}">{{ session.title }}</a></li>
+        {% endfor %}
+      </ul>
+
+      <h1>Others</h1>
+
+      <ul>
+        {% for session in others %}
+        <li><a href="{% url 'session' session.session_type session.slug %}">{{ session.title }}</a></li>
+        {% endfor %}
+      </ul>
+  </div>
+</article>
+{% endblock %}
