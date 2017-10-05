@@ -1,0 +1,122 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Python Powered! -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="X-Clacks-Overhead" content="GNU John Pinner">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Visualizing Topic Models</title>
+
+    <link rel="stylesheet" href="/static/CACHE/css/74a38dfec164.css" type="text/css" />
+
+    <script src="https://use.typekit.net/kla0hed.js"></script>
+    <!--[if lt IE 9]>
+    <script src="/js/modernizr.js"></script>
+    <![endif]-->
+  </head>
+
+  <body class="home">
+    <nav class="masthead noprint">
+      <label id="toggle" for="menu-toggle"></label>
+      <input type="checkbox" id="menu-toggle" name="menu-toggle" />
+      <ul>
+        <li><a href="http://uk.python.org/">News</a></li>
+        <li><a href="/schedule/">Schedule</a></li>
+        <li><a href="/sponsorship/">Sponsor</a></li>
+        <li><a href="/venue/">Venue</a></li>
+        <li><a href="/code-of-conduct/">Code of Conduct</a></li>
+        <li><a href="/ukpa/">UKPA</a></li>
+        <li><a href="/contact/">Contact</a></li>
+        <li><a class="cta" href="/tickets/">Tickets</a></li>
+      </ul>
+    </nav>
+    <header class="head noprint">
+      <h1><a href="/"><span>PYCON UK</span></a></h1>
+    </header>
+    
+<article class="main-article">
+  <div class="content">
+    <div class="column_content">
+      <h1>Visualizing Topic Models</h1>
+
+      <p><a href="/speakers/parul-sethi/">Parul sethi</a> | Friday 12:30 | Room D</p>
+
+      <div class="textblock">
+        
+        <p>Topic Modelling is a great way to infer topics in a large corpus of text documents but analyzing them could become difficult without any visualization. The purpose of this talk is to introduce the visualizations that aids the process of training topic models and analyze their results  for downstream NLP applications. I’ll give a brief introduction to Topic Models before moving to visualizations.</p>
+
+<p>I’ll demonstrate the steps to train LDA model in gensim and create the following visualizations using the trained model and how to interpret them:</p>
+
+<ol>
+<li><p>LDA Training visualization: Monitoring the LDA model training using Visdom integration in gensim</p></li>
+<li><p>pyLDAvis: Topic interpretation using the relevance metric effectively</p></li>
+<li><p>Topic Networks: Discover connections between topics </p></li>
+<li><p>Topic difference visualization: Determine exact distances between every topic pair along with their intersection/difference of terms</p></li>
+<li><p>Dendrogram (with extended heatmap): Topic clustering with a deeper insight into the inter-topic semantic validity</p></li>
+<li><p>LDA Projections: Document clustering using tensorboard based on the topic representation of documents</p></li>
+</ol>
+
+<p>The interface for this talk would be Jupyter notebook containing the LDA training and visualizations code.</p>
+
+        
+      </div>
+
+      
+
+    </div>
+  </div>
+</article>
+
+
+    <footer class="foot">
+      <div class="company-information">
+        <ul class="social-icons">
+          <li><a href="https://twitter.com/PyConUK" class="twitter"></a></li>
+          <li><a href="https://www.youtube.com/channel/UChA9XP_feY1-1oSy2L7acog" class="youtube"></a></li>
+        </ul>
+        <div class="foot-nav pull-right">
+          <ul>
+            <li><a href="https://www.blanc.ltd.uk/">Design by Blanc</a></li>
+          </ul>
+        </div>
+        <div class="legal pull-left">
+          <small>&copy; 2017 PyCon UK Society Ltd. All rights reserved.</small>
+        </div>
+      </div>
+      <address>
+        <strong>PyCon UK Society Ltd.</strong>
+        <small>Company Number: <a href="http://data.companieshouse.gov.uk/doc/company/10073469">10073469</a>,
+          c/o Acconomy,
+          Arena Business Centre,
+          Holyrood Close,
+          Poole,
+          BH17 7FJ,
+          United Kingdom</small>
+      </address>
+    </footer>
+  </body>
+
+  <script>
+    try {
+      Typekit.load({
+        async: true
+      });
+    } catch (e) {}
+  </script>
+  <script
+    src="https://code.jquery.com/jquery-3.1.1.slim.min.js"
+    integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc="
+    crossorigin="anonymous"></script>
+  <script>
+    $('.cta').mouseenter(function() {
+      $('.jumbotron').addClass('hover');
+    });
+    $('.cta').mouseleave(function() {
+      $('.jumbotron').removeClass('hover');
+    })
+  </script>
+</html>

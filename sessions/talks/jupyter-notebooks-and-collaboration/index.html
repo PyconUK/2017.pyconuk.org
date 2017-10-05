@@ -1,0 +1,115 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Python Powered! -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="X-Clacks-Overhead" content="GNU John Pinner">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Jupyter notebooks and collaboration</title>
+
+    <link rel="stylesheet" href="/static/CACHE/css/74a38dfec164.css" type="text/css" />
+
+    <script src="https://use.typekit.net/kla0hed.js"></script>
+    <!--[if lt IE 9]>
+    <script src="/js/modernizr.js"></script>
+    <![endif]-->
+  </head>
+
+  <body class="home">
+    <nav class="masthead noprint">
+      <label id="toggle" for="menu-toggle"></label>
+      <input type="checkbox" id="menu-toggle" name="menu-toggle" />
+      <ul>
+        <li><a href="http://uk.python.org/">News</a></li>
+        <li><a href="/schedule/">Schedule</a></li>
+        <li><a href="/sponsorship/">Sponsor</a></li>
+        <li><a href="/venue/">Venue</a></li>
+        <li><a href="/code-of-conduct/">Code of Conduct</a></li>
+        <li><a href="/ukpa/">UKPA</a></li>
+        <li><a href="/contact/">Contact</a></li>
+        <li><a class="cta" href="/tickets/">Tickets</a></li>
+      </ul>
+    </nav>
+    <header class="head noprint">
+      <h1><a href="/"><span>PYCON UK</span></a></h1>
+    </header>
+    
+<article class="main-article">
+  <div class="content">
+    <div class="column_content">
+      <h1>Jupyter notebooks and collaboration</h1>
+
+      <p><a href="/speakers/scott-stevenson/">Scott Stevenson</a> | Saturday 10:30 | Assembly Room</p>
+
+      <div class="textblock">
+        
+        <p>Git has seen widespread adoption to become the de facto standard for sharing and collaborating on code, and the same is true of Jupyter notebooks as the environment for doing data science. However, herein lies a problem: Git was designed to version plain text files containing source code, and not for storing structured data such as the JSON source of Jupyter notebooks and binary data such as embedded images.</p>
+
+<p>Without extra tooling and processes, this makes following best practices - such as making small, self-contained patches on topic branches and submitting them for code review - difficult, and the output messy. In this talk, I'll demonstrate the tools and practices that make working in data science more collaborative, more productive, and more fun.</p>
+
+<p>I'll show you how to use built-in Git features, such as incremental staging of changed files, to avoid introducing noise from changed cell counts, before moving on to show how simple tooling can allow us to automatically clear output cells from notebooks before committing new changes to Git, avoiding adding binary data to our repository.</p>
+
+<p>Finally, I'll introduce the nbdime tools from the Jupyter project: a set of tools for diffing and merging Jupyter notebooks. I'll demonstrate how to install them, and how to integrate them to Git to finally achieve great integration between Jupyter notebooks and version control for collaborative data science.</p>
+
+        
+      </div>
+
+      
+
+    </div>
+  </div>
+</article>
+
+
+    <footer class="foot">
+      <div class="company-information">
+        <ul class="social-icons">
+          <li><a href="https://twitter.com/PyConUK" class="twitter"></a></li>
+          <li><a href="https://www.youtube.com/channel/UChA9XP_feY1-1oSy2L7acog" class="youtube"></a></li>
+        </ul>
+        <div class="foot-nav pull-right">
+          <ul>
+            <li><a href="https://www.blanc.ltd.uk/">Design by Blanc</a></li>
+          </ul>
+        </div>
+        <div class="legal pull-left">
+          <small>&copy; 2017 PyCon UK Society Ltd. All rights reserved.</small>
+        </div>
+      </div>
+      <address>
+        <strong>PyCon UK Society Ltd.</strong>
+        <small>Company Number: <a href="http://data.companieshouse.gov.uk/doc/company/10073469">10073469</a>,
+          c/o Acconomy,
+          Arena Business Centre,
+          Holyrood Close,
+          Poole,
+          BH17 7FJ,
+          United Kingdom</small>
+      </address>
+    </footer>
+  </body>
+
+  <script>
+    try {
+      Typekit.load({
+        async: true
+      });
+    } catch (e) {}
+  </script>
+  <script
+    src="https://code.jquery.com/jquery-3.1.1.slim.min.js"
+    integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc="
+    crossorigin="anonymous"></script>
+  <script>
+    $('.cta').mouseenter(function() {
+      $('.jumbotron').addClass('hover');
+    });
+    $('.cta').mouseleave(function() {
+      $('.jumbotron').removeClass('hover');
+    })
+  </script>
+</html>

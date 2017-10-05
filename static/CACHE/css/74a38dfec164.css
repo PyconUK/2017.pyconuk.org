@@ -529,23 +529,123 @@ nav a:hover {
     font-size: 1em;
   }
 }
-.pageBreak {
-  border-top: 16px solid black;
-}
-.v-centered td {
-  text-align: center;
-  vertical-align: center;
-}
-.v-centered td:first-child {
-  font-size: 1em;
-  padding: 0.75em;
-}
 #schedule h1 {
   margin: 0;
   padding: 1em 0;
   background: black;
   color: white;
   text-align: center;
+}
+#schedule .pageBreak {
+  border-top: 16px solid black;
+}
+#schedule .v-centered td {
+  text-align: center;
+  vertical-align: center;
+}
+#schedule .v-centered td:first-child {
+  font-size: 1em;
+  padding: 0.75em;
+}
+#schedule table {
+  border-collapse: collapse;
+  border-bottom: 1px solid black;
+  width: 100%;
+  font-size: 0.8em;
+}
+@media all and (min-width: 900px) {
+  #schedule table {
+    font-size: 1em;
+  }
+}
+#schedule table th {
+  display: none;
+}
+#schedule table td {
+  display: block;
+  border: none;
+  width: auto;
+  padding: 0 1em 1em 1em;
+}
+#schedule table td:first-child {
+  font-size: 2em;
+  padding: 0.5em;
+  border-top: 1px solid black;
+}
+#schedule table .speaker {
+  padding-top: 0.5em;
+  display: block;
+  color: #808080;
+}
+#schedule table .track {
+  padding-top: 0.5em;
+  display: block;
+  color: #808080;
+}
+#schedule table .room {
+  display: block;
+  color: #808080;
+}
+@media all and (min-width: 720px) {
+  #schedule table .room {
+    display: none;
+  }
+}
+#schedule table .empty-cell {
+  display: none;
+}
+@media all and (min-width: 720px) {
+  #schedule table th {
+    display: table-cell;
+  }
+  #schedule table td + td {
+    border-left: 3px solid black;
+    width: 100%;
+  }
+  #schedule table td:first-child {
+    width: 75px;
+    padding: 0.3em;
+  }
+  #schedule table td,
+  #schedule table th {
+    display: table-cell;
+    vertical-align: top;
+    border-top: 1px solid black;
+    padding: 0.75em;
+    width: auto;
+  }
+  #schedule table th {
+    font-family: 'FuturaBT-Medium';
+    font-size: 1.2em;
+  }
+  #schedule table th + th {
+    border-left: 3px solid black;
+  }
+  #schedule table .section {
+    vertical-align: middle;
+    text-align: center;
+    background: pink;
+    font-size: 1.2em;
+  }
+  #schedule table .empty-cell {
+    display: table-cell;
+    background: black;
+  }
+  #schedule table.four td {
+    width: 33.33333333%;
+  }
+  #schedule table.five td {
+    width: 25%;
+  }
+  #schedule table.six td {
+    width: 20%;
+  }
+  #schedule table.seven td {
+    width: 16.66666667%;
+  }
+  #schedule table td:first-child {
+    width: 75px !important;
+  }
 }
 #ticket-prices {
   margin: 0 auto;

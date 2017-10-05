@@ -1,0 +1,113 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Python Powered! -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="X-Clacks-Overhead" content="GNU John Pinner">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Intelligent approach to decision-making models</title>
+
+    <link rel="stylesheet" href="/static/CACHE/css/74a38dfec164.css" type="text/css" />
+
+    <script src="https://use.typekit.net/kla0hed.js"></script>
+    <!--[if lt IE 9]>
+    <script src="/js/modernizr.js"></script>
+    <![endif]-->
+  </head>
+
+  <body class="home">
+    <nav class="masthead noprint">
+      <label id="toggle" for="menu-toggle"></label>
+      <input type="checkbox" id="menu-toggle" name="menu-toggle" />
+      <ul>
+        <li><a href="http://uk.python.org/">News</a></li>
+        <li><a href="/schedule/">Schedule</a></li>
+        <li><a href="/sponsorship/">Sponsor</a></li>
+        <li><a href="/venue/">Venue</a></li>
+        <li><a href="/code-of-conduct/">Code of Conduct</a></li>
+        <li><a href="/ukpa/">UKPA</a></li>
+        <li><a href="/contact/">Contact</a></li>
+        <li><a class="cta" href="/tickets/">Tickets</a></li>
+      </ul>
+    </nav>
+    <header class="head noprint">
+      <h1><a href="/"><span>PYCON UK</span></a></h1>
+    </header>
+    
+<article class="main-article">
+  <div class="content">
+    <div class="column_content">
+      <h1>Intelligent approach to decision-making models</h1>
+
+      <p><a href="/speakers/solveiga-vivian-griffiths/">Solveiga Vivian-Griffiths</a> | Sunday 11:30 | Room C</p>
+
+      <div class="textblock">
+        
+        <p>Tasks in which people make decisions by pressing keyboard buttons have been used extensively in psychology research, yet the only information they can offer about the decision is the speed (how quickly the button was pressed) and correctness (whether the correct button was pressed). In order for these tasks to provide insights into cognitive processes underlying such decisions, they need to be considered in the framework of mathematical models of decision making. Sequential sampling models presume that distinct cognitive processes (represented by model parameters) can be decomposed from task performance.</p>
+
+<p>While producing simulated “computational decisions” with given parameters is relatively straightforward, attempting to reverse engineer the problem by estimating these parameters from task performance is not trivial, and becomes harder as the models get more complicated to account for more complex decisions. The current practice in the field is to employ global optimization algorithms, which search through the solution space blindly, until a “good enough” set of parameters is found, for each set of data separately.</p>
+
+<p>As deep learning has been gaining popularity to solve complicated problems, I have applied it to the extraction of model parameters from drift diffusion model for conflict tasks using the keras (and hyperas) libraries. Deep learning is particularly suitable for decision-making models, as an unlimited amount of simulated data is available to train the models. Unlike global optimization algorithms, deep learning can use this data to predict multiple sets of parameters at once, which cuts computation time significantly. In this talk I will present how to apply deep learning to predict model parameters from reaction time distributions. In addition, I will assess whether this approach works as well as, or better than global optimization algorithms, and discuss how the performance of the model changes as the input data becomes smaller and noisier.</p>
+
+        
+      </div>
+
+      
+
+    </div>
+  </div>
+</article>
+
+
+    <footer class="foot">
+      <div class="company-information">
+        <ul class="social-icons">
+          <li><a href="https://twitter.com/PyConUK" class="twitter"></a></li>
+          <li><a href="https://www.youtube.com/channel/UChA9XP_feY1-1oSy2L7acog" class="youtube"></a></li>
+        </ul>
+        <div class="foot-nav pull-right">
+          <ul>
+            <li><a href="https://www.blanc.ltd.uk/">Design by Blanc</a></li>
+          </ul>
+        </div>
+        <div class="legal pull-left">
+          <small>&copy; 2017 PyCon UK Society Ltd. All rights reserved.</small>
+        </div>
+      </div>
+      <address>
+        <strong>PyCon UK Society Ltd.</strong>
+        <small>Company Number: <a href="http://data.companieshouse.gov.uk/doc/company/10073469">10073469</a>,
+          c/o Acconomy,
+          Arena Business Centre,
+          Holyrood Close,
+          Poole,
+          BH17 7FJ,
+          United Kingdom</small>
+      </address>
+    </footer>
+  </body>
+
+  <script>
+    try {
+      Typekit.load({
+        async: true
+      });
+    } catch (e) {}
+  </script>
+  <script
+    src="https://code.jquery.com/jquery-3.1.1.slim.min.js"
+    integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc="
+    crossorigin="anonymous"></script>
+  <script>
+    $('.cta').mouseenter(function() {
+      $('.jumbotron').addClass('hover');
+    });
+    $('.cta').mouseleave(function() {
+      $('.jumbotron').removeClass('hover');
+    })
+  </script>
+</html>

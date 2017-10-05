@@ -1,0 +1,121 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Python Powered! -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="X-Clacks-Overhead" content="GNU John Pinner">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Verified fakes of web services by example</title>
+
+    <link rel="stylesheet" href="/static/CACHE/css/74a38dfec164.css" type="text/css" />
+
+    <script src="https://use.typekit.net/kla0hed.js"></script>
+    <!--[if lt IE 9]>
+    <script src="/js/modernizr.js"></script>
+    <![endif]-->
+  </head>
+
+  <body class="home">
+    <nav class="masthead noprint">
+      <label id="toggle" for="menu-toggle"></label>
+      <input type="checkbox" id="menu-toggle" name="menu-toggle" />
+      <ul>
+        <li><a href="http://uk.python.org/">News</a></li>
+        <li><a href="/schedule/">Schedule</a></li>
+        <li><a href="/sponsorship/">Sponsor</a></li>
+        <li><a href="/venue/">Venue</a></li>
+        <li><a href="/code-of-conduct/">Code of Conduct</a></li>
+        <li><a href="/ukpa/">UKPA</a></li>
+        <li><a href="/contact/">Contact</a></li>
+        <li><a class="cta" href="/tickets/">Tickets</a></li>
+      </ul>
+    </nav>
+    <header class="head noprint">
+      <h1><a href="/"><span>PYCON UK</span></a></h1>
+    </header>
+    
+<article class="main-article">
+  <div class="content">
+    <div class="column_content">
+      <h1>Verified fakes of web services by example</h1>
+
+      <p><a href="/speakers/adam-dangoor/">Adam Dangoor</a> | Sunday 12:00 | Ferrier Hall</p>
+
+      <div class="textblock">
+        
+        <p>If your code calls a third party service then you may want to test that your code works but you don't want to call the service in your tests.</p>
+
+<p>It may be expensive, slow or impossible to call that service. For example, if you are making a Slack bot, you want to create tests which don't make calls across the network to Slack.</p>
+
+<p>One approach is to create a mock of that service. Our tests can now run quickly, cheaply and reliably. But if we copy the service incorrectly, or if the service changes, our tests will pass while our code does not work.</p>
+
+<p>Verified fakes solve this problem. You can write tests which confirm that your mock is an accurate representation of the service being mocked. Those tests can be a small subset of your test suite and they can be run periodically, to verify the validity of the many tests which use the mock.</p>
+
+<p>This talk will follow the example of VWS-Python, a verified fake for a proprietary web service. It will discuss the practicalities of creating such a fake and it will focus on the trade-offs, tooling, and approaches involved.</p>
+
+<p>By the end of this talk, the audience will understand how to tie together <code>pytest</code>, Travis CI, <code>requests</code> and <code>Responses</code> to create a verified fake.</p>
+
+<p>The talk is aimed at people who have an interest in writing correct software. It is assumed that the audience is familiar with basic testing techniques.</p>
+
+        
+      </div>
+
+      
+
+    </div>
+  </div>
+</article>
+
+
+    <footer class="foot">
+      <div class="company-information">
+        <ul class="social-icons">
+          <li><a href="https://twitter.com/PyConUK" class="twitter"></a></li>
+          <li><a href="https://www.youtube.com/channel/UChA9XP_feY1-1oSy2L7acog" class="youtube"></a></li>
+        </ul>
+        <div class="foot-nav pull-right">
+          <ul>
+            <li><a href="https://www.blanc.ltd.uk/">Design by Blanc</a></li>
+          </ul>
+        </div>
+        <div class="legal pull-left">
+          <small>&copy; 2017 PyCon UK Society Ltd. All rights reserved.</small>
+        </div>
+      </div>
+      <address>
+        <strong>PyCon UK Society Ltd.</strong>
+        <small>Company Number: <a href="http://data.companieshouse.gov.uk/doc/company/10073469">10073469</a>,
+          c/o Acconomy,
+          Arena Business Centre,
+          Holyrood Close,
+          Poole,
+          BH17 7FJ,
+          United Kingdom</small>
+      </address>
+    </footer>
+  </body>
+
+  <script>
+    try {
+      Typekit.load({
+        async: true
+      });
+    } catch (e) {}
+  </script>
+  <script
+    src="https://code.jquery.com/jquery-3.1.1.slim.min.js"
+    integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc="
+    crossorigin="anonymous"></script>
+  <script>
+    $('.cta').mouseenter(function() {
+      $('.jumbotron').addClass('hover');
+    });
+    $('.cta').mouseleave(function() {
+      $('.jumbotron').removeClass('hover');
+    })
+  </script>
+</html>

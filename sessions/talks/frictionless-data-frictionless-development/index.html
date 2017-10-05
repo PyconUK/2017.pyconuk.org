@@ -1,0 +1,145 @@
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Python Powered! -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="X-Clacks-Overhead" content="GNU John Pinner">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Frictionless Data, Frictionless Development</title>
+
+    <link rel="stylesheet" href="/static/CACHE/css/74a38dfec164.css" type="text/css" />
+
+    <script src="https://use.typekit.net/kla0hed.js"></script>
+    <!--[if lt IE 9]>
+    <script src="/js/modernizr.js"></script>
+    <![endif]-->
+  </head>
+
+  <body class="home">
+    <nav class="masthead noprint">
+      <label id="toggle" for="menu-toggle"></label>
+      <input type="checkbox" id="menu-toggle" name="menu-toggle" />
+      <ul>
+        <li><a href="http://uk.python.org/">News</a></li>
+        <li><a href="/schedule/">Schedule</a></li>
+        <li><a href="/sponsorship/">Sponsor</a></li>
+        <li><a href="/venue/">Venue</a></li>
+        <li><a href="/code-of-conduct/">Code of Conduct</a></li>
+        <li><a href="/ukpa/">UKPA</a></li>
+        <li><a href="/contact/">Contact</a></li>
+        <li><a class="cta" href="/tickets/">Tickets</a></li>
+      </ul>
+    </nav>
+    <header class="head noprint">
+      <h1><a href="/"><span>PYCON UK</span></a></h1>
+    </header>
+    
+<article class="main-article">
+  <div class="content">
+    <div class="column_content">
+      <h1>Frictionless Data, Frictionless Development</h1>
+
+      <p><a href="/speakers/andrew-stretton/">Andrew Stretton</a> | Friday 10:30 | Room D</p>
+
+      <div class="textblock">
+        
+        <p>A common problem in Data Engineering is how to create a platform capable both of importing and exporting tabular data in numerous formats and of maintaining a change history of the data while users update and query it.</p>
+
+<p>Tools like Trifacta (Google Cloud Dataprep [1]) provide a turnkey solution to part of the pipeline but the open source Frictionless Data [2] tools from OKFN can provide a simpler subset of these features tailored to your requirements.</p>
+
+<p>Just as Pandas [3] is built around the Dataframe, the Frictionless Data approach uses data packages [4] consisting of a JSON table schema and a data URI. These schemata can be easily generated for any dataset and work well for a number of applications such as:</p>
+
+<ul>
+<li><p>Validating new data with tools like Goodtables [5] or tableschema-py</p></li>
+<li><p>Building a data update interface with tools such as Handontable JS [6]</p></li>
+<li><p>Creating declarative data processing pipelines that a front end can
+easily interact with via datapackages pipelines [7] and kubernetes [8]</p></li>
+<li><p>Pushing data into various databases and repository tools such
+as CKAN datastore [9]</p></li>
+<li><p>Extending the schema to allow export to linked data formats such as
+IIIF</p></li>
+</ul>
+
+<p>The talk will cover these use cases and compare with the approaches taken by other open-source data science / BI tools such as Datashape [10] with ODO [11] from Continuum and Superset [12] from AirBnB. I will aim to demonstrate that that lightweight web standards like datapackages speed up the development process.</p>
+
+<p>References</p>
+
+<ol>
+<li>https://cloud.google.com/dataprep/</li>
+<li>http://frictionlessdata.io/tools/</li>
+<li>http://pandas.pydata.org/</li>
+<li>http://frictionlessdata.io/data-packages/</li>
+<li>http://goodtables.okfnlabs.org/</li>
+<li>https://github.com/handsontable/handsontable</li>
+<li>https://github.com/frictionlessdata/datapackage-pipelines</li>
+<li>https://kubernetes.io/</li>
+<li>https://github.com/ckan/ckan/tree/master/ckanext/datastore 
+<ol>
+<li>https://github.com/blaze/datashape</li>
+<li>https://github.com/blaze/odo</li>
+<li>https://github.com/apache/incubator-superset</li>
+</ol></li>
+</ol>
+
+        
+      </div>
+
+      
+
+    </div>
+  </div>
+</article>
+
+
+    <footer class="foot">
+      <div class="company-information">
+        <ul class="social-icons">
+          <li><a href="https://twitter.com/PyConUK" class="twitter"></a></li>
+          <li><a href="https://www.youtube.com/channel/UChA9XP_feY1-1oSy2L7acog" class="youtube"></a></li>
+        </ul>
+        <div class="foot-nav pull-right">
+          <ul>
+            <li><a href="https://www.blanc.ltd.uk/">Design by Blanc</a></li>
+          </ul>
+        </div>
+        <div class="legal pull-left">
+          <small>&copy; 2017 PyCon UK Society Ltd. All rights reserved.</small>
+        </div>
+      </div>
+      <address>
+        <strong>PyCon UK Society Ltd.</strong>
+        <small>Company Number: <a href="http://data.companieshouse.gov.uk/doc/company/10073469">10073469</a>,
+          c/o Acconomy,
+          Arena Business Centre,
+          Holyrood Close,
+          Poole,
+          BH17 7FJ,
+          United Kingdom</small>
+      </address>
+    </footer>
+  </body>
+
+  <script>
+    try {
+      Typekit.load({
+        async: true
+      });
+    } catch (e) {}
+  </script>
+  <script
+    src="https://code.jquery.com/jquery-3.1.1.slim.min.js"
+    integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc="
+    crossorigin="anonymous"></script>
+  <script>
+    $('.cta').mouseenter(function() {
+      $('.jumbotron').addClass('hover');
+    });
+    $('.cta').mouseleave(function() {
+      $('.jumbotron').removeClass('hover');
+    })
+  </script>
+</html>
