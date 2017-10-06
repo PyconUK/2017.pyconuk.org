@@ -11,7 +11,7 @@
 <article class="main-article">
   <div id="schedule">
 
-    <p class="noPrint content">
+    <p class="noprint content">
       Jump to:
       {% for schedule in schedules %}
         <a href="#{{ schedule.day }}">{{ schedule.date }}</a>
@@ -21,7 +21,7 @@
 
     {% for schedule in schedules %}
     <div id="{{ schedule.day }}" class="pageBreak">
-      <h1>{{ schedule.date }}</h1>
+      <h1 class="schedule__heading">{{ schedule.date }}</h1>
       <table class="{{ schedule.rooms|length|add:1|apnumber }}">
         <tr>
           <th></th>
@@ -40,18 +40,18 @@
               {% endif %}
               >
             {% if cell.value.url %}
-            <a href="{{ cell.value.url }}">{{ cell.value.text }}</a>
+              <a href="{{ cell.value.url }}">{{ cell.value.text|safe }}</a>
             {% else %}
-            {{ cell.value.text|safe }}
+              {{ cell.value.text|safe }}
             {% endif %}
             {% if cell.value.speaker %}
-            <small class="speaker">{{ cell.value.speaker }}</small>
+              <small class="speaker">{{ cell.value.speaker }}</small>
             {% endif %}
             {% if cell.value.track %}
-            <small class="track">{{ cell.value.track }} track</small>
+              <small class="track">{{ cell.value.track }} track</small>
             {% endif %}
             {% if cell.value.room %}
-            <small class="room">{{ cell.value.room }}</small>
+              <small class="room">{{ cell.value.room }}</small>
             {% endif %}
           </td>
           {% else %}

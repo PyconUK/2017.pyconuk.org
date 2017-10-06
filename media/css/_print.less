@@ -1,0 +1,26 @@
+@media print {
+  .noprint,
+  .noprint *
+  {
+    display: none !important;
+  }
+
+  body {
+    border: none;
+  }
+
+  .header {
+    border: none;
+
+    .callout {
+      color: @text;
+      h1 {
+        margin: 0;
+      }
+    }
+
+    &.red {
+      background: none;
+    }
+  }
+}
