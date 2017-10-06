@@ -56,7 +56,6 @@ def unlinked_pages(request):
         '/cfp/',
         '/kids/',
         '/pinner-award/',
-        '/draft-schedule/',  # TODO Remove this once schedule is at /schedule/
         '/sessions/',
         '/speakers/',
         '/sponsors/',
@@ -163,7 +162,7 @@ def schedule_view(request):
 
     context = {
         'schedules': schedules,
-        'title': 'Draft Schedule',
+        'title': 'Schedule',
     }
 
     return render(request, template, context)

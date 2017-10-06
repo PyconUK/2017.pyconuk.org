@@ -7,7 +7,7 @@ from . import views
 urlpatterns = [
     url(r'^$', views.page, name='index'),
     url(r'^unlinked-pages/$', views.unlinked_pages, name='unlinked_pages'),
-    url(r'^draft-schedule/$', views.schedule_view, name='draft-schedule'),  # TODO rename to schedule
+    url(r'^schedule/$', views.schedule_view, name='schedule'),
     url(r'^sessions/$', views.sessions_view, name='sessions'),
     url(r'^sessions/(?P<session_type>talk|workshop|keynote|panel)s/(?P<slug>[\w-]+)/$', views.session_view, name='session'),
     url(r'^speakers/$', views.speakers_view, name='speakers'),
