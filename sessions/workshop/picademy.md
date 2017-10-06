@@ -1,6 +1,6 @@
 title: Picademy
 subtitle: 
-speaker: carrie-anne-philbin
+speaker: raspberry-pi-foundation
 track: 
 video:
 ---
