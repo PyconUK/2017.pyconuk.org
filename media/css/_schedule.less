@@ -39,11 +39,6 @@
       width: auto;
       padding: 0 1em 1em 1em;
     }
-    td:first-child {
-      font-size: 2em;
-      padding: 0.5em;
-      border-top: 1px solid @edge;
-    }
     .speaker {
       padding-top: 0.5em;
       display: block;
@@ -71,10 +66,6 @@
       td + td {
         border-left: 3px solid @edge;
         width: 100%;
-      }
-      td:first-child {
-        width: 75px;
-        padding: 0.3em;
       }
       td,
       th {
@@ -113,8 +104,19 @@
       &.seven td {
         width: 100/6%;
       }
-      td:first-child {
-        width: 75px !important;
+    }
+  }
+}
+
+#schedule {
+  table {
+    .timestamp {
+      font-size: 1em;
+      padding: 6px;
+      border-top: 1px solid @edge;
+
+      @media all and (min-width: 720px) {
+        width: 75px;
       }
     }
   }
