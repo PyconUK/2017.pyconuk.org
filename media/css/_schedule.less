@@ -65,7 +65,6 @@
       }
       td + td {
         border-left: 3px solid @edge;
-        width: 100%;
       }
       td,
       th {
@@ -74,6 +73,7 @@
         border-top: 1px solid @edge;
         padding: 0.75em;
         width: auto;
+        max-width: 0px;
       }
       th {
         .font-brand();
@@ -110,13 +110,15 @@
 
 #schedule {
   table {
-    .timestamp {
+    td.timestamp {
       font-size: 1em;
-      padding: 6px;
+      padding: 4px 8px;
       border-top: 1px solid @edge;
+      text-align: center;
 
       @media all and (min-width: 720px) {
         width: 75px;
+        max-width: 75px;
       }
     }
   }
