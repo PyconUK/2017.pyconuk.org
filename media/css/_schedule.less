@@ -1,0 +1,138 @@
+#schedule {
+  table {
+    border-collapse: collapse;
+    border: 1px solid @edge;
+    width: 100%;
+    font-size: 0.8em;
+    @media screen and (min-width: 900px) {
+      font-size: 1em;
+    }
+    th {
+      display: none;
+    }
+    td {
+      display: block;
+      border: none;
+      padding: 0 1em 1em 1em;
+      @media print {
+        padding: 0 0.5em 0.5em 0.5em;
+      }
+    }
+    .speaker {
+      padding-top: 0.5em;
+      display: block;
+      color: lighten(@text, 50%);
+    }
+    .track {
+      padding-top: 0.5em;
+      display: block;
+      color: lighten(@text, 50%);
+    }
+    .empty-cell {
+      display: none;
+    }
+    @media screen and (min-width:720px), print {
+      td,
+      th {
+        display: table-cell;
+        vertical-align: top;
+        border-top:  1px solid @edge;
+        border-left: 1px solid @edge;
+        padding: 0.75em;
+        max-width: 0px;
+        @media print {
+          border-top: 0.5px solid @edge;
+        }
+      }
+      th {
+        .font-brand();
+        @media screen {
+          font-size: 1.2em;
+        }
+        border-left: 1px solid @edge;
+      }
+      .section {
+        background: @diff;
+        @media screen {
+          vertical-align: middle;
+          text-align: center;
+          font-size: 1.2em;
+        }
+      }
+      .empty-cell {
+        display: table-cell;
+        background: black;
+      }
+    }
+    @media print {
+      td {
+        padding: 0.5em;
+      }
+    }
+  }
+}
+
+#schedule {
+  .schedule__heading {
+    margin: 0;
+    padding: 1em 0;
+    background: @edge;
+    color: @back;
+    text-align: center;
+
+    @media print {
+      background: none;
+      color: @text;
+    }
+  }
+
+  .pageBreak {
+    border-top: 16px solid black;
+    page-break-before: always;
+    @media print {
+      border-top: none;
+    }
+  }
+
+  table {
+    td.timestamp {
+      font-size: 1em;
+      padding: 4px 8px;
+      border-top: 1px solid @edge;
+      text-align: center;
+
+      // @@AWLC: I'll be honest, I got these values by playing around in
+      // Chrome until it looked right.  Something funky happens with the
+      // auto-resizing columns in the rest of the table.
+      @media all and (min-width: 720px) {
+        width:     55px;
+        min-width: 55px;
+        max-width: 55px;
+      }
+      @media print {
+        width:     30px;
+        min-width: 30px;
+        max-width: 30px;
+      }
+    }
+  }
+}
+
+@media print {
+  #schedule {
+    font-family: Arial;
+
+    a {
+      font-weight: normal;
+      color: @text;
+    }
+
+    table {
+      font-size: 0.65em;
+
+      .speaker, .track {
+        display: none;
+      }
+    }
+  }
+}
