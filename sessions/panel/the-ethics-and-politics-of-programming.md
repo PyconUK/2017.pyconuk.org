@@ -1,6 +1,6 @@
 title: Panel Discussion - The Ethics and Politics of Programming
 subtitle: 
-speaker: nicholas-tollervey
+speaker: carol-willing
 track: 
 video:
 ---

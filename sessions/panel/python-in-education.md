@@ -1,6 +1,6 @@
 title: Panel Discussion - Python in Education
 subtitle: 
-speaker: nicholas-tollervey
+speaker: daniel-pope
 track: 
 video:
 ---

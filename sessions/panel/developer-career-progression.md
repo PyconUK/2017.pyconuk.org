@@ -1,6 +1,6 @@
 title: Panel Discussion - Developer Career Progression
 subtitle: 
-speaker: nicholas-tollervey
+speaker: samathy-barratt
 track: 
 video:
 ---
