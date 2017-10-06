@@ -10,14 +10,15 @@
 
 <article class="main-article">
   <div id="schedule">
-    <table class="six noPrint v-centered">
-      <tr>
-        <td>Jump&nbsp;to:</td>
-        {% for schedule in schedules %}
-        <td><a href="#{{ schedule.day }}">{{ schedule.date }}</a></td>
-        {% endfor %}
-      </tr>
-    </table>
+
+    <p class="noPrint content">
+      Jump to:
+      {% for schedule in schedules %}
+        <a href="#{{ schedule.day }}">{{ schedule.date }}</a>
+        {% if forloop.counter != schedules|length %} | {% endif %}
+      {% endfor %}
+    </p>
+
     {% for schedule in schedules %}
     <div id="{{ schedule.day }}" class="pageBreak">
       <h1>{{ schedule.date }}</h1>
@@ -30,7 +31,7 @@
         </tr>
         {% for row in schedule.table %}
         <tr>
-          <td>{{ row.0.value }}</td>
+          <td class="timestamp">{{ row.0.value }}</td>
           {% for cell in row|slice:"1:" %}
           {% if cell.value %}
           <td colspan="{{ cell.width }}" rowspan="{{ cell.height }}"
