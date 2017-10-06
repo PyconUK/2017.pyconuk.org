@@ -8,7 +8,7 @@ from Thursday 26th to Monday 30th October.
 
 * * *
 
-Tickets are on sale until 23:59 BST on Monday 9th October.
+Tickets are on sale until 23:59 BST on Monday 9th October and the [full schedule](/schedule/) is now published.
 
 * * *
 
@@ -21,7 +21,7 @@ find that there is no more affordable accommodation available.  Please see the
 
 * * *
 
-The first four days of the conference will include talks and workshops,
+The [first four days of the conference](/schedule/) will include talks and workshops,
 while the fifth will be a day of sprints.
 
 We're delighted that the [Education Track](/education/) returns,
