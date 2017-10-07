@@ -965,21 +965,23 @@ img.avatar {
   #schedule table th {
     display: table-cell;
     vertical-align: top;
-    border-top: 1px solid black;
-    border-left: 1px solid black;
+    border: 1px solid black;
     padding: 0.75em;
     max-width: 0px;
   }
   #schedule table th {
     font-family: 'FuturaBT-Medium';
-    border-left: 1px solid black;
   }
   #schedule table .section {
     background: pink;
   }
   #schedule table .empty-cell {
     display: table-cell;
-    background: black;
+    background: #aaa;
+    border: none;
+  }
+  #schedule table .empty-cell + .empty-cell {
+    border-left: none;
   }
 }
 @media screen and (min-width: 720px) and print, print and print {
@@ -1055,11 +1057,19 @@ img.avatar {
     font-weight: normal;
     color: black;
   }
+  #schedule td.timestamp {
+    border: none !important;
+    padding-top: 5px;
+  }
   #schedule table {
     font-size: 0.65em;
+    width: calc(99%);
   }
   #schedule table .speaker,
   #schedule table .track {
+    display: none;
+  }
+  #callout__schedule {
     display: none;
   }
 }
