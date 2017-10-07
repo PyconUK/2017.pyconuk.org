@@ -36,8 +36,7 @@
       th {
         display: table-cell;
         vertical-align: top;
-        border-top:  1px solid @edge;
-        border-left: 1px solid @edge;
+        border: 1px solid @edge;
         padding: 0.75em;
         max-width: 0px;
         @media print {
@@ -49,7 +48,6 @@
         @media screen {
           font-size: 1.2em;
         }
-        border-left: 1px solid @edge;
       }
       .section {
         background: @diff;
@@ -61,7 +59,11 @@
       }
       .empty-cell {
         display: table-cell;
-        background: black;
+        background: #aaa;
+        border: none;
+      }
+      .empty-cell + .empty-cell {
+        border-left: none;
       }
     }
     @media print {
@@ -127,12 +129,24 @@
       color: @text;
     }
 
+    td.timestamp {
+      border: none !important;
+      padding-top: 5px;
+    }
+
     table {
       font-size: 0.65em;
+
+      // Just enough so the right-hand border shows up when printing
+      width: calc(100% - 1px);
 
       .speaker, .track {
         display: none;
       }
     }
+  }
+
+  #callout__schedule {
+    display: none;
   }
 }
