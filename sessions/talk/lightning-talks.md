@@ -1,4 +1,4 @@
-title: Lighning Talks
+title: Lightning Talks
 subtitle: 
 speaker: absolutely-anyone
 track: 
