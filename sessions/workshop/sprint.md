@@ -27,7 +27,7 @@ That’s OK too, neither am I and neither is everyone else. You truly don’t ne
 It simply doesn’t work like that. For one thing, one of the main points of a sprint is to encourage and help new people. You’ll be able to work at your own pace, learning the things you need to learn as you go along, and you’ll be supported by other people.
 
 ## Do I have to stay for a whole sprint?
-Not at all. Drop in just for a bit, if you just want to see what it’s like. There'll be plenty of other things on the code day too, such as [clinics and workshops](/code-day/), so don’t miss them. Other people will be dropping in and out of sprints as well.
+Not at all. Drop in just for a bit, if you just want to see what it’s like. Other people will be dropping in and out of sprints as well.
 
 ## Can I just come along to see what it’s like?
 Yes! The curious are very welcome too.
