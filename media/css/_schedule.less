@@ -129,8 +129,16 @@
       color: @text;
     }
 
+    td.timestamp {
+      border: none !important;
+      padding-top: 5px;
+    }
+
     table {
       font-size: 0.65em;
+
+      // Just enough so the right-hand border shows up when printing
+      width: calc(100% - 1px);
 
       .speaker, .track {
         display: none;
