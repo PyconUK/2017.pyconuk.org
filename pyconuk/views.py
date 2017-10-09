@@ -60,6 +60,7 @@ def unlinked_pages(request):
         '/sessions/',
         '/speakers/',
         '/sponsors/',
+        '/tickets/',
         '/transcode/',
     ]
 
