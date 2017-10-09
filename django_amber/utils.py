@@ -1,6 +1,7 @@
 from multiprocessing import Process
 from time import sleep
 from socket import socket
+import traceback
 
 import requests
 
@@ -32,11 +33,13 @@ def wait_for_server(port=default_port):
 def get_with_retries(url, num_retries=5):
     for i in range(num_retries):
         try:
-            return requests.get(url)
-        except requests.exceptions.ConnectionError:
-            pass
+            rsp = requests.get(url)
+            rsp.raise_for_status()
+        except requests.exceptions.RequestException as e:
+            print('get_with_retries', i)
+            traceback.print_exc()
 
-        sleep(0.1 * 2 ** i)
+        sleep(0.2 * 2 ** i)
 
     requests.get(url)
 
