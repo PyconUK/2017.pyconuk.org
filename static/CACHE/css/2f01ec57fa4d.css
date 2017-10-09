@@ -277,15 +277,6 @@ nav li:before {
 nav li:first-child {
   border-top: none;
 }
-nav li:last-child a {
-  background: white;
-  color: black;
-}
-nav li:last-child a:hover {
-  color: white;
-  background: #0071bc;
-  text-decoration: none;
-}
 nav a {
   display: block;
   text-align: center;
