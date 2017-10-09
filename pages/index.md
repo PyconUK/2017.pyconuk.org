@@ -8,7 +8,8 @@ from Thursday 26th to Monday 30th October.
 
 * * *
 
-Tickets are on sale until 23:59 BST on Monday 9th October and the [full schedule](/schedule/) is now published.
+Tickets for the main conference have now sold out, and we're expecting over 700 people at the conference!
+(But there are still a handful of tickets left for the [children's day](https://hq.pyconuk.org/children/orders/new/).)
 
 * * *
 
