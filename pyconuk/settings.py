@@ -27,7 +27,22 @@ SECRET_KEY = 'secret'
 # don't accidentally leak information in error pages.  This has the added
 # effect of massively speeding up the build, since LESS compilation no longer
 # happens on every request!
-DEBUG = bool(os.getenv('DEBUG', False))
+
+def get_debug():
+    if os.environ.get('DEBUG'):
+        return os.environ['DEBUG'].lower() == 'true'
+
+    elif (
+        os.environ.get('TRAVIS') == 'true' and
+        os.environ.get('TRAVIS_EVENT_TYPE') == 'pull_request'
+    ):
+        return True
+
+    else:
+        return False
+
+
+DEBUG = get_debug()
 
 # This is fine.
 ALLOWED_HOSTS = ['*']
