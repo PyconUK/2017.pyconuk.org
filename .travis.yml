@@ -4,6 +4,10 @@ sudo: false
 
 cache: pip
 
+branches:
+  only:
+    - master
+
 install:
   - pip install --disable-pip-version-check --upgrade pip
   - pip install -r requirements.txt
