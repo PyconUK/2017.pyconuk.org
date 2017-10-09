@@ -4,21 +4,25 @@
 #
 #    pip-compile --output-file requirements.txt requirements.in
 #
+certifi==2017.7.27.1      # via requests
+chardet==3.0.4            # via requests
 click==6.7                # via pip-tools
-django-amber==0.8.0
 django-appconf==1.0.2     # via django-compressor
 django-compressor==2.1
 django-markdown-deux==1.0.5
-django==1.9.7             # via django-amber
+django==1.11.6
 first==2.0.1              # via pip-tools
-http-crawler==0.1.6       # via django-amber
-lxml==3.6.0               # via http-crawler
+http-crawler==0.2.0
+idna==2.6                 # via requests
+lxml==4.0.0               # via http-crawler
 markdown2==2.3.1          # via django-markdown-deux
 pip-tools==1.9.0
-pyyaml==3.11              # via django-amber
+pytz==2017.2              # via django
+pyyaml==3.12
 rcssmin==1.0.6            # via django-compressor
-requests==2.10.0          # via django-amber, http-crawler
+requests==2.18.4          # via http-crawler
 rjsmin==1.0.12            # via django-compressor
 six==1.10.0               # via pip-tools
-tinycss2==0.5             # via http-crawler
-webencodings==0.5         # via tinycss2
+tinycss2==0.6.1           # via http-crawler
+urllib3==1.22             # via requests
+webencodings==0.5.1       # via tinycss2
