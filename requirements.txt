@@ -15,6 +15,7 @@ http-crawler==0.1.6       # via django-amber
 lxml==3.6.0               # via http-crawler
 markdown2==2.3.1          # via django-markdown-deux
 pip-tools==1.9.0
+psycopg2==2.7.3.1
 pyyaml==3.11              # via django-amber
 rcssmin==1.0.6            # via django-compressor
 requests==2.10.0          # via django-amber, http-crawler

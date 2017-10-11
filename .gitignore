@@ -10,3 +10,5 @@ staticfiles/CACHE
 
 .DS_Store
 node_modules
+
+db_connection.yml
