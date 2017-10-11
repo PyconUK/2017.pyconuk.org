@@ -1,3 +1,4 @@
+original_id: 0B9A
 title: "Intermediate TDD workshop: outside-in, mocking & isolation"
 subtitle: "purists vs pragmatists, mocks vs end-to-end tests, let's illustrate all the pros + cons with a real example."
 speaker: harry-percival

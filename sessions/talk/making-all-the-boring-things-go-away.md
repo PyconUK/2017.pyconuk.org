@@ -1,3 +1,4 @@
+original_id: 0BAD
 title: "Making all the boring things go away"
 subtitle: "Config files, command line args, logging and testing for small scripts."
 speaker: chris-withers

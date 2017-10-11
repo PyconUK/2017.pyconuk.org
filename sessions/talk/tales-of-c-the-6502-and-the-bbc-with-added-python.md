@@ -1,3 +1,4 @@
+original_id: 796C
 title: "Tales of C, the 6502 and the BBC (with added python)"
 subtitle: "How I learnt the hard way you shouldn't just write a C compiler"
 speaker: benjamin-misell

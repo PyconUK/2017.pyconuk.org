@@ -1,3 +1,4 @@
+original_id: 54C7
 title: "Understanding Natural Language with Word Vectors"
 subtitle: ""
 speaker: marco-bonzanini

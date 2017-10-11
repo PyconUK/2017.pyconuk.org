@@ -1,3 +1,4 @@
+original_id: C27B
 title: "Add GUIs to your data pipelines with Jupyter widgets"
 subtitle: ""
 speaker: pascal-bugnion

@@ -1,3 +1,4 @@
+original_id: 9DEB
 title: "Toying with Python ByteCode - Hands-on session"
 subtitle: "How to use the dis module to understand the intermediate language of the Python interpreter."
 speaker: jan-chwiejczak

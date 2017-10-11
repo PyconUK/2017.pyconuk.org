@@ -1,3 +1,4 @@
+original_id: E710
 title: "Intelligent approach to decision-making models"
 subtitle: "Using deep learning to improve parameter recovery from diffusion model for conflict tasks"
 speaker: solveiga-vivian-griffiths

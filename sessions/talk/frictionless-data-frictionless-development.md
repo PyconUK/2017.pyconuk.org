@@ -1,3 +1,4 @@
+original_id: 54C4
 title: "Frictionless Data, Frictionless Development"
 subtitle: "Building a scalable data converter, processor and warehouse with tabulator, tableschema-py, kubernetes and flask"
 speaker: andrew-stretton

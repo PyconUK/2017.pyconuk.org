@@ -1,3 +1,4 @@
+original_id: C28C
 title: "Verified fakes of web services by example"
 subtitle: ""
 speaker: adam-dangoor

@@ -1,3 +1,4 @@
+original_id: C27F
 title: "Demystifying Deep Learning Frameworks : Function Approximati"
 subtitle: "Generic Function Approximation using Tensorflow"
 speaker: siddhartha-rai

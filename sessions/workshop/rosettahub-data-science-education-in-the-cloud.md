@@ -1,3 +1,4 @@
+original_id: 7950
 title: "RosettaHUB: Data Science Education in the cloud"
 subtitle: "Towards a universal platform and a global social hub for open data science"
 speaker: karim-chine

@@ -1,3 +1,4 @@
+original_id: 303F
 title: "Tackling Complexity with Constraint Programming"
 subtitle: "A gentle introduction to Constraint Programming using Python to solve scheduling and optimisation problems"
 speaker: moritz-eissenhauer

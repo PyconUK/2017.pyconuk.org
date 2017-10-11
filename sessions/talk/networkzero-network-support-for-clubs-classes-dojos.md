@@ -1,3 +1,4 @@
+original_id: 0BA7
 title: "NetworkZero: network support for clubs, classes & dojos"
 subtitle: ""
 speaker: tim-golden

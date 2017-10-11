@@ -1,3 +1,4 @@
+original_id: E70C
 title: "Rise of the robots and world domination"
 subtitle: "Using Python to network robotic telescopes and people, for science and education."
 speaker: edward-gomez

@@ -1,3 +1,4 @@
+original_id: C28A
 title: "Lessons from combing micro:bits raspberry pis and tensorflow"
 subtitle: ""
 speaker: luke-spademan
