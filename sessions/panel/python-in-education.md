@@ -51,8 +51,8 @@ Kushal Das is a developer of SecureDrop at Freedom of the Press
 Foundation. He is a long time contributor to various upstream Free
 Software projects including the Fedora project. He is a core developer
 of CPython, and also a director of the Python Software Foundation.
-For the last 10 years he is organizing an online summer training to
-help people to become upstream contibutor, and wrote an online book to
+For the last 10 years he has been organizing online summer training to
+help people to become upstream contibutors, and wrote an online book to
 help in the same.
 
 ## Tom Crick
