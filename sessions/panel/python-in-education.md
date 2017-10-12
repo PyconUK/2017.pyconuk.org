@@ -33,7 +33,7 @@ formal education in the UK, Carrie Anne also hosts a Computer Science series on
 popular educational YouTube channel
 [Crash Course](http://www.youtube.com/crashcourse)
 and creates technology tutorials on her own channel the
-[Geek Gurl Diaries](www.geekgurldiaries.co.uk).
+[Geek Gurl Diaries](http://www.geekgurldiaries.co.uk).
 
 ## Cat Lamin
 
