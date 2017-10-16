@@ -1,4 +1,4 @@
-title: "Testing in Scientific/Engineering Applications"
+title: "Testing in Scientific / Engineering Applications"
 subtitle: "Interactive vs? test driven development"
 speaker: claus
 track: 
