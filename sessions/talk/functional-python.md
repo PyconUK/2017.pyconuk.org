@@ -1,3 +1,4 @@
+original_id: E723
 title: "Functional Python"
 subtitle: ""
 speaker: paul-jones

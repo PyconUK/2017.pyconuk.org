@@ -1,3 +1,4 @@
+original_id: E711
 title: "Building a real-time audio sampling app on the PyBoard"
 subtitle: "A talk exploring MicroPython, the PyBoard and the PyBoard audio module"
 speaker: alan-christie

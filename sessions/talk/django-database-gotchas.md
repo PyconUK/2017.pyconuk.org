@@ -1,3 +1,4 @@
+original_id: 0BB7
 title: "Django Database Gotchas"
 subtitle: "Two key concepts you can't afford to ignore"
 speaker: david-seddon

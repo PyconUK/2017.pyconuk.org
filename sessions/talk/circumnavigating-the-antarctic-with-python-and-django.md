@@ -1,3 +1,4 @@
+original_id: C284
 title: "Circumnavigating the Antarctic with Python and Django"
 subtitle: "Our experience using Python and Django to develop a science data management system for the ACE expedition"
 speaker: carles-pina-i-estany

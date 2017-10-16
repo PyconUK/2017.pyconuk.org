@@ -1,3 +1,4 @@
+original_id: 3034
 title: "The art of testing in Python"
 subtitle: "How to write automated tests using the unittest framework, illustrated with famous art"
 speaker: jan-chwiejczak

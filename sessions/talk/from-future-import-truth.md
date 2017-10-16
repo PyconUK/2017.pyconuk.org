@@ -1,3 +1,4 @@
+original_id: 795D
 title: "from __future__ import Truth"
 subtitle: "Building an automated fact checking system in Python"
 speaker: michael-skelly

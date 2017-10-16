@@ -1,3 +1,4 @@
+original_id: 3039
 title: "Coding with Compassion"
 subtitle: "How can developers exercise compassion to business colleagues, to fellow developers, and to themselves?"
 speaker: julie-macdonell

@@ -1,3 +1,4 @@
+original_id: 54D9
 title: "The log lines that saved vacation"
 subtitle: "How logging is designed and how to make the most out of it"
 speaker: mario-corchero

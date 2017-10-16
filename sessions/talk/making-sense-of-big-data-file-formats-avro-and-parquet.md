@@ -1,3 +1,4 @@
+original_id: 0BAB
 title: "Making Sense of Big Data File Formats: Avro and Parquet"
 subtitle: ""
 speaker: raoul-gabriel-urma

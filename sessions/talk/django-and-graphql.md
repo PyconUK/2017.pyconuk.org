@@ -1,3 +1,4 @@
+original_id: 9DF6
 title: "Django and GraphQL"
 subtitle: "exploring new a way to make APIs with Django"
 speaker: patrick-arminio

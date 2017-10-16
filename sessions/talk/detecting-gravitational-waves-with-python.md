@@ -1,3 +1,4 @@
+original_id: C289
 title: "Detecting gravitational waves with python"
 subtitle: "Python software was crucial in the first direct detection of gravitational waves, this talk explains how."
 speaker: duncan-macleod

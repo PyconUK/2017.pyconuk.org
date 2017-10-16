@@ -1,3 +1,4 @@
+original_id: C28D
 title: "Programming Music for Performance Workshop"
 subtitle: ""
 speaker: ryan-kirkbride

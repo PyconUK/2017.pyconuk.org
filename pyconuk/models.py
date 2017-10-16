@@ -29,6 +29,7 @@ class Speaker(ModelWithContent):
 
 
 class Session(ModelWithContent):
+    original_id = models.CharField(max_length=4)
     speaker = models.ForeignKey(Speaker, null=True)
     title = models.CharField(max_length=255)
     subtitle = models.CharField(max_length=255, null=True)

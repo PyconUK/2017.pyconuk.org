@@ -1,3 +1,4 @@
+original_id: E718
 title: "You don't have to be mad to work here... but it helps"
 subtitle: "Mental health and the coding community - how can we help each other to cope when life overwhelms us?"
 speaker: cat-lamin

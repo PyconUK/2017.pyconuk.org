@@ -1,3 +1,4 @@
+original_id: 54CB
 title: "Using privilege to help, not hurt, diversity"
 subtitle: ""
 speaker: alex-chan

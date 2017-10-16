@@ -1,3 +1,4 @@
+original_id: C293
 title: "Software's Seven Deadly Wastes"
 subtitle: "The seven things that slow your team down"
 speaker: jez-halford

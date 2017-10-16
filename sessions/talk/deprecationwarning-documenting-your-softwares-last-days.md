@@ -1,3 +1,4 @@
+original_id: 7966
 title: "DeprecationWarning: documenting your software’s last days"
 subtitle: ""
 speaker: daniel-beck

@@ -1,3 +1,4 @@
+original_id: E70B
 title: "Python for Conducting Operational Research in Healthcare"
 subtitle: ""
 speaker: geraint-palmer

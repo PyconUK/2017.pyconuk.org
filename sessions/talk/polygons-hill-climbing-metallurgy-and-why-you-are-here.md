@@ -1,3 +1,4 @@
+original_id: C281
 title: "Polygons, hill climbing, metallurgy and why you are here"
 subtitle: "(no philosophical life advice given in this talk)"
 speaker: vincent-knight

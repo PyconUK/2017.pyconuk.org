@@ -1,3 +1,4 @@
+original_id: C286
 title: "Building a python frontend for HPC codes"
 subtitle: ""
 speaker: alice-harpole

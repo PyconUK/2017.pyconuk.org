@@ -1,3 +1,4 @@
+original_id: C290
 title: "Declarative Business Process Management and Async Generators"
 subtitle: "Introducing WorkScheme: a Python 3.6 and aiohttp implementation of a lightweight BPM engine using a functional DSL."
 speaker: james-skillen

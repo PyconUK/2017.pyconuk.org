@@ -1,3 +1,4 @@
+original_id: 795F
 title: "Abstract Base Classes"
 subtitle: "A smart use of metaclasses in Python"
 speaker: leonardo-giordani

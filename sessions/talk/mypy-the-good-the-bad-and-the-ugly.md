@@ -1,3 +1,4 @@
+original_id: 9DF8
 title: "MyPy: The Good, The Bad and The Ugly"
 subtitle: "Adding static type checking to a real-world codebase"
 speaker: david-sim

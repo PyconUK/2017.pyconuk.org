@@ -1,3 +1,4 @@
+original_id: 54BC
 title: Panel Discussion - The Ethics and Politics of Programming
 subtitle: 
 speaker: carol-willing

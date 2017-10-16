@@ -1,3 +1,4 @@
+original_id: 3044
 title: "Programming Music for Performance: Live coding with FoxDot"
 subtitle: ""
 speaker: ryan-kirkbride

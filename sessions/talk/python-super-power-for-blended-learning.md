@@ -1,3 +1,4 @@
+original_id: 0BA9
 title: "Python: Super Power for Blended Learning"
 subtitle: "Super power for blended learning"
 speaker: rizky-ariestiyansyah
