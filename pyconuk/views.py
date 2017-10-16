@@ -58,6 +58,7 @@ def unlinked_pages(request):
         '/kids/',
         '/pinner-award/',
         '/sessions/',
+        '/session-chairing/',
         '/speakers/',
         '/sponsors/',
         '/tickets/',
