@@ -1,6 +1,8 @@
 title: Session Chairing
 ---
 
+The schedule for chairing sessions can be viewed [by person](/chairs/by-person/) or [by session](/chairs/by-session/)
+
 ## Responsibilities
 
 Session chairs have an extremely valuable role in the smooth running of a conference. You manage a room for a given run of talks and are responsible for the following things:
