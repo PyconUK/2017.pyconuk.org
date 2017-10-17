@@ -14,4 +14,5 @@ The idea is to start at the beginning, and see how far we can get.
 
 Note that this will be the sort of talk where people are welcome to interrupt and ask questions, join in, or even correct me if I've got something wrong(!).
 
-The slides and their notes (with links) are available at https://github.com/tibs/python-history
+The slides and their notes (with links) are available at
+[https://github.com/tibs/python-history](https://github.com/tibs/python-history)
