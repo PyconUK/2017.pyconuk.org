@@ -1,7 +1,7 @@
 original_id: 795B
 title: "The Robot Composer - Writing Music With Machine Learning"
 subtitle: ""
-speaker: rolo
+speaker: rolo-mawlabaux
 track: pydata
 video:
 ---
