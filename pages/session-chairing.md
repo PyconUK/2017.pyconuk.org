@@ -35,4 +35,4 @@ To help do this, we've put together a small checklist of things you should do as
 
 This seems like a lot, but it's mostly fairly simple. Keep track of your responsibilities, and everything will go smoothly. Enjoy your sessions!
 
-The schedule for chairing sessions can be viewed [by person](/chairs-by-person) or [by session](/chairs-by-session)
+The schedule for chairing sessions can be viewed [by person](/chairs/by-person) or [by session](/chairs/by-session)
