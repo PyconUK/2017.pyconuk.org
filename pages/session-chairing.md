@@ -34,3 +34,5 @@ To help do this, we've put together a small checklist of things you should do as
 6. When there's only 5 minutes left in the session, call it to a close. Thank the speaker!
 
 This seems like a lot, but it's mostly fairly simple. Keep track of your responsibilities, and everything will go smoothly. Enjoy your sessions!
+
+The schedule for chairing sessions can be viewed [by person](/chairs-by-person) or [by session](/chairs-by-session)
