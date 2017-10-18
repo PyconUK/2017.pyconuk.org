@@ -42,6 +42,16 @@ title: Session Chairs by Session
 
 * evening: Helen Sherwood-Taylor
 
+### Room C
+
+* morning: Marco Bonzanini
+
+* mid-morning: Frank Kelly
+
+* afternoon: Tim Vivian-Griffiths
+
+* evening: Marco Bonzanini
+
 ### Room A
 
 * mid-morning: None
@@ -56,7 +66,7 @@ title: Session Chairs by Session
 
 * mid-morning: Ann Barr
 
-* afternoon: None
+* afternoon: Frank Kelly
 
 ### Ferrier Hall
 
@@ -90,7 +100,7 @@ title: Session Chairs by Session
 
 * afternoon: None
 
-* evening: None
+* evening: Frank Kelly
 
 ### Ferrier Hall
 
@@ -98,7 +108,7 @@ title: Session Chairs by Session
 
 * mid-morning: Alex Chan
 
-* afternoon: None
+* afternoon: Marco Bonzanini
 
 * evening: Neil Stoker
 
