@@ -42,11 +42,21 @@ title: Session Chairs by Session
 
 * evening: Helen Sherwood-Taylor
 
+### Room C
+
+* morning: Marco Bonzanini
+
+* mid-morning: Frank Kelly
+
+* afternoon: Tim Vivian-Griffiths
+
+* evening: Marco Bonzanini
+
 ### Room A
 
 * mid-morning: None
 
-* afternoon: None
+* afternoon: Tom Viner
 
 ## Saturday 28th
 
@@ -56,13 +66,13 @@ title: Session Chairs by Session
 
 * mid-morning: Ann Barr
 
-* afternoon: None
+* afternoon: Frank Kelly
 
 ### Ferrier Hall
 
 * morning: Helen Sherwood-Taylor
 
-* mid-morning: None
+* mid-morning: Tim Vivian-Griffiths
 
 * afternoon: Helen Sherwood-Taylor
 
@@ -86,11 +96,11 @@ title: Session Chairs by Session
 
 * morning: Peter Inglesby
 
-* mid-morning: None
+* mid-morning: Tom Viner
 
 * afternoon: None
 
-* evening: None
+* evening: Frank Kelly
 
 ### Ferrier Hall
 
@@ -98,7 +108,7 @@ title: Session Chairs by Session
 
 * mid-morning: Alex Chan
 
-* afternoon: None
+* afternoon: Marco Bonzanini
 
 * evening: Neil Stoker
 
@@ -114,8 +124,8 @@ title: Session Chairs by Session
 
 ### Room C
 
-* morning: None
+* morning: Tim Vivian-Griffiths
 
-* mid-morning: None
+* mid-morning: Tim Vivian-Griffiths
 
 * afternoon: None
