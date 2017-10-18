@@ -19,7 +19,9 @@ Additionally, we'll need:
 
 Sponsors can set up booths in the [Marble Hall](http://www.cardiffcityhall.com/rooms/marble-hall) from the Thursday to the Sunday of the conference.
 
-Your booth should be staffed during the morning break (10:45&ndash;11:15), lunch (13:00&ndash;14:30), and in the afternoon break (16:00&ndash;16:30).
+You will be able to set up from 08:00 on Thursday, and we will keep the Marble Hall free from delegates until after the first keynote, around 10:30.
+
+Your booth should be staffed during the morning break (11:00&ndash;11:30), lunch (13:00&ndash;14:30), and in the afternoon break (16:00&ndash;16:30).
 These will be the busiest times, but you might also like to have people around in between.
 
 Each booth will have a 2×1m table, with access to electrical power, space behind to sit, and space behind or to one side for banners.
