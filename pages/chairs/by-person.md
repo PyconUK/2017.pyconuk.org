@@ -56,19 +56,11 @@ title: Session Chairs by Person
 
 * mid-morning: Room A
 
-* afternoon: Room A
-
-### Saturday 28th
-
-* mid-morning: Ferrier Hall
-
 ### Sunday 29th
-
-* mid-morning: Room C
 
 * afternoon: Room C
 
-* morning: Room C
+* morning: Ferrier Hall
 
 ## Neil Stoker
 
@@ -175,6 +167,26 @@ title: Session Chairs by Person
 ### Friday 27th
 
 * afternoon: Room C
+
+### Saturday 28th
+
+* mid-morning: Ferrier Hall
+
+### Sunday 29th
+
+* morning: Room C
+
+* mid-morning: Room C
+
+## Tom Viner
+
+### Friday 27th
+
+* afternoon: Room A
+
+### Sunday 29th
+
+* mid-morning: Assembly Room
 
 ## Vincent Knight
 

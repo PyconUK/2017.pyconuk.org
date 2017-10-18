@@ -56,7 +56,7 @@ title: Session Chairs by Session
 
 * mid-morning: None
 
-* afternoon: None
+* afternoon: Tom Viner
 
 ## Saturday 28th
 
@@ -72,7 +72,7 @@ title: Session Chairs by Session
 
 * morning: Helen Sherwood-Taylor
 
-* mid-morning: None
+* mid-morning: Tim Vivian-Griffiths
 
 * afternoon: Helen Sherwood-Taylor
 
@@ -96,7 +96,7 @@ title: Session Chairs by Session
 
 * morning: Peter Inglesby
 
-* mid-morning: None
+* mid-morning: Tom Viner
 
 * afternoon: None
 
@@ -124,8 +124,8 @@ title: Session Chairs by Session
 
 ### Room C
 
-* morning: None
+* morning: Tim Vivian-Griffiths
 
-* mid-morning: None
+* mid-morning: Tim Vivian-Griffiths
 
 * afternoon: None
