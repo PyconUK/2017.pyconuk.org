@@ -98,7 +98,7 @@ title: Session Chairs by Session
 
 * mid-morning: Tom Viner
 
-* afternoon: None
+* afternoon: Kirk Northrop
 
 * evening: Frank Kelly
 

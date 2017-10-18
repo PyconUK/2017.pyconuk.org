@@ -46,6 +46,10 @@ title: Session Chairs by Person
 
 * mid-morning: Room D
 
+### Sunday 29th
+
+* afternoon: Assembly Room
+
 ## None
 
 ### Thursday 26th
@@ -58,9 +62,9 @@ title: Session Chairs by Person
 
 ### Sunday 29th
 
-* afternoon: Room C
-
 * morning: Ferrier Hall
+
+* afternoon: Room C
 
 ## Neil Stoker
 
