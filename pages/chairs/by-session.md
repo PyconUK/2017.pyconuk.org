@@ -16,7 +16,7 @@ title: Session Chairs by Session
 
 ### Room A
 
-* morning: None
+* morning: Adaora Oragudosi
 
 * mid-morning: Neil Stoker
 
@@ -54,7 +54,7 @@ title: Session Chairs by Session
 
 ### Room A
 
-* mid-morning: None
+* mid-morning: Adaora Oragudosi
 
 * afternoon: Tom Viner
 
