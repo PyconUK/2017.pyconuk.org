@@ -33,15 +33,17 @@ series, co-founded [Trans*Code](http://trans-code.org/) and hosts the
 [Pursuit Podcast](http://pursuit.tech). She's a mentor and advisor for those
 looking to enter the tech industry.
 
-## Simon Brunning
+## Kristian Glass
 
-<img class="avatar" src="/static/img/panel-portraits/simon.jpg" alt="Simon Brunning" />
+<img class="avatar" src="/static/img/panel-portraits/kristian.jpg" alt="Kristian Glass" />
 
-According to the [only known online biography of Simon](https://twitter.com/brunns), he is a, "Father. Nerd.
-Pythonista. Agileista. Guardian reader. Secularist. Rationalist and empiricist.
-Comedy groupie. Good hugger. Music lover. Radio 4." He's also a Technical
-Principal at [ThoughtWorks](https://www.thoughtworks.com/) and has been working
-in the technology industry since the 1980s.
+[Kristian](https://www.doismellburning.co.uk/) is the CTO at
+[LaterPay](https://www.laterpay.net/), leading a team distributed across over a
+dozen countries. Prior to that he ran Moorhen Solutions where he helped growing
+tech companies scale their systems and infrastructure.
+
+He was the treasurer for [PyCon UK 2016](http://2016.pyconuk.org/), and
+co-founder of the PyCon UK Society Ltd and the UK Python Association.
 
 ## Meri Williams
 
