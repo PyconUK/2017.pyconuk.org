@@ -50,17 +50,11 @@ title: Session Chairs by Person
 
 * afternoon: Assembly Room
 
-## None
+## Tim Golden
 
 ### Thursday 26th
 
 * morning: Room A
-
-### Sunday 29th
-
-* morning: Ferrier Hall
-
-* afternoon: Room C
 
 ## Neil Stoker
 
@@ -203,3 +197,11 @@ title: Session Chairs by Person
 ### Sunday 29th
 
 * morning: Room D
+
+## None
+
+### Sunday 29th
+
+* morning: Ferrier Hall
+
+* afternoon: Room C
