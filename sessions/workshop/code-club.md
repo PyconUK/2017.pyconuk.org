@@ -9,33 +9,31 @@ The timetable for Code Club is slightly different to the main conference timetab
 
 09:00 Welcome in Assembly Room
 
-09:15 Physical computing with Python and Raspberry Pi
+09:15 Minecraft Traffic Lights with EduBlocks
 
-Learn to control real world devices using Python
-- this session is designed to show you the building
-blocks of any maker project
+Learn how to control the world of Minecraft using a visual drag and drop programming tool called Edublocks, and even create your own set of traffic lights. So come and join us for a fun packed session of physical computing.
 
-Ben Nuttall
+Josh Lowe
 
-10:15 Introduction to Minecraft Hacking for Teens and Teachers
+10:15 Python with Code Club Projects
 
-Getting started with Python and MinecraftPi
+Learn how to code Python perhaps for the first time in this session with Code Club before embarking on projects this afternoon! 
 
-Dave Ames
+Code Club Rik and Tracy
 
 11:15 BREAK
 
-11:30 Mu with Embedded Devices 
+11:30 Physical Computing in a junk modelling workshop using Python
 
-Nicholas Tollervey and David Whale
+Find out how to put together a simple circuit and code it using Python then use your imagination to create an exciting project using coded LEDs and buttons.
 
-12:30 Science in space!!
+Cat Lamin
 
-Build a science experiment using
-the Raspberry Pi, Sense HAT and camera module
-- and prepare it for space flight
+12:30 Robot Top Trumps
 
-Ben Nuttall
+Create a robot top-trumps game that you can play with your friends.
+
+Code Club Rik
 
 13:30 LUNCH
 
