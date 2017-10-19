@@ -50,15 +50,11 @@ title: Session Chairs by Person
 
 * afternoon: Assembly Room
 
-## Adaora Oragudosi
+## Tim Golden
 
 ### Thursday 26th
 
 * morning: Room A
-
-### Friday 27th
-
-* mid-morning: Room A
 
 ## Neil Stoker
 
@@ -175,6 +171,12 @@ title: Session Chairs by Person
 * morning: Room C
 
 * mid-morning: Room C
+
+## Adaora Oragudosi
+
+### Friday 27th
+
+* mid-morning: Room A
 
 ## Tom Viner
 
