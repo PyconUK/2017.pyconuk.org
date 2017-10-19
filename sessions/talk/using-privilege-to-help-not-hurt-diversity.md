@@ -1,8 +1,8 @@
 original_id: 54CB
-title: "Using privilege to help, not hurt, diversity"
+title: "Using privilege to improve inclusion"
 subtitle: ""
 speaker: alex-chan
-track: 
+track:
 video:
 ---
 GitHub profiles are often used as a proxy for talent and aptitude – surely if somebody’s a “real” developer, they spend all their free time working on code, right? It’s looked upon favourably in job applications, and used by recruiters for the next round of recruit-o-grams.
