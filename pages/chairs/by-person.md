@@ -50,15 +50,17 @@ title: Session Chairs by Person
 
 * afternoon: Assembly Room
 
-## Adaora Oragudosi
+## None
 
 ### Thursday 26th
 
 * morning: Room A
 
-### Friday 27th
+### Sunday 29th
 
-* mid-morning: Room A
+* morning: Ferrier Hall
+
+* afternoon: Room C
 
 ## Neil Stoker
 
@@ -176,6 +178,12 @@ title: Session Chairs by Person
 
 * mid-morning: Room C
 
+## Adaora Oragudosi
+
+### Friday 27th
+
+* mid-morning: Room A
+
 ## Tom Viner
 
 ### Friday 27th
@@ -195,11 +203,3 @@ title: Session Chairs by Person
 ### Sunday 29th
 
 * morning: Room D
-
-## None
-
-### Sunday 29th
-
-* morning: Ferrier Hall
-
-* afternoon: Room C

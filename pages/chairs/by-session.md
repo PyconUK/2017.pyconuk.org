@@ -16,7 +16,7 @@ title: Session Chairs by Session
 
 ### Room A
 
-* morning: Adaora Oragudosi
+* morning: None
 
 * mid-morning: Neil Stoker
 
