@@ -104,7 +104,7 @@ title: Session Chairs by Session
 
 ### Ferrier Hall
 
-* morning: None
+* morning: Kristian Glass
 
 * mid-morning: Alex Chan
 
@@ -128,4 +128,4 @@ title: Session Chairs by Session
 
 * mid-morning: Tim Vivian-Griffiths
 
-* afternoon: None
+* afternoon: Kristian Glass

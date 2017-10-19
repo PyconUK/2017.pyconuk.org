@@ -198,7 +198,7 @@ title: Session Chairs by Person
 
 * morning: Room D
 
-## None
+## Kristian Glass
 
 ### Sunday 29th
 
