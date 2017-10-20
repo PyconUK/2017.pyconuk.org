@@ -176,7 +176,9 @@ def session_view(request, session_type, slug):
     try:
         session = Session.objects.get(key=key)
     except Session.DoesNotExist:
-        redirection = get_object_or_404(Redirection, key=key)
+        redirection = get_object_or_404(
+            Redirection, key='sessions/{}s/{}'.format(session_type, slug)
+        )
         template = 'redirection.html'
         context = {'url': redirection.new_url}
         return render(request, template, context)
