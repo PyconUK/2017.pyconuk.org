@@ -1,5 +1,5 @@
 original_id: 54C0
-title: "Banish your Project Boilerplate"
+title: "Automate your Boilerplate"
 subtitle: "Hitting the Ground Running with Project Templating in Data Science"
 speaker: chris-musselle
 track: pydata
