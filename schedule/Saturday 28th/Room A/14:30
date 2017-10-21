@@ -1,2 +1,2 @@
 chair: null
-session: talk/django-database-gotchas
+session: talk/handling-database-concurrency-with-django
