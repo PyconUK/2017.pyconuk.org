@@ -15,19 +15,29 @@ We [still have tickets](https://hq.pyconuk.org/children/orders/new/) for the
 
 * * *
 
-## Information for Attendees
+# Information for Attendees
 
 You can review your ticket details and the events and meals you've signed up for at 
 [your profile](https://hq.pyconuk.org/). You'll need to sign in using the email
 address with which you booked your ticket.
 
-### Registration & Schedule
+## Registration & Schedule
 
 * The conference runs from 9am to 6.30pm each day.
 * Registration on each day opens at 8am but will be available throughout the day.
+* If you would rather not be in people's photographs, please pick up a **yellow** 
+  lanyard when you register.
+
+### During the day
+
 * View the [Schedule of talks](/schedule/).
+* There's a Lightning Talk session at the end of each day. 
+  We particularly encourage first-time speakers to submit a talk.
 * [Monday](/schedule/#monday) is a day for [Sprints](/sessions/workshops/sprint/): a chance to collaborate on
   your own or someone else's Python project.
+
+### Evenings
+
 * If you've [booked for it](https://hq.pyconuk.org/dinners/conference-dinner/),
   the [Conference Dinner] is on Friday at the conference venue itself in the 
   Lower Hall. The bar will be open from 6.30pm and dinner is served at 7.30pm.
@@ -35,11 +45,12 @@ address with which you booked your ticket.
   [Clink Restaurant](http://theclinkcharity.org/the-clink-restaurants/cardiff-wales/).
   You should try to be at the restaurant by 7.15pm to be seated at 7.30pm.
   If you're a speaker and haven't received an invitation, please [get in touch](/contact/)
-* There are extra events scheduled after-hours, including a [Code Dojo]
-  organised by the [London Python Code Dojo](https://twitter.com/ldnpydojo) team on Thursday and a 
-  [Games Evening] on Saturday.
+* [Code Dojo](/dojo/) on Thursday from 7pm in the Lower Hall. You'll need to have
+  signed up for this via the booking page early this week.
+  The bar will be open and pizza will be available to buy.
+* There will be a [Board Games evening](/board-games/) on Saturday. Details to be confirmed.
 
-### Venue & Accommodation
+## Venue & Accommodation
 
 * PyCon UK takes place at [Cardiff City Hall](http://www.cardiffcityhall.com/find-us)
 * If you need to park nearby because of mobility issues, please [contact us](/contact/) and we'll do our best to help.
@@ -53,7 +64,7 @@ address with which you booked your ticket.
   [accommodation page](/accommodation/) as we have made some arrangements
   with local hostels who may still be able to put you up.
 
-### Communications
+## Communications, Photos &c.
 
 * The Front Desk will be staffed for Registration and general information
   throughout the conference. Please ask there if you need any help.
@@ -62,9 +73,14 @@ address with which you booked your ticket.
   Ticketholders will receive an invitation to join in the week before the conference.
 * You can also follow the [PyCon UK Twitter](https://twitter.com/pyconuk) 
   account for conference announcements
+* If you're talking about PyCon UK on social media, please use the tag
+  #pyconuk for consistency.
+* You're welcome to take photos but please be aware that people wearing
+  **yellow** lanyards have requested that their photo not be taken. We ask you
+  to respect people's wishes.
 * For general queries please contact the [organising committee](/contact/)
 
-### Food & Drink
+## Food & Drink
 
 * Coffee & pastries will be available before the start of the conference
   but if you want a proper breakfast you'd do well to explore Cardiff's
@@ -78,9 +94,10 @@ address with which you booked your ticket.
 * There are two official conference Dinners, one for the whole conference,
   the other for Contributors (speakers, volunteers etc.). On other nights, or if 
   you have not booked for those dinners, people tend to self-organise into
-  groups. Feel free to use the [PyCon UK Slack Channel](https://pyconuk-2017.slack.com)  for this purpose.
+  groups. Feel free to use the [PyCon UK Slack Channel](https://pyconuk-2017.slack.com) 
+  for this purpose.
 
-### Atmosphere
+## Atmosphere
 
 We very much want PyCon UK to be a welcoming event where everyone feels
 comfortable. Please take the time to read about our approach to 
@@ -89,7 +106,7 @@ comfortable. Please take the time to read about our approach to
 We ask all those attending the conference to respect all other attendees
 and to honour our [Code of Conduct](/code-of-conduct/).
 
-### Other events at PyCon UK
+## Other events at PyCon UK
 
 * [PyData](/pydata/) (Thursday to Sunday) Talks and workshops about data science, put on in collaboration with [PyData London](https://london.pydata.org/). Access is included in the price of the conference ticket.
 
@@ -106,7 +123,7 @@ and to honour our [Code of Conduct](/code-of-conduct/).
 * [Trans*Code](/transcode/) (Monday) A day-long hackathon to address issues facing the trans* and nonbinary community. The day is open to all trans* and nonbinary people and allies, and we welcome participants from all skill levels and backgrounds.
 
 
-### Useful Links
+## Useful Links
 
 * [The PyCon UK Shop](https://shop.spreadshirt.co.uk/pyconuk/)
 <!-- Begin MailChimp Signup Form -->
