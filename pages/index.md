@@ -4,7 +4,8 @@ template: index.html
 
 PyCon UK is the annual gathering of the UK Python community and its friends from around the world.
 This year, we return to [Cardiff City Hall](http://www.cardiffcityhall.com/),
-from Thursday 26th to Monday 30th October.
+from Thursday 26th to Monday 30th October. *Don't forget that clocks go back
+between Saturday 28th and Sunday 29th October.*
 
 **_Sold Out_**: we are completely sold out with over 700 people coming. We regret
 that we have no waiting list. If you are a sponsor or a speaker with a query about
@@ -25,12 +26,16 @@ address with which you booked your ticket.
 
 * The conference runs from 9am to 6.30pm each day.
 * Registration on each day opens at 8am but will be available throughout the day.
+* if you're attending Picademy you need not register with the conference
+  unless you're _also_ attending the conference proper, in which case, please do.
 * If you would rather not be in people's photographs, please pick up a **yellow** 
   lanyard when you register.
 
 ### During the day
 
 * View the [Schedule of talks](/schedule/).
+* During the Saturday lunchtime slots, there will be a Poster Session outside
+  the dining hall. Please stop by and talk to the people displaying.
 * There's a Lightning Talk session at the end of each day. 
   We particularly encourage first-time speakers to submit a talk.
 * [Monday](/schedule/#monday) is a day for [Sprints](/sessions/workshops/sprint/): a chance to collaborate on
