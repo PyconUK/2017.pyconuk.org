@@ -39,7 +39,7 @@ address with which you booked your ticket.
 ### Evenings
 
 * If you've [booked for it](https://hq.pyconuk.org/dinners/conference-dinner/),
-  the [Conference Dinner] is on Friday at the conference venue itself in the 
+  the Conference Dinner is on Friday at the conference venue itself in the 
   Lower Hall. The bar will be open from 6.30pm and dinner is served at 7.30pm.
 * The invitation-only Contributors' Dinner is on Sunday at the 
   [Clink Restaurant](http://theclinkcharity.org/the-clink-restaurants/cardiff-wales/).
