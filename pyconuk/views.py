@@ -116,16 +116,16 @@ def schedule_view(request):
     rooms_in_order = {
         'Thursday 26th': [
             'Assembly Room',
-            'Room A',
-            'Room B',
             'Room C',
+            'Room B',
+            'Lower Hall',
             'Ferrier Hall',
         ],
         'Friday 27th': [
             'Assembly Room',
             'Room D',
             'Room C',
-            'Room A',
+            'Room L',
             'Room B',
             'Room I',
             'Room J',
