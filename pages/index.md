@@ -8,7 +8,7 @@ from Thursday 26th to Monday 30th October.
 
 **_Sold Out_**: we are completely sold out with over 700 people coming. We regret
 that we have no waiting list. If you are a sponsor or a speaker with a query about
-tickets please contact the [organising committee](/contact/)    .
+tickets please contact the [organising committee](/contact/).
 
 We [still have tickets](https://hq.pyconuk.org/children/orders/new/) for the 
 [Children's Day](/education/).
@@ -17,7 +17,7 @@ We [still have tickets](https://hq.pyconuk.org/children/orders/new/) for the
 
 ## Information for Attendees
 
-You can review your talk details and the events and meals you've signed up for at 
+You can review your ticket details and the events and meals you've signed up for at 
 [your profile](https://hq.pyconuk.org/). You'll need to sign in using the email
 address with which you booked your ticket.
 
@@ -25,33 +25,41 @@ address with which you booked your ticket.
 
 * The conference runs from 9am to 6.30pm each day.
 * Registration on each day opens at 8am but will be available throughout the day.
-* The [Schedule of talks](/schedule/) is available on the PyCon UK website.
-* [Monday](/schedule/#monday) is a day for Sprints: a chance to collaborate on
+* View the [Schedule of talks](/schedule/).
+* [Monday](/schedule/#monday) is a day for [Sprints](/sessions/workshops/sprint/): a chance to collaborate on
   your own or someone else's Python project.
-* The [Conference Dinner](https://hq.pyconuk.org/dinners/conference-dinner/) 
-  is on Friday at the conference venue itself in the Lower Hall. 
-  The bar will be open from 6.30pm and dinner is served at 7.30pm.
-* The Contributors' Dinner is on Sunday at the 
-  [Clink Restaurant](http://theclinkcharity.org/the-clink-restaurants/cardiff-wales/) at [whatever time]
+* If you've [booked for it](https://hq.pyconuk.org/dinners/conference-dinner/),
+  the [Conference Dinner] is on Friday at the conference venue itself in the 
+  Lower Hall. The bar will be open from 6.30pm and dinner is served at 7.30pm.
+* The invitation-only Contributors' Dinner is on Sunday at the 
+  [Clink Restaurant](http://theclinkcharity.org/the-clink-restaurants/cardiff-wales/).
+  You should try to be at the restaurant by 7.15pm to be seated at 7.30pm.
+  If you're a speaker and haven't received an invitation, please [get in touch](/contact/)
 * There are extra events scheduled after-hours, including a [Code Dojo]
   organised by the [London Python Code Dojo](https://twitter.com/ldnpydojo) team on Thursday and a 
   [Games Evening] on Saturday.
 
-### Venue
+### Venue & Accommodation
 
 * PyCon UK takes place at [Cardiff City Hall](http://www.cardiffcityhall.com/find-us)
 * If you need to park nearby because of mobility issues, please [contact us](/contact/) and we'll do our best to help.
 * For other parking, you're advised to pre-book via 
   [NCP Cardiff](https://www.ncp.co.uk/parking-solutions/cities/cardiff)
   or make other parking arrangements.
-* [A map] of the conference rooms in the City Hall
+* [A map](http://www.cardiffcityhall.com/rooms) of the conference rooms in the City Hall. 
+  [Ground Floor (PDF)](http://www.cardiffcityhall.com/groundfloorplan.pdf)
+  [First Floor (PDF)](http://www.cardiffcityhall.com/firstfloorplan.pdf)
+* If you're having trouble finding somewhere to stay please see the 
+  [accommodation page](/accommodation/) as we have made some arrangements
+  with local hostels who may still be able to put you up.
 
 ### Communications
 
 * The Front Desk will be staffed for Registration and general information
   throughout the conference. Please ask there if you need any help.
 * During the conference the [PyCon UK Slack channel](https://pyconuk-2017.slack.com) 
-  will be used to share announcements and other information
+  will be used to share announcements and other information.
+  Ticketholders will receive an invitation to join in the week before the conference.
 * You can also follow the [PyCon UK Twitter](https://twitter.com/pyconuk) 
   account for conference announcements
 * For general queries please contact the [organising committee](/contact/)
@@ -70,7 +78,7 @@ address with which you booked your ticket.
 * There are two official conference Dinners, one for the whole conference,
   the other for Contributors (speakers, volunteers etc.). On other nights, or if 
   you have not booked for those dinners, people tend to self-organise into
-  groups [perhaps using the Slack channel? TJG].
+  groups. Feel free to use the [PyCon UK Slack Channel](https://pyconuk-2017.slack.com)  for this purpose.
 
 ### Atmosphere
 
@@ -81,18 +89,22 @@ comfortable. Please take the time to read about our approach to
 We ask all those attending the conference to respect all other attendees
 and to honour our [Code of Conduct](/code-of-conduct/).
 
-### Parallel Tracks
+### Other events at PyCon UK
 
-PyCon UK is playing host to a number of parallel tracks. These will be
-taking place on different days during the conference and we hope that
-those attending will feel at home in the main conference.
+* [PyData](/pydata/) (Thursday to Sunday) Talks and workshops about data science, put on in collaboration with [PyData London](https://london.pydata.org/). Access is included in the price of the conference ticket.
 
-* [Picademy](/education/)
-* [Code Club](/sessions/workshops/code-club/)
-* [Raspberry Jam](/sessions/workshops/raspberry-jam/)
-* [PyData](/pydata/)
-* [Trans*code](/transcode/)
-* [Django Girls](/django-girls/)
+* [Django Girls](https://djangogirls.org/pyconuk2017/) (Thursday) A beginner-friendly Python and Django workshop designed to inspire women to fall in love with programming. Applications are closed. If you have any questions, please contact the Django Girls organisers by email: [pyconuk@djangogirls.org](mailto:pyconuk@djangogirls.org).
+
+* [Picademy](https://www.raspberrypi.org/training/picademy/) (Thursday and Friday) A professional development programme for teachers, organised by the [Raspberry Pi Foundation](https://www.raspberrypi.org/). Applications are closed. Attendees should already have received their information packs. If you have any questions, please [contact the Raspberry Pi Foundation directly](https://www.raspberrypi.org/contact/).
+
+* [Talks for teachers](/schedule/#saturday) (Saturday) A day of talks in Room D about Python and education. Non-teachers are very welcome!
+
+* [Code Club](/sessions/workshops/code-club/) (Saturday) Coding workshops for kids aged under 13. Led by [Code Club](https://www.codeclub.org.uk/) champions and volunteers, we'll be running activities for young coders' using Python to create games and more. There will also be a special session on programming micro:bits and Adafruit's Circuit Playground Express boards - not to be missed! [Tickets cost £5 and are still on sale!](https://hq.pyconuk.org/children/orders/new/)
+
+* [Raspberry Jam](/sessions/workshops/raspberry-jam/) (Saturday) More coding workshops, for young people aged over 13, or anyone looking to do more advanced projects. The [Raspberry Pi Foundation](https://www.raspberrypi.org/) will be running a Raspberry Jam - and parents and guardians can join in too! We'll be running a variety of digital making activities using Python on the Raspberry Pi. [Tickets cost £5 and are still on sale!](https://hq.pyconuk.org/children/orders/new/)
+
+* [Trans*Code](/transcode/) (Monday) A day-long hackathon to address issues facing the trans* and nonbinary community. The day is open to all trans* and nonbinary people and allies, and we welcome participants from all skill levels and backgrounds.
+
 
 ### Useful Links
 
