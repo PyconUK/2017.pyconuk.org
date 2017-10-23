@@ -50,11 +50,13 @@ address with which you booked your ticket.
   [Clink Restaurant](http://theclinkcharity.org/the-clink-restaurants/cardiff-wales/).
   You should try to be at the restaurant by 7.15pm to be seated at 7.30pm.
   If you're a speaker and haven't received an invitation, please [get in touch](/contact/)
-* **Code Dojo**: [Code Dojo](/dojo/) on Thursday from 7pm in the Lower Hall. You'll need to have
-  signed up for this via the booking page early this week.
+* **Code Dojo**: [Code Dojo](/dojo/) on Thursday from 7pm in the Lower Hall.
+  You'll need to have signed up for this via the booking page early this week.
   The bar will be open and pizza will be available to buy.
 * **Board Games Evening**: There will be a [Board Games evening](/board-games/) on Saturday from 7pm
-  in the Lower Hall. Please bring board games if you have them, we'll be on hand to help match
+  in the Lower Hall.
+  You'll need to have signed up for this via the booking page early this week.
+  Please bring board games if you have them, we'll be on hand to help match
   people to games if you don't. The bar will be open and pizza will be
   available to buy.
 * Please feel free to use the [PyCon UK Slack]((https://pyconuk-2017.slack.com))
@@ -63,12 +65,12 @@ address with which you booked your ticket.
 
 ## Venue & Accommodation
 
-* **Venue**: PyCon UK takes place at [Cardiff City Hall](http://www.cardiffcityhall.com/find-us). 
-  There are PDF maps of the [Ground](http://www.cardiffcityhall.com/groundfloorplan.pdf) 
-  and [First](http://www.cardiffcityhall.com/firstfloorplan.pdf) floors where the 
+* **Venue**: PyCon UK takes place at [Cardiff City Hall](http://www.cardiffcityhall.com/find-us).
+  There are PDF maps of the [Ground](http://www.cardiffcityhall.com/groundfloorplan.pdf)
+  and [First](http://www.cardiffcityhall.com/firstfloorplan.pdf) floors where the
   conference rooms are situated. There is also an overview of the [City Hall
   layout](http://www.cardiffcityhall.com/rooms).
-* **Mobility Parking**: If you need to park nearby because of mobility issues, 
+* **Mobility Parking**: If you need to park nearby because of mobility issues,
   please [contact us](/contact/) and we'll do our best to help.
 * **Parking in Cardiff**: For other parking, you're advised to pre-book via
   [NCP Cardiff](https://www.ncp.co.uk/parking-solutions/cities/cardiff)
@@ -95,8 +97,8 @@ address with which you booked your ticket.
 
 ## Food & Drink
 
-* **Coffee**: Coffee & pastries (including Welsh cakes) will be available before 
-  the start of the conference and during the breaks. If you want a proper 
+* **Coffee**: Coffee & pastries (including Welsh cakes) will be available before
+  the start of the conference and during the breaks. If you want a proper
   breakfast you'd do well to explore Cardiff's cafe culture.
 * **Lunch**: The conference ticket includes lunch which will be available between 1pm and 2.30pm.
   Since we're feeding upwards of 700 people you will be offered a sitting between those times
