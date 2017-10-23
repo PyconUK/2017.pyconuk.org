@@ -36,6 +36,12 @@
   {% include '_content.html' with content=content content_format=content_format %}
 </article>
 
+<article>
+  <div class="content sponsors-list">
+    {% include "_sponsor_table.html" %}
+  </div>
+</article>
+
 <!-- this is a hack to persuade django-amber to build pages that aren't linked to from anywhere else -->
 <div display="hidden">
   <a href="/unlinked-pages/"></a>

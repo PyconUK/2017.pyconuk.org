@@ -54,17 +54,17 @@ def unlinked_pages(request):
     template = 'unlinked_pages.html'
 
     urls = [
+        '/board-games/',
         '/cfp/',
         '/django-girls/',
         '/kids/',
         '/pinner-award/',
-        '/sessions/',
         '/session-chairing/',
+        '/sessions/',
         '/speakers/',
-        '/sponsors/',
+        '/sponsorship/',
         '/tickets/',
         '/transcode/',
-        '/board-games/',
     ]
 
     for redirection in Redirection.objects.order_by('key'):
