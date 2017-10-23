@@ -1,5 +1,7 @@
 title: Code Dojo
 ---
+- **Where**: Lower Hall
+- **When**: Thursday 19:00 - 22:30
 
 On Thursday evening we'll be running a Python Code Dojo in the Lower Hall,
 based on the long-running [London Python Code Dojo](http://ldnpydojo.org.uk/) series,
@@ -21,6 +23,6 @@ The layout of the evening is as follows:
   how far they got, what they tried, what worked, what didn't.
 * We go home happy
 
-Because we can't accommodate the entire conference, you'll be sent a link
-to sign up via the PyCon UK booking site. The bar will be open and pizza
-will be available to buy.
+There will be pizza for sale and a cash bar, and of course plenty of space for you to play games.
+
+*For catering purposes, please let us know you're coming by [updating your profile](https://hq.pyconuk.org/profile/).*
