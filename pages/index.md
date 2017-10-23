@@ -28,14 +28,14 @@ address with which you booked your ticket.
 * **Registration**: opens each day at 8am but will be available throughout the day.
 * **Picademy**: If you're attending Picademy you need not register with the conference
   unless you're _also_ attending the conference proper, in which case, please do.
-* **Do not photo?**: If you would rather not be in people's photographs, please
+* **Do not photo me?**: If you would rather not be in people's photographs, please
   pick up a **yellow** lanyard when you register.
 
 ### During the day
 
 * **Schedule**: View the [Schedule](/schedule/) of keynotes, talks, workshops and panels
 * **Poster Session**: During the Saturday lunchtime slots, there will be a Poster Session outside
-  the dining hall. Please stop by and talk to the people displaying.
+  the dining hall. Please stop by and talk to the people displaying posters.
 * **Lightning Talks**: There's a [Lightning Talk](/sessions/talk/lightning-talks) session at the end of each day.
   We particularly encourage first-time speakers to submit a talk.
 * **Sprints**: [Monday](/schedule/#monday) is a day for [Sprints](/sessions/workshops/sprint/): a chance to collaborate on
@@ -63,14 +63,16 @@ address with which you booked your ticket.
 
 ## Venue & Accommodation
 
-* **Venue**: PyCon UK takes place at [Cardiff City Hall](http://www.cardiffcityhall.com/find-us)
-* **Mobility Parking**: If you need to park nearby because of mobility issues, please [contact us](/contact/) and we'll do our best to help.
+* **Venue**: PyCon UK takes place at [Cardiff City Hall](http://www.cardiffcityhall.com/find-us). 
+  There are PDF maps of the [Ground](http://www.cardiffcityhall.com/groundfloorplan.pdf) 
+  and [First](http://www.cardiffcityhall.com/firstfloorplan.pdf) floors where the 
+  conference rooms are situated. There is also an overview of the [City Hall
+  layout](http://www.cardiffcityhall.com/rooms).
+* **Mobility Parking**: If you need to park nearby because of mobility issues, 
+  please [contact us](/contact/) and we'll do our best to help.
 * **Parking in Cardiff**: For other parking, you're advised to pre-book via
   [NCP Cardiff](https://www.ncp.co.uk/parking-solutions/cities/cardiff)
   or make other parking arrangements.
-* **Floor Plan**: [A map](http://www.cardiffcityhall.com/rooms) of the conference rooms in the City Hall.
-  [Ground Floor (PDF)](http://www.cardiffcityhall.com/groundfloorplan.pdf)
-  [First Floor (PDF)](http://www.cardiffcityhall.com/firstfloorplan.pdf)
 * **Accommodation**: If you're having trouble finding somewhere to stay please see the
   [accommodation page](/accommodation/) as we have made some arrangements
   with local hostels who may still be able to put you up.
@@ -93,9 +95,9 @@ address with which you booked your ticket.
 
 ## Food & Drink
 
-* **Coffee**: Coffee & pastries will be available before the start of the conference
-  and during the breaks but if you want a proper breakfast you'd do well to explore Cardiff's
-  cafe culture.
+* **Coffee**: Coffee & pastries (including Welsh cakes) will be available before 
+  the start of the conference and during the breaks. If you want a proper 
+  breakfast you'd do well to explore Cardiff's cafe culture.
 * **Lunch**: The conference ticket includes lunch which will be available between 1pm and 2.30pm.
   Since we're feeding upwards of 700 people you will be offered a sitting between those times
   when you register. It will help organise things if you can stick to that sitting
@@ -134,7 +136,7 @@ and to honour our [Code of Conduct](/code-of-conduct/).
 
 ## Useful Links
 
-* **[The PyCon UK Shop]**(https://shop.spreadshirt.co.uk/pyconuk/)
+* [**The PyCon UK Shop**](https://shop.spreadshirt.co.uk/pyconuk/)
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 <div id="mc_embed_signup">
