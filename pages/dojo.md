@@ -11,7 +11,7 @@ _is_ a place where beginners or less experienced coders can join in.
 The layout of the evening is as follows:
 
 * We eat, drink and socialise
-* We choose a challenge
+* We usually choose a challenge, but in this case we're going write bots to play each other at this Python game: https://robotgame.net/
 * We break up into teams
 * Each team decides how to approach the challenge, both from
   a technical and from a team perspective.
