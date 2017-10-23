@@ -59,7 +59,7 @@ address with which you booked your ticket.
   Please bring board games if you have them, we'll be on hand to help match
   people to games if you don't. The bar will be open and pizza will be
   available to buy.
-* Please feel free to use the [PyCon UK Slack]((https://pyconuk-2017.slack.com))
+* Please feel free to use the [PyCon UK Slack](https://pyconuk-2017.slack.com)
   #social channel to organise meetups and events with other conference attendees.
   _Ticketholders will receive an invitation to join in the week before the conference._
 
