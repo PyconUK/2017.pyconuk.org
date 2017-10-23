@@ -125,7 +125,7 @@ and to honour our [Code of Conduct](/code-of-conduct/).
 ### The Zen of PyCon UK
 It can be intimidating coming to a conference of several hundred people, especially
 when they all seem to be so much more at home than you are. We propose the
-Zen of PyCon UK which we hope newcomers and old-timers alike will benefit from:
+Zen of PyCon UK which we hope newcomers and old hands alike will benefit from:
 
 * Never be afraid to ask someone's name
 * Never be afraid to ask someone's name *again*
