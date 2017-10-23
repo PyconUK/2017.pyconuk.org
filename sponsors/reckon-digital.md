@@ -13,5 +13,5 @@ manufacturing, healthcare, finance and NGOs.
 We are particularly fond of the Python programming language, which we regularly
 use for data science and operations research. A steadily growing business,
 Reckon Digital is always looking for new passionate Python developers willing
-to join its team in London. [Drop us an email](info@reckondigital.com) if
+to join its team in London. Drop us an email (info@reckondigital.com) if
 you're looking for a new exciting work opportunity!

@@ -42,6 +42,7 @@ def sponsor_view(request, key):
 
     context = {
         'content': sponsor.content,
+        'content_format': sponsor.content_format,
         'sponsor': sponsor,
         'title': f'Sponsor: {sponsor.name}',
     }
