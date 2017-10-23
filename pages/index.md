@@ -14,6 +14,9 @@ tickets please contact the [organising committee](/contact/).
 **Children's Day Tickets**: We [still have tickets](https://hq.pyconuk.org/children/orders/new/) for the
 [Children's Day](/education/).
 
+**Questions for the Panel Discussions**: We would like to invite attendees to propose questions for the
+three panel discussions via [this form](https://goo.gl/forms/C3UQqjTBH5ZBLFT53).
+
 * * *
 
 # Information for Attendees
