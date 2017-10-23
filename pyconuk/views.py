@@ -63,6 +63,7 @@ def unlinked_pages(request):
         '/sponsors/',
         '/tickets/',
         '/transcode/',
+        '/board-games/',
     ]
 
     for redirection in Redirection.objects.order_by('key'):
