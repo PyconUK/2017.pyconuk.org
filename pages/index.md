@@ -136,7 +136,7 @@ and to honour our [Code of Conduct](/code-of-conduct/).
 
 * [Raspberry Jam](/sessions/workshops/raspberry-jam/) (Saturday) More coding workshops, for young people aged over 13, or anyone looking to do more advanced projects. The [Raspberry Pi Foundation](https://www.raspberrypi.org/) will be running a Raspberry Jam - and parents and guardians can join in too! We'll be running a variety of digital making activities using Python on the Raspberry Pi. [Tickets cost £5 and are still on sale!](https://hq.pyconuk.org/children/orders/new/)
 
-* [Trans*Code](/transcode/) (Monday) A day-long hackathon to address issues facing the trans* and nonbinary community. The day is open to all trans* and nonbinary people and allies, and we welcome participants from all skill levels and backgrounds.
+* [Trans\*Code](/transcode/) (Monday) A day-long hackathon to address issues facing the trans\* and nonbinary community. The day is open to all trans\* and nonbinary people and allies, and we welcome participants from all skill levels and backgrounds.
 
 
 ## Useful Links
