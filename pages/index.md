@@ -39,7 +39,7 @@ address with which you booked your ticket.
 * **Schedule**: View the [Schedule](/schedule/) of keynotes, talks, workshops and panels
 * **Poster Session**: During the Saturday lunchtime slots, there will be a Poster Session outside
   the dining hall. Please stop by and talk to the people displaying posters.
-* **Lightning Talks**: There's a [Lightning Talk](/sessions/talks/lightning-talks) session at the end of each day.
+* **Lightning Talks**: There's a [Lightning Talk](/sessions/talks/lightning-talks/) session at the end of each day.
   We particularly encourage first-time speakers to submit a talk.
 * **Sprints**: [Monday](/schedule/#monday) is a day for [Sprints](/sessions/workshops/sprint/): a chance to collaborate on
   your own or someone else's Python project.
