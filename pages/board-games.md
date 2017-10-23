@@ -9,6 +9,8 @@ If you're a board games fan - please bring your favourite game and play with oth
 
 There will be pizza for sale and a cash bar, and of course plenty of space for you to play games.
 
+*For catering purposes, please let us know you're coming by [updating your profile](https://hq.pyconuk.org/profile/).*
+
 We'll be on hand to help match people without a game to one they might enjoy - obviously we don't know what people will bring, but there's a huge range out there:
 
 - Quick games
