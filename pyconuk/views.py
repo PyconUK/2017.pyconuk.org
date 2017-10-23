@@ -62,7 +62,7 @@ def unlinked_pages(request):
         '/session-chairing/',
         '/sessions/',
         '/speakers/',
-        '/sponsors/',
+        '/sponsorship/',
         '/tickets/',
         '/transcode/',
     ]
