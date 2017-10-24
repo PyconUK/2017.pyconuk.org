@@ -1,5 +1,5 @@
 original_id: C28A
-title: "Lessons from combing micro:bits raspberry pis and tensorflow"
+title: "Lessons from combining micro:bits raspberry pis and tensorflow"
 subtitle: ""
 speaker: luke-spademan
 track: 
