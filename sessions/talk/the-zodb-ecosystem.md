@@ -5,6 +5,6 @@ speaker: christopher-lozinski
 track: 
 video:
 ---
-ZODB is an object-oriented database written in Python and optimized in C. It is heavily used in Pyramid and Plone, but outside of those communities people do not know much about it.  
+ZODB is an object-oriented database written in Python and optimized in C.  It makes it so easy to build trees or graphs of persistent Python objects. Just subclass off of class Persistent, and your applications become persistent.  It is heavily used in Pyramid and Plone.  
 
-This talk introduces the ZODB database,  presents important concepts, and reviews the tools available.
+This talk introduces the ZODB database,  presents important concepts, shows how to build a simple account object, and reviews the tools available.
