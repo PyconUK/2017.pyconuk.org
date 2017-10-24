@@ -41,6 +41,7 @@ address with which you booked your ticket.
   the dining hall. Please stop by and talk to the people displaying posters.
 * **Lightning Talks**: There's a [Lightning Talk](/sessions/talks/lightning-talks/) session at the end of each day.
   We particularly encourage first-time speakers to submit a talk.
+* **Key-signing party**: There will be a [key-signing party](/sessions/workshops/key-signing-party/) on Friday lunchtime in Room C
 * **Sprints**: [Monday](/schedule/#monday) is a day for [Sprints](/sessions/workshops/sprint/): a chance to collaborate on
   your own or someone else's Python project.
 
