@@ -22,4 +22,6 @@ We'll be on hand to help match people without a game to one they might enjoy - o
 
 For a flavour, take a look at what was [nominated for the prestigious Spiel Des Jahres award this year](https://arstechnica.co.uk/gaming/2017/05/game-of-the-year-spiel-des-jahres-nominees/), or fan site [Board Game Geek](https://boardgamegeek.com/)
 
+There'll also (coming to us from MIT via EuroPython) be a [Python Bee](/python-bee/) organised by Emma Gordon.
+
 We look forward to seeing you there!
