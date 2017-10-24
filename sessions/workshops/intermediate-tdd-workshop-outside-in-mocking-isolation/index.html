@@ -51,6 +51,84 @@
 
 <p>This workshop is based on a simple, practical example, where we'll go through a "pragmatic", non-mocky approach, and contrast it with a "purist", highly isolated approach, and see how it illustrates the strength and weaknesses of both approaches.  Hopefully we will conclude with a little discussion of how to get the best out of our tests, based on what it is we want from them.</p>
 
+<h2>preparation required!</h2>
+
+<p>this is a hands-on workshop, so come with a laptop and prepared to follow along.  if you don't then the workshop will be quite boring!</p>
+
+<p>Here's what you need:</p>
+
+<ul>
+<li>Firefox</li>
+<li><a href="https://github.com/mozilla/geckodriver/releases">Geckodriver</a></li>
+<li>A checkout of <a href="https://github.com/hjwp/book-example/">the example repo</a></li>
+<li>and a virtualenv with Python 3.6, django and selenium in it.</li>
+</ul>
+
+<p>more details:</p>
+
+<ol>
+<li>download the example code and create your virtualenv</li>
+</ol>
+
+<p><code>
+git clone https://github.com/hjwp/book-example/ tdd-workshop
+cd tdd-workshop
+git checkout intermediate-workshop-start
+mkvirtualenv --python=python3 tdd-workshop  # or however you like to create virtualenvs
+pip install -r requirements.txt
+</code></p>
+
+<ol>
+<li>download geckodriver from https://github.com/mozilla/geckodriver/releases, unzipping it and check it works:</li>
+</ol>
+
+<p><code>
+geckodriver --version
+geckodriver 0.19.0
+...
+</code></p>
+
+<p>On windows it's usually fine to just have the binary in the same folder as your
+python project (eg next to <em>manage.py</em>).  On linux + macos, you'll need to put
+the geckodriver binary somewhere on your path and make sure it's executable from anywhere.</p>
+
+<p>There are some more tips and hints in the 
+<a href="http://www.obeythetestinggoat.com/book/pre-requisite-installations.html">installations chapter of my book</a>.</p>
+
+<ol>
+<li>Take a look around the example site  with:</li>
+</ol>
+
+<p><code>
+mkdir ../database
+python manage.py migrate
+python manage.py runserver
+</code></p>
+
+<p>it's a very simple to-do lists site...</p>
+
+<ol>
+<li>Run the test suite and check everything works:
+<code>
+pip install selenium
+python manage.py test
+</code></li>
+</ol>
+
+<p>You should see it run 60 tests and all but one should pass. The expected error is <code>Unable to locate element: My lists</code></p>
+
+<h2>If anything doesn't look right, you need to fix it before the workshop!</h2>
+
+<p>There are some detailed installation instrutions at http://www.obeythetestinggoat.com/book/pre-requisite-installations.html</p>
+
+<p>If firefox+geckodriver really refuses to work, you can try switching from
+<code>webdriver.Firefox()</code> to <code>webdriver.Chrome()</code>.  You will need to download a
+thing called "chromedriver" (google it) and have it on the path.</p>
+
+<h1>I look forward to seeing you on Saturday!</h1>
+
+<p>Any problems, do ping me on the conference slack, or email me at obeythetestinggoat@gmail.com</p>
+
         
       </div>
 
