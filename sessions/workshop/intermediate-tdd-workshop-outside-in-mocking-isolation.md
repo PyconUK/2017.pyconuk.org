@@ -22,23 +22,23 @@ Here's what you need:
 
 more details:
 
-1. download the example code and create your virtualenv
+*1. download the example code and create your virtualenv*
 
-```
+<pre>
 git clone https://github.com/hjwp/book-example/ tdd-workshop
 cd tdd-workshop
 git checkout intermediate-workshop-start
 mkvirtualenv --python=python3 tdd-workshop  # or however you like to create virtualenvs
 pip install -r requirements.txt
-```
+</pre>
 
-2. download geckodriver from https://github.com/mozilla/geckodriver/releases, unzipping it and check it works:
+*2. download geckodriver from [here](https://github.com/mozilla/geckodriver/releases), unzip it and check it works:*
 
-```
+<pre>
 geckodriver --version
 geckodriver 0.19.0
 ...
-```
+</pre>
 
 On windows it's usually fine to just have the binary in the same folder as your
 python project (eg next to *manage.py*).  On linux + macos, you'll need to put
@@ -49,27 +49,28 @@ There are some more tips and hints in the
 
 
 
-3. Take a look around the example site  with:
+*3. Take a look around the example site with:*
 
-```
+<pre>
 mkdir ../database
 python manage.py migrate
 python manage.py runserver
-```
+</pre>
 
-it's a very simple to-do lists site...
+it's a very simple to-do lists site...  most of the code of interest is in *lists/models.py* and *lists/views.py*
 
-4. Run the test suite and check everything works:
-```
+*4. Run the test suite and check everything works:*
+
+<pre>
 pip install selenium
 python manage.py test
-```
+</pre>
 
 You should see it run 60 tests and all but one should pass. The expected error is `Unable to locate element: My lists`
 
 ## If anything doesn't look right, you need to fix it before the workshop!
 
-There are some detailed installation instrutions at http://www.obeythetestinggoat.com/book/pre-requisite-installations.html
+There are some detailed installation instructions [here](http://www.obeythetestinggoat.com/book/pre-requisite-installations.html)
 
 If firefox+geckodriver really refuses to work, you can try switching from
 `webdriver.Firefox()` to `webdriver.Chrome()`.  You will need to download a
