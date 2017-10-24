@@ -22,7 +22,7 @@ Here's what you need:
 
 more details:
 
-2. download the example code and create your virtualenv
+1. download the example code and create your virtualenv
 
 ```
 git clone https://github.com/hjwp/book-example/ tdd-workshop
