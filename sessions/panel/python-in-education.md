@@ -9,6 +9,13 @@ This is a panel of four experts answering pre-submitted questions from the
 assembled audience under the guidance of a chairperson. Audience participation
 will be encouraged.
 
+Are you a student learning Python? Do you teach using Python? Perhaps you
+support teachers or create educational resources? You may even be a parent with
+a perspective on how your own children are taught programming! Our panel of
+experts would love to hear from you!
+
+Submit your questions via [this form](https://goo.gl/forms/iNl2p9gtSp1d8dc82).
+
 Think "Question Time" on BBC1 at 10:30pm on a Thursday and you have a pretty
 good idea of what it will be like.
 

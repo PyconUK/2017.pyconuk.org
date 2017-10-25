@@ -7,6 +7,14 @@ video:
 ---
 This is a panel of four experts answering pre-submitted questions from the assembled audience under the guidance of a chairperson. Audience participation will be encouraged.
 
+Fake news on social media, dragnet collection of personal data, being asked to
+write code for the benefit of your employers but that's not necessarily helpful
+for your users, using big data to analyse the behaviour of users, government
+control of the internet, violations of FLOSS licenced code. These subjects and
+more like them are ripe for discussion in this panel.
+
+Submit your questions via [this form](https://goo.gl/forms/iNl2p9gtSp1d8dc82).
+
 Think "Question Time" on BBC1 at 10:30pm on a Thursday and you have a pretty good idea of what it will be like.
 
 ## Carol Willing (Chair)
