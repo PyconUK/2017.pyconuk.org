@@ -81,6 +81,8 @@ address with which you booked your ticket.
 * **Accommodation**: If you're having trouble finding somewhere to stay please see the
   [accommodation page](/accommodation/) as we have made some arrangements
   with local hostels who may still be able to put you up.
+* **First Aid**: If you need first aid or other medical assistance during the
+  conference, please contact the front desk.
 
 ## Communications, Photos &c.
 
