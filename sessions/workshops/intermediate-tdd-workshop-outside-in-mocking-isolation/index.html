@@ -66,27 +66,23 @@
 
 <p>more details:</p>
 
-<ol>
-<li>download the example code and create your virtualenv</li>
-</ol>
+<p><em>1. download the example code and create your virtualenv</em></p>
 
-<p><code>
+<pre>
 git clone https://github.com/hjwp/book-example/ tdd-workshop
 cd tdd-workshop
 git checkout intermediate-workshop-start
 mkvirtualenv --python=python3 tdd-workshop  # or however you like to create virtualenvs
 pip install -r requirements.txt
-</code></p>
+</pre>
 
-<ol>
-<li>download geckodriver from https://github.com/mozilla/geckodriver/releases, unzipping it and check it works:</li>
-</ol>
+<p><em>2. download geckodriver from <a href="https://github.com/mozilla/geckodriver/releases">here</a>, unzip it and check it works:</em></p>
 
-<p><code>
+<pre>
 geckodriver --version
 geckodriver 0.19.0
 ...
-</code></p>
+</pre>
 
 <p>On windows it's usually fine to just have the binary in the same folder as your
 python project (eg next to <em>manage.py</em>).  On linux + macos, you'll need to put
@@ -95,31 +91,28 @@ the geckodriver binary somewhere on your path and make sure it's executable from
 <p>There are some more tips and hints in the 
 <a href="http://www.obeythetestinggoat.com/book/pre-requisite-installations.html">installations chapter of my book</a>.</p>
 
-<ol>
-<li>Take a look around the example site  with:</li>
-</ol>
+<p><em>3. Take a look around the example site with:</em></p>
 
-<p><code>
+<pre>
 mkdir ../database
 python manage.py migrate
 python manage.py runserver
-</code></p>
+</pre>
 
-<p>it's a very simple to-do lists site...</p>
+<p>it's a very simple to-do lists site...  most of the code of interest is in <em>lists/models.py</em> and <em>lists/views.py</em></p>
 
-<ol>
-<li>Run the test suite and check everything works:
-<code>
+<p><em>4. Run the test suite and check everything works:</em></p>
+
+<pre>
 pip install selenium
 python manage.py test
-</code></li>
-</ol>
+</pre>
 
 <p>You should see it run 60 tests and all but one should pass. The expected error is <code>Unable to locate element: My lists</code></p>
 
 <h2>If anything doesn't look right, you need to fix it before the workshop!</h2>
 
-<p>There are some detailed installation instrutions at http://www.obeythetestinggoat.com/book/pre-requisite-installations.html</p>
+<p>There are some detailed installation instructions <a href="http://www.obeythetestinggoat.com/book/pre-requisite-installations.html">here</a></p>
 
 <p>If firefox+geckodriver really refuses to work, you can try switching from
 <code>webdriver.Firefox()</code> to <code>webdriver.Chrome()</code>.  You will need to download a
