@@ -7,6 +7,13 @@ video:
 ---
 This is a panel of four experts answering pre-submitted questions from the assembled audience under the guidance of a chairperson. Audience participation will be encouraged.
 
+Do you want to break into programming? Are you a junior developer wondering
+about the next steps in your career? Perhaps you're at a crossroads in your
+career and wonder what to do next? Is there a problematic issue about the
+workplace that you think should be discussed?
+
+Submit your questions via [this form](https://goo.gl/forms/iNl2p9gtSp1d8dc82).
+
 Think "Question Time" on BBC1 at 10:30pm on a Thursday and you have a pretty good idea of what it will be like.
 
 ## Samathy Barratt (Chair)
