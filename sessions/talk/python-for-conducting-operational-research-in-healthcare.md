@@ -3,7 +3,8 @@ title: "Python for Conducting Operational Research in Healthcare"
 subtitle: ""
 speaker: geraint-palmer
 track: 
-video:
+video: https://www.youtube.com/watch?v=CcEURL392-w
+slides: http://www.geraintianpalmer.org.uk/talks/pyconuk-2017.pdf
 ---
 Operational research (OR) is the use of mathematical and analytical techniques to aid decision making. At Cardiff University there is a dedicated group that uses OR methods such as data analysis, mathematical modelling, and simulation, in the domain of healthcare.
 

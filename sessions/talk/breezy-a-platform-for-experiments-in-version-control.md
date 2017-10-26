@@ -3,7 +3,8 @@ title: "Breezy, a platform for experiments in version control"
 subtitle: ""
 speaker: martin-packman
 track: 
-video:
+video: https://www.youtube.com/watch?v=9vtToynsNSs
+slides: https://git.launchpad.net/~gz/+git/breezypres
 ---
 We are now in a git monoculture in version control system land. Where does that leave us if we want:
 
