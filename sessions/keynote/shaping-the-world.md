@@ -1,5 +1,6 @@
 title: "Shaping the World"
 speaker: david-r-maciver
+slides: http://bit.ly/shaping-the-world-pyconuk
 ---
 How is a software project like the USSR?
 

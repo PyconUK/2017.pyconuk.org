@@ -4,6 +4,7 @@ subtitle: "Config files, command line args, logging and testing for small script
 speaker: chris-withers
 track: 
 video:
+slides: http://slides.simplistix.co.uk/PyConUK2017-boring-things/#/title
 ---
 Whenever we come to write a script, there's a bunch of stuff we don't really want to deal with: command line option processing, config files, user preferences, logging, structuring code for testability.
 

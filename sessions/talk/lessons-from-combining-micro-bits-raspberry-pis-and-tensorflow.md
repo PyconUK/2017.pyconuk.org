@@ -3,7 +3,8 @@ title: "Lessons from combining micro:bits raspberry pis and tensorflow"
 subtitle: ""
 speaker: luke-spademan
 track: 
-video:
+video: https://www.youtube.com/watch?v=gq1-yWH8dFw
+slides: http://slides.com/lukespademan/pyconuk2017/
 ---
 I am 15 year old that came to pyconuk last year and gave a lightening talk on how I made a micro:bit calculator that could then communicate with other micro:bits.
 

@@ -4,6 +4,7 @@ subtitle: ""
 speaker: lukasz-kakol
 track: 
 video:
+slides: http://lukkol.pl/pyconuk2017-performance
 ---
 Idiomatic python is beautiful.
 If you're new to Python, this talk is for you because I'm going to reveal the charm of python in front of you. I'll present how boilerplate code can be replaced with idiomatic python.
