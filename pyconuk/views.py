@@ -65,6 +65,7 @@ def unlinked_pages(request):
         '/sponsorship/',
         '/tickets/',
         '/transcode/',
+        '/zen-of-pycon-uk/',
     ]
 
     for redirection in Redirection.objects.order_by('key'):
