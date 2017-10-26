@@ -3,8 +3,14 @@ title: Reporting harassment
 
 ## How to report harassment
 
-Contact details for committee members who will handle reports of harassment
-will be made available shortly before the conference.
+If you want to make a code of conduct report, you can contact the code of
+conduct committee by:
+
+*   Calling or texting 07743 352447
+*   Sending a private message to one of the organisers (red snakes) in
+    the conference Slack
+*   Finding one of the conference organisers (red badges) wandering around
+    the conference
 
 Should a harassment incident occur, please report it, preferably in writing.
 All reports will be confidential.
