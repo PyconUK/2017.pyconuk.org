@@ -28,7 +28,7 @@ more details:
 git clone https://github.com/hjwp/book-example/ tdd-workshop
 cd tdd-workshop
 git checkout intermediate-workshop-start
-mkvirtualenv --python=python3 tdd-workshop  # or however you like to create virtualenvs
+mkvirtualenv --python=python3.6 tdd-workshop  # or however you like to create virtualenvs
 pip install -r requirements.txt
 </pre>
 
@@ -62,7 +62,7 @@ it's a very simple to-do lists site...  most of the code of interest is in *list
 *4. Run the test suite and check everything works:*
 
 <pre>
-pip install selenium
+pip install selenium fabric3
 python manage.py test
 </pre>
 
