@@ -36,7 +36,7 @@ title: Session Chairs by Session
 
 * morning: Chloe Parkes
 
-* mid-morning: Tom Vine
+* mid-morning: Tom Viner
 
 * afternoon: Ann Barr
 
@@ -52,7 +52,7 @@ title: Session Chairs by Session
 
 * evening: Marco Bonzanini
 
-### Room A
+### Room L
 
 * mid-morning: Adaora Oragudosi
 
@@ -104,7 +104,7 @@ title: Session Chairs by Session
 
 ### Ferrier Hall
 
-* morning: Kristian Glass
+* morning: Kirk Northrop
 
 * mid-morning: Alex Chan
 
@@ -128,4 +128,4 @@ title: Session Chairs by Session
 
 * mid-morning: Tim Vivian-Griffiths
 
-* afternoon: Kristian Glass
+* afternoon: None

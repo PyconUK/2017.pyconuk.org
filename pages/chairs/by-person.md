@@ -50,6 +50,8 @@ title: Session Chairs by Person
 
 * afternoon: Assembly Room
 
+* morning: Ferrier Hall
+
 ## Tim Golden
 
 ### Thursday 26th
@@ -98,11 +100,17 @@ title: Session Chairs by Person
 
 * mid-morning: Room D
 
-## Tom Vine
+## Tom Viner
 
 ### Friday 27th
 
 * mid-morning: Room D
+
+* afternoon: Room L
+
+### Sunday 29th
+
+* mid-morning: Assembly Room
 
 ## Ann Barr
 
@@ -176,17 +184,7 @@ title: Session Chairs by Person
 
 ### Friday 27th
 
-* mid-morning: Room A
-
-## Tom Viner
-
-### Friday 27th
-
-* afternoon: Room A
-
-### Sunday 29th
-
-* mid-morning: Assembly Room
+* mid-morning: Room L
 
 ## Vincent Knight
 
@@ -198,10 +196,8 @@ title: Session Chairs by Person
 
 * morning: Room D
 
-## Kristian Glass
+## None
 
 ### Sunday 29th
-
-* morning: Ferrier Hall
 
 * afternoon: Room C
