@@ -4,6 +4,7 @@ subtitle: "Attacking and defending Machine/Deep Learning Models(Pydata track)"
 speaker: prabhant-singh
 track: pydata
 video:
+slides: https://speakerdeck.com/prabhant/attacks-on-machine-learning
 ---
 The session is about adversarial machine learning. The talk will include
 1.Introduction to adversarial machine learning

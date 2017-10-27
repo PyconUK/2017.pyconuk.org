@@ -4,6 +4,7 @@ subtitle: "Building a scalable data converter, processor and warehouse with tabu
 speaker: andrew-stretton
 track: pydata
 video:
+slides: https://gitpitch.com/strets123/frictionless-pres#/
 ---
 A common problem in Data Engineering is how to create a platform capable both of importing and exporting tabular data in numerous formats and of maintaining a change history of the data while users update and query it.
 

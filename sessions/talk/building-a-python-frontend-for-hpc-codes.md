@@ -4,6 +4,7 @@ subtitle: ""
 speaker: alice-harpole
 track: 
 video: https://www.youtube.com/watch?v=tQuiOyTWfkk
+slides: http://www.southampton.ac.uk/~ah1e14/presentations/pyconuk17/pyconuk17.html#/title
 ---
 HPC (high performance computing) codes are widely used in computational science, however they are often difficult to manage, with complex build processes, reliance on multiple input and parameter files and intricate data processing routines to visualise the results. Typical approaches to automating this often involve shell scripts to try and link these different stages together, however these can also end up being quite complex and unreadable, particularly for less experienced users. 
 

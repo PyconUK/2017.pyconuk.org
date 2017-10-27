@@ -4,6 +4,7 @@ subtitle: "Our experience using Python and Django to develop a science data mana
 speaker: carles-pina-i-estany
 track: 
 video:
+slides: https://cpina.github.io/ace-it-presentation/python-django-en.html#1
 ---
 During the last Antarctic summer we were part of the Antarctic Circumnavigation Expedition. We worked on board the Russian ice-strengthened ship, the Akademik Tryoshnikov, for three months supporting science teams from around the world investigating oceanography, atmospheric science, marine biology amongst other aspects of Antarctic science.
 
