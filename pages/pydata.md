@@ -9,7 +9,6 @@ forces to deliver a data science focussed track at the conference.
 * 10:30 Room C [Frictionless Data, Frictionless Development](/sessions/talks/frictionless-data-frictionless-development/)
 
 * 11:30 Room C [Automated data exploration](/sessions/talks/automated-data-exploration/)
-* 12:00 Room C [Why you should do text analysis in python](/sessions/talks/why-you-should-do-text-analysis-in-python/)
 * 12:30 Room C [Understanding Natural Language with Word Vectors](/sessions/talks/understanding-natural-language-with-word-vectors/)
 
 * 14:30 Room C [Automate your Boilerplate](/sessions/talks/automate-your-boilerplate/)
