@@ -25,6 +25,8 @@ You will also need to install pandas, its' supporting libraries and matplotlib a
 Install details for Pandas [here](https://pandas.pydata.org/pandas-docs/stable/install.html) and matplotlib
 [here](https://matplotlib.org/users/installing.html).
 
+You will also need to install HoloViews, details [here](http://holoviews.org/user_guide/Installing_and_Configuring.html).
+
 ## TL;DR
 Do the following using the pip associated with Python 3 on your machine.
 
@@ -34,6 +36,7 @@ On Linux this was:
 $ sudo pip3 install jupyter
 $ sudo pip3 install pandas
 $ sudo pip3 install matplotlib
+$ sudo pip3 install 'holoviews[all]'
 ```
 The `$` is there to indicate the command line prompt, don't type it!
 
