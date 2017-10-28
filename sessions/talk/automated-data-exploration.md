@@ -4,6 +4,7 @@ subtitle: "Building scalable and efficient analysis pipelines with Dask"
 speaker: victor-zabalza
 track: pydata
 video:
+slides: https://www.slideshare.net/VictorZabalza/automated-data-exploration-building-efficient-analysis-pipelines-with-dask-81328214
 ---
 The first step in any data-intensive project is understanding the available data. To this end, data scientists spend a significant part of their time carrying out data quality assessments and data exploration. In spite of this being a crucial step, it usually requires repeating a series of menial tasks before the data scientist gains an understanding ofthe dataset and can progress to the next steps in the project.
 
