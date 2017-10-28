@@ -47,27 +47,87 @@
 
       <div class="textblock">
         
-        <p>Software testing is an undisputed corner stone of software development. However, as I know from my personal experience, Python users with a non-software-engineering or otherwise scientific background are often not so familiar with the concept of testing.</p>
+        <h2><a href="https://github.com/caichinger/scipy_testing">Workshop GitHub Repo</a></h2>
 
-<p>Computational problems are regularly approached by means of interactive development, which is both fast and fun and one of the reasons why Python is so successful in a wide range of scientific/engineering areas. While implementing, “testing” is implicitly carried out by “looking at the result” - which, on a small range, works pretty well. Yet, this is not what is meant by writing tests.</p>
+<h2>Setup</h2>
 
-<p>Writing tests beforehand, as suggested by test driven development, is sometimes considered clumsy and an approach that does not align very well with the experimental nature of interactive development. </p>
+<p>Please make sure you have the <a href="https://github.com/caichinger/scipy_testing">repo</a> 
+cloned and the environment specified in 
+<a href="https://github.com/caichinger/scipy_testing/blob/master/env.yml">env.yml</a> 
+set up prior to the workshop. </p>
 
-<p>In this talk I want to share my personal experience with testing in scientific/engineering applications and how testing works for me (interactive development, TDD/Unit Testing), using pytest (and doctest).</p>
+<p>If you use conda, you can do</p>
 
-<p>More precisely, the following topics are covered:
-- Why testing? How testing aids software development.
-- What is testing? The purpose of different kind of tests is outlined and compared.
-- How to test? The mechanics of writing and executing a test.
-- How to integrate testing in the workflow? Easing the pain and actually profiting from writing tests.
-- Selected pytest features I like most.
-- Notes on testing numpy.nbarray, pandas.DataFrame objects, coverage and hypothesis.</p>
+<p><code>
+conda env create --file env.yml
+(source) activate scipytesting
+</code></p>
 
-<p>Target audience:
-Engineers/Scientists/People doing interactive development that feel they should write tests but either do not know how to do so or think tests stand in their way of writing awesome code.</p>
+<h2>Abstract</h2>
 
-<p>Disclaimer:
-This talk is not aimed at professional testers nor is it a (in any way) comprehensive introduction to testing.</p>
+<h3>Goals</h3>
+
+<p>Primary Goal:</p>
+
+<blockquote>
+  <p>How can I integrate testing in my interactive development process?</p>
+</blockquote>
+
+<p>Non-Goal:</p>
+
+<blockquote>
+  <p>How can I do this or that kind of test or how does this particular feature of 
+  *test work?</p>
+</blockquote>
+
+<h3>Motivation &amp; Content</h3>
+
+<p>Software testing is an undisputed corner stone of software development. 
+However, as I know from my personal experience, Python users with a 
+non-software-engineering or otherwise scientific background are often not so 
+familiar with the concept of testing.</p>
+
+<p>Computational problems are regularly approached by means of interactive 
+development, which is both fast and fun and one of the reasons why Python is so 
+successful in a wide range of scientific/engineering areas. The widespread 
+adoption of the <a href="http://ipython.org/">IPython</a> and 
+<a href="http://jupyter.org/">Jupyter</a> project are living proof of that.</p>
+
+<p>When carrying out computations, “testing” is implicitly carried out by 
+“looking at the result” - which, on a small range, works pretty well. Yet, 
+this is not what is meant automatic tests.</p>
+
+<p>Writing tests beforehand, as suggested by 
+<a href="https://en.wikipedia.org/wiki/Test-driven_development">Test Driven Development</a>
+(TDD), is sometimes considered clumsy and an approach that does not align very 
+well with the experimental nature of interactive development. Yet, without 
+tests one may quickly get lost in the complexity of even rather small problems.</p>
+
+<p>In this workshop I want to share my personal experience with testing in 
+scientific/engineering applications and how testing works for me using
+tools like <a href="http://engarde.readthedocs.org/">engarde</a>, 
+<a href="https://docs.python.org/3/library/doctest.html">doctest</a>, 
+<a href="http://pytest.org/">pytest</a> and 
+<a href="http://hypothesis.readthedocs.org/">hypothesis</a>.</p>
+
+<p>The workshop focuses on the question "How can I integrate testing in my 
+interactive development process?".</p>
+
+<p>After a general introduction, each of the above libraries will be employed 
+to solve some small exercises to prepare the ground for a slightly more complex 
+computational problem which is then approached in an interactive- and 
+test-writing-manner.</p>
+
+<h3>Target audience</h3>
+
+<p>Engineers/Scientists/People doing interactive development that feel they 
+should write tests but either do not know how to do so or think tests stand in 
+their way of writing awesome code.</p>
+
+<h3>Disclaimer</h3>
+
+<p>This talk is not aimed at professional testers nor is it a (in any way) 
+comprehensive introduction to testing.</p>
 
         
       </div>
