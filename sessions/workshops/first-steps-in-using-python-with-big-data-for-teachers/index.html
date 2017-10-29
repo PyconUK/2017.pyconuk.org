@@ -66,12 +66,6 @@ hands on session might be for you.</p>
 <p>Install details for Pandas <a href="https://pandas.pydata.org/pandas-docs/stable/install.html">here</a> and matplotlib
 <a href="https://matplotlib.org/users/installing.html">here</a>.</p>
 
-<p>You will also need to install HoloViews, details <a href="http://holoviews.org/user_guide/Installing_and_Configuring.html">here</a>.</p>
-
-<p>There are some issues with the version of HoloViews and the version of Bokeh that gets installed by default, the
-workaround is downgrade the Bokeh library from version 0.12.10 to version 0.12.9, which should fix the issue (the last
-two lines below show one way of doing this).</p>
-
 <h2>TL;DR</h2>
 
 <p>Do the following using the pip associated with Python 3 on your machine.</p>
@@ -82,9 +76,6 @@ two lines below show one way of doing this).</p>
 $ sudo pip3 install jupyter
 $ sudo pip3 install pandas
 $ sudo pip3 install matplotlib
-$ sudo pip3 install 'holoviews[all]'
-$ sudo pip3 uninstall bokeh
-$ sudo pip3 install bokeh==0.12.9
 </code>
 The <code>$</code> is there to indicate the command line prompt, don't type it!</p>
 
