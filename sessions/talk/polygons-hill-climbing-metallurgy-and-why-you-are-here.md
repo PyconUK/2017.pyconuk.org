@@ -2,6 +2,7 @@ original_id: C281
 title: "Polygons, hill climbing, metallurgy and why you are here"
 subtitle: "(no philosophical life advice given in this talk)"
 speaker: vincent-knight
+slides: http://vknight.org/Talks/2017-10-29-polygons-hill-climbing-metallurgy-and-why-you-are-here/index.pdf
 track: 
 video:
 ---
