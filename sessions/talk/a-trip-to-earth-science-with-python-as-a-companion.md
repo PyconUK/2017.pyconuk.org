@@ -2,6 +2,7 @@ original_id: 0BA5
 title: "A trip to earth science with python as a companion"
 subtitle: ""
 speaker: nikoleta-e-glynatsi
+slides: https://nikoleta-v3.github.io/talks/talks//2017-10-29-PyConUK/main.pdf
 track: 
 video:
 ---
