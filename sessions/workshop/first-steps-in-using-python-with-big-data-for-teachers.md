@@ -47,5 +47,3 @@ $ sudo pip3 install bokeh==0.12.9
 The `$` is there to indicate the command line prompt, don't type it!
 
 **Please check back closer to the date to check if any other packages need installing too.**
-
-
