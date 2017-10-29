@@ -2,6 +2,7 @@ original_id: 9DE3
 title: "Introduction to Survival Analysis with scikit-survival"
 subtitle: ""
 speaker: sebastian-polsterl
+slides: https://k-d-w.org/pyconuk-2017/
 track: pydata
 video:
 ---
