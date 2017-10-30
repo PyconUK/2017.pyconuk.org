@@ -2,8 +2,9 @@ original_id: 9DEE
 title: "I think I wrote a Rapid Web-Application Development tool"
 subtitle: "Was it a mistake?"
 speaker: emma-delescolle
-track: 
+track:
 video:
+slides: http://bit.ly/djember-RAD
 ---
 It all started with someone asking me about configuring a well known python ERP system for managing members of an organisation.
 My answer was that configuring a full-blown ERP for this kind of task was most likely too much of a hassle and that Django would probably be better suited for that kind of job.
