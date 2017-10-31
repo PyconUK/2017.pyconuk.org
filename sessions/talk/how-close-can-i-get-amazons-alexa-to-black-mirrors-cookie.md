@@ -2,8 +2,9 @@ original_id: 795E
 title: "How close can I get Amazon’s Alexa to Black Mirror’s Cookie"
 subtitle: "an exploration into the rise of smart assistants"
 speaker: zara-siddique
-track: 
+track:
 video:
+slides: http://slides.com/zarasiddique/deck-1
 ---
 From Google Home to Apple’s upcoming HomePod, smart assistants are popping up left, right and centre. As technology becomes more and more embedded within our lives, and our relationship with it becomes increasingly intimate, we must stop and ask some rather uncomfortable questions.
 

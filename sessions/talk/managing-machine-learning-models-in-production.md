@@ -4,6 +4,7 @@ subtitle: ""
 speaker: anand-chitipothu
 track: pydata
 video:
+slides: https://speakerdeck.com/anandology/managing-machine-learning-models-in-production
 ---
 Managing models in production is not a trivial task. It involves many challenges like managing multiple versions of models, deploying them as service, monitoring their performance, making it easier to collaborate with multiple people, etc.
 

@@ -4,6 +4,7 @@ subtitle: ""
 speaker: sebastian-polsterl
 track: pydata
 video:
+slides: https://k-d-w.org/pyconuk-2017/
 ---
 The aim of survival analysis – also referred to as reliability analysis in engineering – is to analyse the time until one or more events happen. Examples from the medical domain are the time until death, until onset of a disease, or until pregnancy. In engineering, the time until the failure of a mechanical system is a common application. In a typical clinical study, the exact time of an event will remain unknown for a subset of individuals, simply because some remained event-free before the study ended or decided to withdraw from the study. For these patients, it is unknown whether they did or did not experience an event after termination of the study. The only valid information is that any (unobserved) event must have occurred after the study ended. This property needs to be considered when applying machine learning to these type of data.
 

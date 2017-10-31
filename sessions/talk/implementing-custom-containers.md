@@ -2,8 +2,9 @@ original_id: C275
 title: "Implementing Custom Containers"
 subtitle: "No, not Docker, Python collections"
 speaker: claus
-track: 
+track:
 video:
+slides: https://github.com/caichinger/slides/tree/master/2017-10-26__PyCon_UK
 ---
 One often encounters the following situation(s):
 - I want to represent my data,
