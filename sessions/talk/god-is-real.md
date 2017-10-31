@@ -4,6 +4,7 @@ subtitle: "unless declared Integer"
 speaker: owen-campbell
 track: 
 video:
+slides: https://github.com/meatballs/pyconuk2017/releases/download/v1.0/main.pdf
 ---
 In the beginning, there was Axelrod...
 
