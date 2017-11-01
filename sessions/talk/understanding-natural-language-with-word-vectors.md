@@ -4,7 +4,7 @@ subtitle: ""
 speaker: marco-bonzanini
 track: pydata
 video:
-slides: https://speakerdeck.com/marcobonzanini/understanding-natural-language-with-word-vectors-1
+slides: https://speakerdeck.com/marcobonzanini/understanding-natural-language-with-word-vectors-at-pycon-uk-2017
 ---
 This talk is an introduction to word vectors, a.k.a. word embeddings, 
 a family of Natural Language Processing (NLP) algorithms
