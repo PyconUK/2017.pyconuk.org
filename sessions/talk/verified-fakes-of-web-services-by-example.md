@@ -4,6 +4,7 @@ subtitle: ""
 speaker: adam-dangoor
 track: 
 video:
+slides: https://www.slideshare.net/AdamDangoor/adam-dangoor-verified-fakes-of-web-services
 ---
 If your code calls a third party service then you may want to test that your code works but you don't want to call the service in your tests.
 

@@ -4,6 +4,7 @@ subtitle: "How I learnt the hard way you shouldn't just write a C compiler"
 speaker: benjamin-misell
 track: 
 video:
+slides: https://docs.google.com/presentation/d/1CI44dKoqvSAUBKAZb5q4GGtxvAhuYdGf48znMQUDThA/edit#slide=id.g253db81ee6_0_140
 ---
 Any of you from the 80's will remember the BBC Micro. Well, I got one about half a year ago and have been fascinated by it ever since. The 8-bit 2MHz limitations are part of the joy of it.
 
