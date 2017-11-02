@@ -4,6 +4,7 @@ subtitle: ""
 speaker: david-seddon
 track: 
 video:
+slides: http://slides.com/davidseddon/db-concurrency/
 ---
 It's easy to forget that your Django site may end up accessing the database several times at once. This can be perilous!
 
