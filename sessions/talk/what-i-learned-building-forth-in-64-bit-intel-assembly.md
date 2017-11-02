@@ -5,6 +5,7 @@ speaker: david-jones
 slides: https://github.com/drj11/forth-pyconuk2017
 track: 
 video:
+slides: https://github.com/drj11/forth-pyconuk2017/blob/master/forth-pyconuk2017.pdf
 ---
 The computer programming language Forth
 was invented by Charles H. Moore
