@@ -4,6 +4,7 @@ subtitle: "How not to Investigate a Software Disaster"
 speaker: paul-ross
 track: 
 video:
+slides: https://github.com/paulross/PyConUK2017
 ---
 So it has finally happened, some dreadful disaster has befallen your organisation: all your systems are down, you've been hacked or some fatal flaw in your software has ruined your whole day. You can't change the past, you can change the future, but only by learning from what went wrong.
 
