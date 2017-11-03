@@ -3,7 +3,7 @@ title: "Verified fakes of web services by example"
 subtitle: ""
 speaker: adam-dangoor
 track: 
-video:
+video: https://www.youtube.com/watch?v=3H0d9lp05vA
 slides: https://www.slideshare.net/AdamDangoor/adam-dangoor-verified-fakes-of-web-services
 ---
 If your code calls a third party service then you may want to test that your code works but you don't want to call the service in your tests.

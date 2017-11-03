@@ -3,7 +3,7 @@ title: "Untangling Data Ownership"
 subtitle: ""
 speaker: vanl
 track: 
-video:
+video: https://www.youtube.com/watch?v=oEu3JK6G5tA
 ---
 We live in the world of "big data," where more data is almost always considered better. Data is usually seen as a raw material - the stuff from which models are built and decisions are made. We may not know, see, or even care where the underlying data comes from. But sometimes our instincts run afoul of laws that decree that too much data, or data from the wrong source, is illegal. This talk is an exploration the legal concepts of ownership and provenance: how the law restricts what data we can use, and ways we can act within the law and reduce risk.
 

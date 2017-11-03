@@ -3,7 +3,7 @@ title: "Machine learning libraries you'd wish you'd known about"
 subtitle: ""
 speaker: ian-ozsvald
 track: pydata
-video:
+video: https://www.youtube.com/watch?v=nDF7_8FOhpI
 ---
 Diagnosing, explaining and scaling machine learning is hard. I'll talk about a set of libraries that have helped me to understand when and how a model is failing, helped me communicate why it is working to non-technical users, automated the search for better models and helped me to scale my modeling. 
 

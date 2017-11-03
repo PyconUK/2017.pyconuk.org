@@ -3,7 +3,7 @@ title: "Jupyter notebooks and collaboration"
 subtitle: ""
 speaker: scott-stevenson
 track: 
-video:
+video: https://www.youtube.com/watch?v=J3k3HkVnd2c
 slides: https://speakerdeck.com/srstevenson/jupyter-notebooks-and-collaboration
 ---
 Git has seen widespread adoption to become the de facto standard for sharing and collaborating on code, and the same is true of Jupyter notebooks as the environment for doing data science. However, herein lies a problem: Git was designed to version plain text files containing source code, and not for storing structured data such as the JSON source of Jupyter notebooks and binary data such as embedded images.

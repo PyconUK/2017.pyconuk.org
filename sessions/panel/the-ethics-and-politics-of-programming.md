@@ -3,7 +3,7 @@ title: Panel Discussion - The Ethics and Politics of Programming
 subtitle: 
 speaker: carol-willing
 track: 
-video:
+video: https://www.youtube.com/watch?v=RERVMxLFpqA
 ---
 This is a panel of four experts answering pre-submitted questions from the assembled audience under the guidance of a chairperson. Audience participation will be encouraged.
 
