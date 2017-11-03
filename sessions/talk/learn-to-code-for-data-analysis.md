@@ -3,7 +3,7 @@ title: "Learn to Code for Data Analysis"
 subtitle: ""
 speaker: michel-wermelinger
 track: pydata
-video:
+video: https://www.youtube.com/watch?v=geI58dmXXBs
 ---
 The 4-week MOOC "Learn to Code for Data Analysis" is a hands-on course that introduces programming and shows how to access open data, clean and analyse it, and produce simple visualisations. The course uses Python, the pandas data analysis library, and the browser–based Jupyter Notebooks as the programming environment. The notebook style allows us to weave explanations, code, and the corresponding results in an interactive document where students do the many exercises. Each weekly project (based on real data from the WHO, UN, World Bank and Weather Underground) is written up in a notebook that can be modified by learners and shared publicly. 
 

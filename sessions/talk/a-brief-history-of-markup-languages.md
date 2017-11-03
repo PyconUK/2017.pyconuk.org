@@ -3,7 +3,7 @@ title: "A brief history of markup languages"
 subtitle: "Where reStructuredText, markdown, etc. came from"
 speaker: tony-ibbs
 track: 
-video:
+video: https://www.youtube.com/watch?v=qQMXPXzrE_s
 ---
 There's a long history to text markup languages, and I don't think most people know much of it.
 

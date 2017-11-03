@@ -3,7 +3,7 @@ title: "Finding bugs for free: The magic of code analysis."
 subtitle: ""
 speaker: mark-shannon
 track: 
-video:
+video: https://www.youtube.com/watch?v=lAvTq4PhM4M
 slides: https://docs.google.com/presentation/d/1PxA2vjVPBGtZ1JwxR8HEQ4x0PCnWFOL3JtotQN-_2NU
 ---
 Code analysis is a powerful technique for improving the quality of software. It allows you to find bugs in your Python code that would be very hard to find with testing, and without  the need for any annotations.

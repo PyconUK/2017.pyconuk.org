@@ -3,7 +3,7 @@ title: "Add GUIs to your data pipelines with Jupyter widgets"
 subtitle: ""
 speaker: pascal-bugnion
 track: pydata
-video:
+video: https://www.youtube.com/watch?v=qAF-WCF_aSM
 ---
 Data science algorithms are often non-deterministic, in contrast to traditional software. The correctness of an algorithm is much more subjective. Being able to easily visualise intermediate stages in a data processing pipeline is therefore tremendously important.
 

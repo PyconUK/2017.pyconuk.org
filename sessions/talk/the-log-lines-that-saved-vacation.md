@@ -3,7 +3,7 @@ title: "The log lines that saved vacation"
 subtitle: "How logging is designed and how to make the most out of it"
 speaker: mario-corchero
 track: 
-video:
+video: https://www.youtube.com/watch?v=ABCEacf0z4Y
 ---
 Logs are your best friend, especially on one of those late nights when you try to troubleshoot a problem in production that was written by a co-worker who is on holiday. Logs are the main way to know what is happening with an application at runtime, but we don’t realise how important they are until we actually need them. Unfortunately, they are usually an under-estimated part of the development process.
 

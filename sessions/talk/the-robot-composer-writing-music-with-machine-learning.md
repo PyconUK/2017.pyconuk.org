@@ -3,7 +3,7 @@ title: "The Robot Composer - Writing Music With Machine Learning"
 subtitle: ""
 speaker: rolo-mawlabaux
 track: pydata
-video:
+video: https://www.youtube.com/watch?v=UY_heSoaoEE
 ---
 Can we get computers to be creative? What even is creativity?
 

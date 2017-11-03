@@ -3,7 +3,7 @@ title: "Building a real-time audio sampling app on the PyBoard"
 subtitle: "A talk exploring MicroPython, the PyBoard and the PyBoard audio module"
 speaker: alan-christie
 track: 
-video:
+video: https://www.youtube.com/watch?v=EYcxfIQySuw
 ---
 While demonstrating the pyboard to a group of colleagues, a challenge was set to produce a practical demonstration of the device that would provide automatic and continuous voice recording and playback of short spoken phrases similar to that found in a number of talking toys.
 
