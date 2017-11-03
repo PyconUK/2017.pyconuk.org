@@ -3,7 +3,7 @@ title: "Creating a Python Web-App for Destiny the Game"
 subtitle: "Using Python and the Flask Microframework to create a web app for Destiny the Game."
 speaker: allyn-hunt
 track: 
-video:
+video: https://www.youtube.com/watch?v=aTV574nBZ4A
 ---
 For the last year and a half I have been working on creating a Python based application for Destiny the game (Play Station, Xbox and soon to be released on PC). I started this project as a practical exercise to increase my knowledge in Python, I have progressed from developing several small scripts, which interface with the game environment, to deploying and managing a Flask based web application.
 I have been blogging about my progress with the application since August 2016, creating several how-to guides, a custom OAuth 2.0 flow that is currently being used by several other Destiny applications, and a full web application. My blog has to date received ~45,000 views.

@@ -3,7 +3,7 @@ title: "Combinatorics, graphs, and complexity"
 subtitle: "How to measure complexity, with thanks to Bletchley codebreaker Bill Tutte (1917-2002)"
 speaker: jonathan-fine
 track: pydata
-video:
+video: https://www.youtube.com/watch?v=S62tfPvSWhI
 slides: https://speakerdeck.com/jfine2358/simplifying-complexity-some-ideas-pyconuk-2017
 ---
 Bill Tutte broke the Lorenz cipher and, after the war, pioneered graph theory and their associated matroids. Each graph G determines a matroid convex polytope G.

@@ -3,7 +3,7 @@ title: "Automate your Boilerplate"
 subtitle: "Hitting the Ground Running with Project Templating in Data Science"
 speaker: chris-musselle
 track: pydata
-video:
+video: https://www.youtube.com/watch?v=kicfCZLxhHA
 ---
 Project templating and scaffolding tools like the cookiecutter Python package can be a great help when starting a new project. They provide a way of generating a predefined layout of files and directories, and can also be parameterised to accept arguments as they are generated. e.g. name of the new project.
 

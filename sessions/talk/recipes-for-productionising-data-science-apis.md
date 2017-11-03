@@ -3,7 +3,7 @@ title: "Recipes for Productionising Data Science APIs"
 subtitle: ""
 speaker: andrew-crozier
 track: pydata
-video:
+video: https://www.youtube.com/watch?v=CCOC_ka-2v0
 ---
 You're a data scientist developing fantastic models with the Python data science stack, and you want to release it into the wild. In this talk, I'll go over some practical solutions to deploying models as HTTP APIs on using the Flask web framework.
 

@@ -3,7 +3,7 @@ title: Panel Discussion - Developer Career Progression
 subtitle: 
 speaker: samathy-barratt
 track: 
-video:
+video: https://www.youtube.com/watch?v=ByPbr57_5H4
 ---
 This is a panel of four experts answering pre-submitted questions from the assembled audience under the guidance of a chairperson. Audience participation will be encouraged.
 
