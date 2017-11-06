@@ -57,6 +57,7 @@ def unlinked_pages(request):
         '/board-games/',
         '/cfp/',
         '/django-girls/',
+        '/from-the-conference-chair/',
         '/kids/',
         '/pinner-award/',
         '/session-chairing/',
