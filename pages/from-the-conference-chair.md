@@ -53,7 +53,7 @@ I'd like to thank our American friends, [Naomi Ceder](https://twitter.com/NaomiC
 
 The conference couldn't happen without the generous support of our sponsors.  There's a full list at the bottom of this page.  I hope you all found sponsoring the conference to be useful.  To the wider community: many of our sponsors are recruiting, so if you're looking for work, get in touch with them!
 
-The [Raspberry Pi Foundation](https://www.raspberrypi.org/) have been supporting the education track at PyCon UK for a number of years.  This year, they ran a [Picademy](https://www.raspberrypi.org/training/picademy/) for teachers on Thursday and Friday, and coordinated Saturday's young coders' day.  The whole team worked incredibly hard!  In particular, I'd like to thank [Carrie Anne Philbin](https://twitter.com/MissPhilbin), James Robinson, and [Ben Nutall](https://twitter.com/ben_nuttall) who were also involved before the conference.
+The [Raspberry Pi Foundation](https://www.raspberrypi.org/) have been supporting the education track at PyCon UK for a number of years.  This year, they ran a [Picademy](https://www.raspberrypi.org/training/picademy/) for teachers on Thursday and Friday, and coordinated Saturday's young coders' day.  The whole team worked incredibly hard!  In particular, I'd like to thank [Carrie Anne Philbin](https://twitter.com/MissPhilbin), James Robinson, and [Ben Nuttall](https://twitter.com/ben_nuttall) who were also involved before the conference.
 
 The [Micro:bit Foundation](https://microbit.org/) provided micro:bits for the young coders' day and ran their own programme of events on Sunday.  Thanks Jonny Austin for setting that up!
 
@@ -71,7 +71,7 @@ Finally, there's the committee (again, all volunteers) who assisted me so ably b
 
 [Daniele Procida](https://twitter.com/evildmp) oversaw programme selection, looked after bookings with all the external suppliers, handled the morning announcements, and lent us his printer.
 
-[George Hickman](https://twitter.com/ghickhman) greased the wheels of the conference's techincal infrastructure and set up the conference Slack.
+[George Hickman](https://twitter.com/ghickhman) greased the wheels of the conference's technical infrastructure and set up the conference Slack.
 
 [Helen Sherwood Taylor](https://twitter.com/helenst) collated all the ideas for badge designs, and generally made herself useful.
 
@@ -95,7 +95,7 @@ Tim Williams has once again been brilliant at co-ordinating the filming of talks
 
 [Vincent Knight](https://twitter.com/drvinceknight) was our Chief Mathematics Officer, and helped with scheduling.
 
-So thanks to all the comittee members.  I've really enjoyed working with you.
+So thanks to all the committee members.  I've really enjoyed working with you.
 
 Finally finally, I'd like to thank my family for being so understanding about my funny hobby for the last two years!
 
