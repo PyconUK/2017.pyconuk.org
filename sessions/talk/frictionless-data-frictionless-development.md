@@ -3,7 +3,7 @@ title: "Frictionless Data, Frictionless Development"
 subtitle: "Building a scalable data converter, processor and warehouse with tabulator, tableschema-py, kubernetes and flask"
 speaker: andrew-stretton
 track: pydata
-video:
+video: https://www.youtube.com/watch?v=oXw81D6eVLM
 slides: https://gitpitch.com/strets123/frictionless-pres#/
 ---
 A common problem in Data Engineering is how to create a platform capable both of importing and exporting tabular data in numerous formats and of maintaining a change history of the data while users update and query it.

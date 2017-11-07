@@ -3,7 +3,7 @@ title: "Visualizing Topic Models"
 subtitle: ""
 speaker: parul-sethi
 track: pydata
-video:
+video: https://www.youtube.com/watch?v=pCio5lApwNw
 ---
 Topic Modelling is a great way to infer topics in a large corpus of text documents but analyzing them could become difficult without any visualization. The purpose of this talk is to introduce the visualizations that aids the process of training topic models and analyze their results  for downstream NLP applications. I’ll give a brief introduction to Topic Models before moving to visualizations.
 

@@ -3,7 +3,7 @@ title: Panel Discussion - Python in Education
 subtitle: 
 speaker: daniel-pope
 track: 
-video:
+video: https://www.youtube.com/watch?v=9kMLW5SzI08
 ---
 This is a panel of four experts answering pre-submitted questions from the
 assembled audience under the guidance of a chairperson. Audience participation
