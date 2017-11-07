@@ -3,7 +3,7 @@ title: "NetworkZero: network support for clubs, classes & dojos"
 subtitle: ""
 speaker: tim-golden
 track: education
-video:
+video: https://www.youtube.com/watch?v=lDIhjtr1Gq8
 ---
 NetworkZero is a Python package designed to make two things easy in a group situation: finding the machines in a network; and sending and receiving messages.
 
