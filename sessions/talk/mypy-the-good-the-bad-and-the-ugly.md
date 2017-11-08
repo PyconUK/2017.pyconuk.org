@@ -3,7 +3,7 @@ title: "MyPy: The Good, The Bad and The Ugly"
 subtitle: "Adding static type checking to a real-world codebase"
 speaker: david-sim
 track: 
-video:
+video: https://www.youtube.com/watch?v=rtfqLJVsuOg
 ---
 We tried adding MyPy type hints to a few thousand lines of reasonably hairy production code. This talk will discuss some of the challenges that we encountered, how we dealt with them, what we learnt, and whether we thought it was worth all the effort. (Spoiler: we did think it was worth all the effort.)
 

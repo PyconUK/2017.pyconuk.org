@@ -3,7 +3,7 @@ title: "You don't have to be mad to work here... but it helps"
 subtitle: "Mental health and the coding community - how can we help each other to cope when life overwhelms us?"
 speaker: cat-lamin
 track: 
-video:
+video: https://www.youtube.com/watch?v=b2aTQz5DVFA
 ---
 Mental health is a taboo subject right? We don't talk about it right? It's embarrassing or something to keep a secret right?
 

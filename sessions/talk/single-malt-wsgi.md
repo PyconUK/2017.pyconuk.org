@@ -3,7 +3,7 @@ title: "Single Malt WSGI"
 subtitle: "Enhance your WSGI applications with Talisker"
 speaker: simon-davy
 track: 
-video:
+video: https://www.youtube.com/watch?v=OkqZNARQ-co
 ---
 This talk will introduce the Talisker project, which is an enhanced WSGI
 application runner based on standard python tools.
