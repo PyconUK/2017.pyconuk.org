@@ -3,7 +3,7 @@ title: "Protecting Your Users From Change: Pythonic Refactoring"
 subtitle: ""
 speaker: mark-smith
 track: 
-video:
+video: https://www.youtube.com/watch?v=NveJKcIhmFg
 ---
 So you've released a library! Now you need to maintain it. You want to add features, restructure the code, fix bugs, and maybe improve the library's usability. Your users just want their code to carry on working. That's okay!
 

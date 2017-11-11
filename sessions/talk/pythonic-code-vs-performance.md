@@ -3,7 +3,7 @@ title: "Pythonic code vs. performance"
 subtitle: ""
 speaker: lukasz-kakol
 track: 
-video:
+video: https://www.youtube.com/watch?v=bK2rHwJJcTs
 slides: http://lukkol.pl/pyconuk2017-performance
 ---
 Idiomatic python is beautiful.

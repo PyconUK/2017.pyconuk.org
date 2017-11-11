@@ -3,7 +3,7 @@ title: "piwheels: a faster Python package repository for RaspberryPi"
 subtitle: "Building a faster Python package repository for Raspberry Pi users by creating ARM platform wheels of everything on PyPI"
 speaker: ben-nuttall
 track:
-video:
+video: https://www.youtube.com/watch?v=g9bwrWjAXEk
 slides: https://speakerdeck.com/bennuttall/piwheels-pyconuk
 ---
 piwheels is a Python package repository providing Python wheels natively compiled for the Raspberry Pi's ARM architecture. It solves the problem that "pip install" can take a long time to build packages implemented in C. Wheels are a general solution to this problem, but PyPI does not currently allow maintainers to upload ARM platform wheels.
