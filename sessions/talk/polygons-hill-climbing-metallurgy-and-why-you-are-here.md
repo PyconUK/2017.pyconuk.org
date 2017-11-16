@@ -4,7 +4,7 @@ subtitle: "(no philosophical life advice given in this talk)"
 speaker: vincent-knight
 slides: http://vknight.org/Talks/2017-10-29-polygons-hill-climbing-metallurgy-and-why-you-are-here/index.pdf
 track: 
-video:
+video: https://www.youtube.com/watch?v=emEJ0tYyDb8
 ---
 Recently there have been a few talks at PyCons about using integer linear programming for scheduling conferences. Some of these have ended in disappointment because the theoretical guarantees did not translate in to practical possibilities.
 

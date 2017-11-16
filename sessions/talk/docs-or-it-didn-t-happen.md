@@ -3,7 +3,7 @@ title: "Docs or it didn't happen!"
 subtitle: "How you can learn to stop worrying and write the docs"
 speaker: mikey-ariel
 track: 
-video:
+video: https://www.youtube.com/watch?v=muhxjdxhIR0
 slides: https://speakerdeck.com/thatdocslady/docs-or-it-didnt-happen
 ---
 If you ever skimmed through a README, tried to follow a quickstart tutorial, attempted to decipher an error message, or typed '--help' in your console, congratulations -- you have encountered documentation! 

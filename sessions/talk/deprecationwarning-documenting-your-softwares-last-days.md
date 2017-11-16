@@ -3,7 +3,7 @@ title: "DeprecationWarning: documenting your software’s last days"
 subtitle: ""
 speaker: daniel-beck
 track: 
-video:
+video: https://www.youtube.com/watch?v=_KUAbhfEraE
 ---
 It could happen to you: your project is canceled, your team is “reorganized”, or your company is closing its doors. Some or all of your software, service, or API may not be long for this world. What will you say to the people using it? In this talk, you’ll learn how to cope when it’s time to break bad news to your users.
 

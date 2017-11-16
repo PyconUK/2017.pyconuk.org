@@ -4,7 +4,7 @@ subtitle: ""
 speaker: nikoleta-e-glynatsi
 slides: https://nikoleta-v3.github.io/talks/talks//2017-10-29-PyConUK/main.pdf
 track: 
-video:
+video: https://www.youtube.com/watch?v=T4Qn2jD3SVM
 ---
 Earthquakes are a natural phenomenon which occurs from the sudden release of energy in the Earth's lithosphere that creates seismic waves. Or put more simply, an earthquake is the shaking of the surface of the Earth! 
 

@@ -3,7 +3,7 @@ title: "Code With Mu"
 subtitle: "How we built a code editor for beginner programmers in Python."
 speaker: nicholas-tollervey
 track: education
-video:
+video: https://www.youtube.com/watch?v=HrblTJnAnPw
 ---
 Mu (http://codewith.mu/) is a text editor for beginner programmers written in Python.
 

@@ -3,7 +3,7 @@ title: "from __future__ import profit"
 subtitle: ""
 speaker: james-campbell
 track: 
-video:
+video: https://www.youtube.com/watch?v=OaHIwmzaXSQ
 ---
 TL;DR - a light hearted introduction on how to make $$$ trading Bitcoin with Python 
  

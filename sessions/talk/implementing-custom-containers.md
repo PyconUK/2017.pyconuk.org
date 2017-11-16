@@ -3,7 +3,7 @@ title: "Implementing Custom Containers"
 subtitle: "No, not Docker, Python collections"
 speaker: claus
 track:
-video:
+video: https://www.youtube.com/watch?v=OrbwNQeBFeQ
 slides: https://github.com/caichinger/slides/tree/master/2017-10-26__PyCon_UK
 ---
 One often encounters the following situation(s):
