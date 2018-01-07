@@ -3,7 +3,7 @@ title: "I think I wrote a Rapid Web-Application Development tool"
 subtitle: "Was it a mistake?"
 speaker: emma-delescolle
 track:
-video:
+video: https://www.youtube.com/watch?v=H_EPck2VIM4
 slides: http://bit.ly/djember-RAD
 ---
 It all started with someone asking me about configuring a well known python ERP system for managing members of an organisation.

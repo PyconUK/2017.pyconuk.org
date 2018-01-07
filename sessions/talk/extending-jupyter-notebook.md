@@ -3,7 +3,7 @@ title: "Extending Jupyter Notebook"
 subtitle: ""
 speaker: fei-shi
 track: pydata
-video:
+video: https://www.youtube.com/watch?v=PL5RQtiFN50
 ---
 The talk will explain the extension mechanisms of Jupyter Notebook, and how to use them to make Notebook server more collaborative:
 •	Jupyter server extensions

@@ -3,7 +3,7 @@ title: "Writing file objects with CFFI"
 subtitle: ""
 speaker: daniel-pope
 track: 
-video:
+video: https://www.youtube.com/watch?v=fjqkY_iVIpg
 ---
 This session will be an introduction to CFFI, taking the example of writing file-like objects that read and write byte streams.
 
