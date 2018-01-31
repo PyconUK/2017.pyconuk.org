@@ -3,7 +3,7 @@ title: "The Modular Mission Planner"
 subtitle: "A tool for generating military plans developed by the Ministry of Defence"
 speaker: rick-ansell
 track: 
-video:
+video: https://www.youtube.com/watch?v=u9cNjnjomDA
 ---
 The Modular Mission Planner (MMP) is a set of Python libraries that enable the automated production of military plans for use within analytical models.
 

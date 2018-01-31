@@ -3,7 +3,7 @@ title: "Intelligent approach to decision-making models"
 subtitle: "Using deep learning to improve parameter recovery from diffusion model for conflict tasks"
 speaker: solveiga-vivian-griffiths
 track: pydata
-video:
+video: https://www.youtube.com/watch?v=53m4uXHSEnQ
 ---
 Tasks in which people make decisions by pressing keyboard buttons have been used extensively in psychology research, yet the only information they can offer about the decision is the speed (how quickly the button was pressed) and correctness (whether the correct button was pressed). In order for these tasks to provide insights into cognitive processes underlying such decisions, they need to be considered in the framework of mathematical models of decision making. Sequential sampling models presume that distinct cognitive processes (represented by model parameters) can be decomposed from task performance.
 

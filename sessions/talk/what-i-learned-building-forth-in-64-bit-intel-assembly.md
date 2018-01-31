@@ -4,7 +4,7 @@ subtitle: "an excursion into what happens when one quirky language from the 1970
 speaker: david-jones
 slides: https://github.com/drj11/forth-pyconuk2017
 track: 
-video:
+video: https://www.youtube.com/watch?v=iZ-5rBQS_p4
 slides: https://github.com/drj11/forth-pyconuk2017/blob/master/forth-pyconuk2017.pdf
 ---
 The computer programming language Forth

@@ -4,7 +4,7 @@ subtitle: ""
 speaker: declan-valters
 track: 
 slides: https://www.slideshare.net/secret/Jn9BMVOxwS6ZSc
-video:
+video: https://www.youtube.com/watch?v=wUD6VayhAz0
 ---
 Cylc ("silk") is a general-purpose Python workflow engine or 'metascheduler'; a system that can automatically execute tasks according to complex schedules and dependencies, and deal with task failures if they occur. We will showcase the applications of Cylc in weather and climate services, and reflect on how its implementation in Python has aided the development of the Cylc software package.
 
